@@ -6,8 +6,8 @@
 name:               "Jonathan New"
 description:        "A blog on tech and other miscellany"
 
-# jekyll-seo-tag, see: http://www.rubydoc.info/gems/jekyll-seo-tag/1.2.0
-url:                "//blog.jonnew.com"
+
+url:                "blog.jonnew.com"
 author:             "newtang"
 twitter:
   username:         "newtang"
@@ -46,6 +46,3 @@ defaults:
       type:         "posts"
     values:
       layout:       "post"
-
-gems:
-  - jekyll-seo-tag
