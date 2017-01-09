@@ -1,9 +1,9 @@
 # Mandatory settings
-
+baseurl: "/"
 name: Chalk
 paginate: 25
 paginate_path: "/posts/page/:num/"
-url: # add site url http://example.com/
+url: "blog.jonnew.com" # add site url http://example.com/
 blog_theme: light # Or use dark
 
 # Optional settings
