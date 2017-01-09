@@ -8,7 +8,7 @@ description:        "A blog on tech and other miscellany"
 
 # jekyll-seo-tag, see: http://www.rubydoc.info/gems/jekyll-seo-tag/1.2.0
 url:                "//blog.jonnew.com"
-author:             "gfjaru"
+author:             "newtang"
 twitter:
   username:         "newtang"
 #facebook:
@@ -26,7 +26,7 @@ markdown:           kramdown
 # Navigation
 nav:
 #  - name:           "About"
-#    href:           "//kiko.gfjaru.com/about"
+#    href:           "//blog.jonnew.com/about"
 
 # Sass
 sass:
