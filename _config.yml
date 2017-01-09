@@ -3,14 +3,14 @@
 # # # # # # # #
 
 # Basic
-name:               "Jonathan New"
-description:        "A blog on tech and other miscellany"
+name:               "Kiko"
+description:        "a clean, lightweight and minimalistic blog theme for jekyll"
 
-
-url:                "blog.jonnew.com"
-author:             "newtang"
+# jekyll-seo-tag, see: http://www.rubydoc.info/gems/jekyll-seo-tag/1.2.0
+url:                "//kiko.gfjaru.com"
+author:             "gfjaru"
 twitter:
-  username:         "newtang"
+  username:         "gfjaru"
 #facebook:
 #  app_id:           1234
 #    publisher:      1234
@@ -25,8 +25,10 @@ markdown:           kramdown
 
 # Navigation
 nav:
-#  - name:           "About"
-#    href:           "//blog.jonnew.com/about"
+  - name:           "About"
+    href:           "//kiko.gfjaru.com/about"
+  - name:           "Download"
+    href:           "//github.com/gfjaru/Kiko/releases"
 
 # Sass
 sass:
@@ -46,3 +48,6 @@ defaults:
       type:         "posts"
     values:
       layout:       "post"
+
+gems:
+  - jekyll-seo-tag
