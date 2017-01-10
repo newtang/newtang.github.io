@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "First!"
+date:   2017-01-07 19:52:16 -0800
+categories: blog
+---
+Welcome! The internet has a shortage of half-abandoned blogs, so I thought would contribute. I hope to post a few times a year on various technical things as well as other odds and ends that I can't fit in a tweet. 
+
+The site is built with [Jekyll](https://jekyllrb.com) on [Github Pages](https://pages.github.com/). I'm using a modified version of the [Chalk theme](https://github.com/nielsenramon/chalk), and I expect I'll be making various tweaks along the way.
