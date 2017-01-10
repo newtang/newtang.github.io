@@ -8,7 +8,6 @@ blog_theme: light # Or use dark
 
 rss_enabled: true # Change to false if not
 about_enabled: false # Change to true if you wish to show an icon in the navigation that redirects to the about page
-asset_path: "assets/"
 social:
   dribbble: # Add your Dribbble handle
   facebook: # Add your Facebook handle
