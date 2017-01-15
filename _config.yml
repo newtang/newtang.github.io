@@ -1,7 +1,7 @@
 # Mandatory settings
 baseurl: ""
 name: Jonathan New
-url: "blog.jonnew.com" # add site url http://example.com/
+url: "http://blog.jonnew.com" # add site url http://example.com/
 blog_theme: light # Or use dark
 
 # Optional settings
