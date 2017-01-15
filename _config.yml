@@ -13,7 +13,7 @@ social:
   facebook: # Add your Facebook handle
   flickr: # Add your Flickr handle
   github: newtang
-  linkedin: # Add your LinkedIn handle
+  linkedin: jonnew
   twitter: newtang
   email: # Add your Email address
   bitcoin: # Add your Bitcoin link or address
@@ -31,15 +31,9 @@ defaults:
     values:
       layout: articles_by_tag
 exclude:
-  - .bowerrc
-  - .travis.yml
-  - bin/*
-  - bower.json
-  - circle.yml
   - Gemfile
   - Gemfile.lock
   - README.md
-  - vendor/
 gems:
   - jekyll-sitemap
   - jemoji
