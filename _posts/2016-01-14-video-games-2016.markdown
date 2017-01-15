@@ -1,0 +1,45 @@
+---
+layout: post
+title:  "Video Games of 2016"
+date:   2017-01-14 20:27:00 -0800
+categories: videogames
+---
+It's not too late for 2016 review posts is it? Well, too bad. I wanted to recount some of the fun video games I played last year. I don't think I qualify as a hard core gamer, but I do enjoy them from time to time. I tend to finish what I start even if pains me, but I'm far from a 100% completionist. I'm happy beating a game, but I usually don't need to explore every piece of minutia.
+
+I tend to lean toward indie games with some exceptions. I also tend to lean against first person shooters and massively multiplayers games, again with exceptions. I like puzzlers and side scrollers and strategy and rpgs and local multiplayer games. I like all sorts of stuff!
+
+These games are all fantastic. I include a couple negatives points with the overwhelming positives, but I heartily recommend them all. Anyways, without further ado.
+
+<h4 style="margin:0;"> Ori and the Blind Forest </h4>
+*Steam on PC*<br/>
+![Ori and the Blind Forest]({{ site.url }}/assets/video-games-2016/oriandblindforest.jpg)
+Ok, I played this towards the end of 2015, but it's such a beautiful game that I wanted to include it. This is a visually stunning 2D side scroller. As you vanquish enemies you gain powers along the way, but you're presented with a skill tree, so you have some control over Ori's abilities. Some of the climactic, trickier parts can get pretty intense, but are extremely fun. There's a rich narrative and a beautiful world. This game was a joy to play, and I didn't tire of it at all. 
+
+
+<h4 style="margin:0;">Binding of Isaac: Afterbirth</h4>
+*Steam on PC*<br/>
+![Binding of Isaac]({{ site.url }}/assets/video-games-2016/bindingofisaac.jpg)
+This is a recent expansion to Binding of Isaac. The game is like the dungeon levels in Zelda, but more difficult. The maps, bosses, enemies, and items are randomized so it's always a new game. This expansion added to the already absurd number of items so I always keep the [Wikia page](http://bindingofisaacrebirth.gamepedia.com/The_Binding_of_Isaac:_Afterbirth) open when I play. There's lots of secrets and easter eggs which I haven't fully explored. This incarnation is also much smoother and less buggy than the original. I think there's also some new modding capabilities which seems fun but isn't really my thing. This doesn't require a huge investment of time; you can play for 20 or 30 minutes every once in awhile since it's fresh each time.
+
+My only gripe is that occasionally you equip an item that you'd rather not have, and you can't get rid of it. Since there's so many items, it's hard to remember what they all do.
+
+
+<h4 style="margin:0;">The Witness</h4>
+*Steam on PC*<br/>
+![The Witness]({{ site.url }}/assets/video-games-2016/thewitness.png)
+The Witness is an open world puzzler by Jonathan Blow, creator of Braid (which is also excellent). You're basically stuck on a picturesque island full of hundreds of grid-like puzzles where you have to trace the correct path to complete them. It's amazing how much puzzle variety you can get with these grids. There's several different types of these puzzles and they all have a soft-ish introduction so you can learn what the various symbols mean. I'm proud to say I solved over 500 puzzles and beat the game without any online assistance, but it was tempting. There were definitely a few I sketched out, or just had to leave the game awhile and come back. There's are some puzzles that were incredibly tough that I did not solve, but weren't crucial to beating the game. There's more to the world than this, including some philosophical undertones, but I don't want to write any spoilers.
+
+
+<h4 style="margin:0;">Grand Theft Auto V</h4>
+*Steam on PC*<br/>
+![Grand Theft Auto V]({{ site.url }}/assets/video-games-2016/gtav.jpg)
+I think everyone knows roughly how this game works. Massive world, incredible freedoms, driving, shooting, etc This is the first time I've owned a GTA game, and while the freedoms are fun, I was drawn more to the compelling storyline. The dialog is great including some pretty funny gems. The organized capers and shootouts are really fun and genuinely challenging (I'm also bad at first person shooters). There are also some fun side quests like Trevor's rampages, Franklin's races, and assassination jobs. 
+
+Since it was my first GTA game, occasionally I found myself unsure of how to proceed through the storyline. I didn't realize until late that you can easily replay your successful missions without jeopardizing your current progress. Maybe I would've tried to get some of the various mission achievements. Oh well. It felt like having experience with prior GTA games was helpful for some of these idiosyncracies. There are a few minigames that are really boring, like yoga. Tennis is pretty easy to win. I didn't try any of the online multiplayer, but I probably should.
+
+<h4 style="margin:0;">Rocket League</h4>
+*Xbox One and PS4*<br/>
+![Rocket League]({{ site.url }}/assets/video-games-2016/rocketleague.jpg)
+Trucks. That can fly. Playing Soccer. That's it! That's the game! Local multiplayer with some friends against  online foes is a blast even if you're a terrible player like me. It's a game that's fun when you're bad, and remains fun even as your improve. Every once in awhile you'll do something accidentally spectacular that can't be duplicated.
+
+A few negatives: There's definitely a bit of a learning curve which can be frustrating for some people. Sometimes you get stuck on the wall or ceiling which is annoying. Trying to do local multiplayer against online opponents is a pain in the ass on Playstation. Each player is required to have an online Playstation account in order to participate. XBox, on the other hand makes it easy. The primary player needs an account, and the others can play as guests on his account.
