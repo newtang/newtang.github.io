@@ -1001,7 +1001,7 @@ img {
       .header-links li:last-child {
         margin-right: 0; } }
 .highlight {
-  padding: 50px;
+  padding: 25px;
   margin: 0;
   margin: 30px 0;
   overflow: auto;
@@ -1193,9 +1193,6 @@ img {
 
 .highlight .sr {
   color: #009926; }
-
-.highlight .s1 {
-  color: #d14; }
 
 .highlight .ss {
   color: #990073; }
