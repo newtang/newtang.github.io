@@ -66,7 +66,7 @@ www.plumfeed.com  CNAME        www.plumfeed.com.herokudns.com
 plumfeed.com      ALIAS/ANAME  plumfeed.com.herokudns.com
 {% endhighlight %}
 
-I updated my DNS settings as suggested on my registar, [Name.com](https://name.com). I used a CNAME for plumfeed.com without problem. I checked to see if it was working properly.
+I updated my DNS settings as suggested on my registrar, [Name.com](https://name.com). I used a CNAME for plumfeed.com without problem. I checked to see if it was working properly.
 
 {% highlight bash %}
 curl -vI https://plumfeed.com
