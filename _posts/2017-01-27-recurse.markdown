@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "My time at the Recurse Center"
-date:   2017-01-24 11:35:00 -0800
+date:   2017-01-24 11:48:00 -0800
 categories: recurse programming
 ---
 
