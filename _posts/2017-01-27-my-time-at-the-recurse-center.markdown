@@ -39,13 +39,13 @@ I really wanted to do something lower level. Most of my programming career has b
 ![Keyboard driver in action]({{ site.url }}/assets/recurse-center/keyboardDriver.png)
 
 To summarize, I had to:
- - Recompile GCC to be a cross-compiler for bare metal. This means that the C compiler couldn't assume there would be any libraries that are typically provided by an OS
- - Use [QEMU](http://qemu.org) (pronounced Q - EM - YOU), which is a virtualizer for the x86 processor. This is much nicer than having to reboot a computer to test my little OS all the time
- - Get more comfortable with C. I knew enough, but it was helpful to get more familiar with it.
- - Learn assembly. I'm still not great at it, but I understand it better now
- - Build secondary bootloader layer, (QEMU has a thin first layer I believe)
- - Learn about Descriptor tables, displaying stuff on screen with VGA, and interrupt handling
- - Handle all the things we take for granted in a basic text editor like backspace, return, and shift
+ * Recompile GCC to be a cross-compiler for bare metal. This means that the C compiler couldn't assume there would be any libraries that are typically provided by an OS
+ * Use [QEMU](http://qemu.org) (pronounced Q - EM - YOU), which is a virtualizer for the x86 processor. This is much nicer than having to reboot a computer to test my little OS all the time
+ * Get more comfortable with C. I knew enough, but it was helpful to get more familiar with it.
+ * Learn assembly. I'm still not great at it, but I understand it better now
+ * Build secondary bootloader layer, (QEMU has a thin first layer I believe)
+ * Learn about Descriptor tables, displaying stuff on screen with VGA, and interrupt handling
+ * Handle all the things we take for granted in a basic text editor like backspace, return, and shift
 
 I also added an Easter egg where if you slam on the keyboard, it'll print the message, "Relax, it's going to be ok."
 
