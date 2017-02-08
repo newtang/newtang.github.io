@@ -48,7 +48,7 @@ To summarize, I had to:
 * Learn about Descriptor tables, displaying stuff on screen with VGA, and interrupt handling
 * Handle all the things we take for granted in a basic text editor like backspace, return, and shift
 
-I also added an Easter egg where if you slam on the keyboard, it'll print the message, "Relax, it's going to be ok."
+I also added an Easter egg where if you slam on the keyboard, it'll print the message, "Relax, it's going to be ok." This is probably the most fun you can have with a keyboard driver.
 
 It's all [here in my Github repo.](https://github.com/newtang/bare-metal-hello)
 
