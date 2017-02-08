@@ -778,7 +778,8 @@ img {
 
 .article {
   display: block;
-  margin: 100px 0; }
+  margin: 100px 0 50px 0; 
+  border-bottom: 1px solid #ebeaea; }
 
 .article-list {
   display: block;
@@ -3423,3 +3424,24 @@ img {
 
 .icon-xbox:before {
   content: ""; }
+
+
+.pageNav {
+  font-size: 14px;
+  display: block;
+  width: auto;
+  overflow: hidden;
+  margin-bottom: 100px;
+}
+
+.pageNav a {
+  display: block;
+  width: 50%;
+  float: left;
+  margin: 1em 0;
+}
+
+.pageNav .next {
+  text-align: right;
+}
+
