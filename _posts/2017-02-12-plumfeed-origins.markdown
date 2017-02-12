@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Plumfeed Origins: The uninteresting story of the creation of my simple RSS feed aggregator"
+date:   2017-02-12 14:45:00 -0800
 categories: programming plumfeed
 ---
 
