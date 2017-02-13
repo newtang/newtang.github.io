@@ -3158,6 +3158,13 @@ img {
 .icon-social-github-outline:before {
   content: ""; }
 
+.icon-social-plumfeed {
+  background-repeat:no-repeat;
+  background-image: url("../assets/site/plumfeed-logo-18x18.png");
+  width:19px;
+  height:13px;
+}
+
 .icon-social-google:before {
   content: ""; }
 

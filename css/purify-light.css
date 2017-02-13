@@ -787,6 +787,13 @@ img {
   margin-bottom: 0;
 }
 
+.article-comments {
+  display: block;
+  padding-top: 20px;
+  margin-top: 30px;
+  border-top: 1px solid #ebeaea;
+}
+
 .article-share {
   display: block;
   margin-top: -4px;
@@ -919,6 +926,10 @@ img {
   color: #998;
 }
 
+.highlight .go {
+  color: #888;
+}
+
 .highlight .gp {
   color: #555;
 }
@@ -967,6 +978,14 @@ img {
   content: "";
 }
 
+.icon-bookmark:before {
+  content: "";
+}
+
+.icon-bug:before {
+  content: "";
+}
+
 .icon-code:before {
   content: "";
 }
@@ -987,8 +1006,20 @@ img {
   content: "";
 }
 
+.icon-edit:before {
+  content: "";
+}
+
 .icon-egg:before {
   content: "";
+}
+
+.icon-eye:before {
+  content: "";
+}
+
+.icon-eye-disabled:before {
+  content: "";
 }
 
 .icon-grid:before {
@@ -1087,12 +1118,23 @@ img {
   content: "";
 }
 
+.icon-social-chrome:before {
+  content: "";
+}
+
 .icon-social-css3:before {
   content: "";
 }
 
 .icon-social-github:before {
   content: "";
+}
+
+.icon-social-plumfeed {
+  background-repeat: no-repeat;
+  background-image: url("../assets/site/plumfeed-logo-18x18.png");
+  width: 19px;
+  height: 13px;
 }
 
 .icon-social-google:before {
@@ -1103,8 +1145,16 @@ img {
   content: "";
 }
 
+.icon-social-javascript:before {
+  content: "";
+}
+
 .icon-social-linkedin:before {
   content: "";
+}
+
+.icon-social-nodejs:before {
+  content: "";
 }
 
 .icon-social-rss:before {

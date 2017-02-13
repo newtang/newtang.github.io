@@ -8,6 +8,13 @@
         </a>
       </li>
     {% endif %}
+    {% if site.social.plumfeed %}
+      <li>
+         <a href="https://plumfeed.com/{{ site.social.plumfeed }}" target="_blank" title="Plumfeed">
+         <div class="icon icon-social-plumfeed"></div>
+        </a>
+      </li>
+    {% endif %}
     {% if site.social.twitter %}
       <li>
         <a href="https://twitter.com/{{ site.social.twitter }}" target="_blank" title="Twitter">
