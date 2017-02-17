@@ -6,4 +6,16 @@ categories: security ssl
 ---
 
 The Three Body Problem by Cixin Liu
+  - starts a little slow
+  - very creative ideas
+  - doesn't go in a direction I expected
+
 Without Their Permission by Alexis Ohanian
+ - fun read, but not a ton of content
+ - but it's inspiring to get to work and build something.
+
+Delivering Happiness by Tony Hsieh
+ - Pretty interesting story about Hsieh's life and decision making
+ - Really enjoyed the discussion about how company culture is an extension of brand
+ - I still can't believe he walked away from $40 million. He just had to continue working at LinkExchange for a year and he couldn't do it! 
+ - Very end touches upon the science of happiness. This correlated well with Drive which talked about purpose, autonomy, and mastery. Delivering Happiness added Connectedness which I really like.
