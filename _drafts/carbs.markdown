@@ -68,7 +68,7 @@ Now that my weight is back to healthier levels, I'm gradually reintroducing carb
  * Avoid most desserts. If I have a dessert, don't eat another one for awhile. 
  * Avoid sugary drinks.
 
-It feels like we're in the early stages of a long overdue dietary course correction. Although discontinued, it's laughable how wrong the food pyramid appears to be. I don't think all calories are created equally and I don't think sugar is a harmless "empty calorie". We've been told to reduce fat, but how many of us have known someone who gave up [pop](http://pittsburghspeech.pitt.edu/PittsburghSpeech_PgheseOverview.html), and lost weight? I think calorie restriction can work in the short term, but being ravenously hungry is not sustainable lifestyle.
+It feels like we're in the early stages of a long overdue dietary course correction. Although discontinued, it's laughable how wrong the food pyramid appears to be. I don't think all calories are created equally and I don't think sugar is a harmless "empty calorie". We've been told to reduce fat, but how many of us have known someone who gave up [pop](http://pittsburghspeech.pitt.edu/PittsburghSpeech_PgheseOverview.html), and lost weight? I think calorie restriction can work in the short term, but being ravenously hungry is not sustainable lifestyle. I also think nutrition is a relatively young science, and we have a lot to learn.
 
 Shout out to my friends Eirik, Mark, and Jeff for the insight and advice!
 
