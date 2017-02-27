@@ -53,6 +53,9 @@ Here's a sampling of some of my meals.
  * Coffee (sometimes with heavy cream, never with sugar)
  * Tea
  * Wine
+ * Liquor (Occasionally)
+
+ ![Low Carb Beer? You misspelled whiskey.]({{ site.url }}/assets/carbs/whiskey.jpg)
 
 As you see, there's not much fruit here. Berries are high in fiber so their net-carbs are low. I had an apple or orange once in awhile. Bananas, mangos, melons are entirely sugar and were avoided. Most of the micronutrients are obtained through vegetables. And no, I never got scurvy. It's also lot more meats and vegetables, which is unfortunately usually a more expensive meal. I also consumed more meat than usual. You can do this diet as a vegetarian or vegan, but it's harder.
 
