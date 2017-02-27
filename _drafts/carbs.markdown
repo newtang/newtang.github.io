@@ -5,9 +5,9 @@ date:   2017-02-21 11:35:00 -0800
 categories: weight-loss carbs
 ---
 
-Last August, a routine physical left me surprised as I learned that I had gained 20lbs since college, roughly 40% of which came in the last year. I had an exercise routine, I walked a lot, and I thought I ate well. I didn't think I felt or looked noticeably fatter, but the data doesn't lie. This was not the "up-and-to-the-right" graph that I like. In retrospect, I think I indulged in the free sweetened drinks and desserts at work a little too much.
+Last August, a routine physical left me surprised. I learned that I had gained 20lbs since college, roughly 40% of which came in the last year. I had an exercise routine, I walked a lot, and I thought I ate well. I didn't think I felt or looked noticeably fatter, but the data doesn't lie. This was not the "up-and-to-the-right" graph that I like. In retrospect, I think I indulged in the free sweetened drinks and desserts at work a little too much.
 
-It was time for a change, and at the time several of my coworkers were espousing the virtues of a keto diet, one that significantly reduces carbohydrate intake and replaces it with fats and protein. The overly simplified premise is that consumption carbohydrates spike secretion of insulin, and insulin is responsible for fat storage. By eliminating the carbohydrates, there is significantly less fat storage. Without carbs, the body goes into a state of ketosis where it uses ketones for fuel. Ketones are from the breakdown from fat stores when there's not enough glucose. This causes weight loss and a variety of metabolic improvements. I'm missing a lot of detail, of course, but this is the gist of it.
+It was clearly time for a dietary change. At the time several of my coworkers were espousing the virtues of a keto diet, one that significantly reduces carbohydrate intake and replaces it with fats and protein. The overly simplified premise is that consumption carbohydrates spike secretion of insulin, and insulin is responsible for fat storage. By eliminating the carbohydrates, there is significantly less fat storage. Without carbs, the body goes into a state of ketosis where it uses ketones for fuel. Ketones are from the breakdown from fat stores when there's not enough glucose. This causes weight loss and a variety of metabolic improvements. I'm missing a lot of detail, of course, but this is the gist of it.
 
 **The TL;DR**: I lost 15lbs in 2 months by giving up carbohydrates. Then 5lbs more in the months that followed.
 
@@ -15,7 +15,7 @@ After my first couple days, I experienced the ["keto flu"](https://www.reddit.co
 
 I've heard people who claim that this diet gave them more energy, and they felt sharper, etc. Mentally, the only change I noticed was that I would wake up quicker and feel less bleary-eyed. Other than that, I generally felt the same.
 
-I didn't exercise extra. I didn't go hungry, or count calories. I ate until I was comfortably full. I just gave up carbohydrates. Specifically, I limited myself to  25g of net carbohydrates a day. Net-carbs = total carbs - fiber. I didn't keep a running carb total, but I used the 25g as a basis for how many carbs I could consume in a meal. If I ate 3 meals a day, I could roughly portion those out. For example, if a salad dressing at dinner had carbs, I could measure the amount so I had about 8g worth (1/3ish of 25g) of net-carbohydrates. 
+I didn't exercise extra. I didn't go hungry, or count calories. I ate until I was comfortably full. I just gave up carbohydrates. Specifically, I limited myself to  25g of net carbohydrates a day. Net carbs = total carbs - fiber. I didn't keep a running carb total, but I used the 25g as a basis for how many carbs I could consume in a meal. If I ate 3 meals a day, I could roughly portion those out. For example, if a salad dressing at dinner had carbs, I could measure the amount so I had about 8g worth (1/3ish of 25g) of net-carbohydrates. 
 
 Of course, I slipped here and there. At social occasions I had a beer or a slice of pizza. I'm human. Overall, I stayed pretty true to the diet.
 
@@ -26,7 +26,7 @@ Here's a sampling of some of my meals.
 
 **Breakfast**: 
  
- * Full fat Fage greek yogurt, with some berries and a hard boiled egg.
+ * Full-fat Fage greek yogurt, with some berries and a hard boiled egg.
  * Sometimes scrambled eggs and bacon or sausage. 
  * Avocado-frozen-berry-greek-yogurt smoothie.
 
@@ -34,7 +34,7 @@ Here's a sampling of some of my meals.
 
  * Spinach-cheddar omelet. 
  * [Lamb over vegetables]({{site.url}}/posts/my-time-at-the-recurse-center#lamb)
- * Replaced pasta meals with spaghetti squash (ie sausage, onion, kale over spaghetti squash)
+ * Replaced pasta with spaghetti squash (ie sausage, onion, kale over spaghetti squash)
  * Garden salad with egg and/or chicken.
  * Burger without the bun, usually in a lettuce wrap, or over a salad.
  * Burrito bowl (no tortilla and no rice).
@@ -68,7 +68,7 @@ Now that my weight is back to healthier levels, I'm gradually reintroducing carb
  * Avoid most desserts. If I have a dessert, don't eat another one for awhile. 
  * Avoid sugary drinks.
 
-It feels like we're in the early stages of a long overdue dietary course correction. Although discontinued, it's laughable how wrong the food pyramid appears to be. I don't think all calories are created equally and I don't think sugar is a harmless "empty calorie". We've been told to reduce fat, but how many of us have known someone who gave up [pop](http://pittsburghspeech.pitt.edu/PittsburghSpeech_PgheseOverview.html), and lost weight? I think calorie restriction can work in the short term, but being ravenously hungry is not sustainable lifestyle. I also think nutrition is a relatively young science, and we have a lot to learn.
+After my own education and personal odyssey, it feels like we're in the early stages of a long overdue dietary course correction. Although discontinued, it's laughable how wrong the food pyramid appears to be. I don't think all calories are created equally and I don't think sugar is a harmless "empty calorie". We've been told to reduce fat, but how many of us have known someone who gave up [pop](http://pittsburghspeech.pitt.edu/PittsburghSpeech_PgheseOverview.html), and lost weight? I think calorie restriction can work in the short term, but being ravenously hungry is not sustainable lifestyle. I also think nutrition is a relatively young science, and we have a lot to learn.
 
 Shout out to my friends Eirik, Mark, and Jeff for the insight and advice!
 
