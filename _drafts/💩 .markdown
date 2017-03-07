@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "💩".length === 2
-date:   2017-02-26 18:07:00 -0800
+title:  "poo.length === 2"
+date:   2017-03-07 18:07:00 -0800
 categories: programming javascript
 ---
 
@@ -11,13 +11,15 @@ And why does '☃'.length only equal 1?
 
 It all comes down to code points and our friend, Unicode. If you're a little rusty on the details of Unicode and character sets, stop now, and read [The Absolute Minimum Every Software Developer Absolutely, Positively Must Know About Unicode and Character Sets (No Excuses!)](https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/). It's excellent, and I read it from time-to-time to refresh myself on details.
 
-A lot of the following is from this superb [Javascript Unicode](https://mathiasbynens.be/notes/javascript-unicode) post by Mathias Bynens. It's 5 years old, and sadly still true. Writing helps reinforce the concepts for me personally, and I add a few tidbits here and there.
+The next few paragraphs are summaries from this superb [Javascript Unicode](https://mathiasbynens.be/notes/javascript-unicode) post by Mathias Bynens. It's 5 years old, and sadly still true. Writing helps reinforce the concepts for me personally, and I add a few concepts and tidbits here and there.
 
-Anyways, the Unicode code point range goes from U+0000 to U+10FFFF which is over 1 million symbols, and these symbols are divided into groups called planes. Each plane is about 65000 characters (16^4). The first plane is the Basic Multilingual Plane (U+0000 → U+FFFF) and contains all the commonly symbols we use everyday and then some. The rest of the planes require more than 4 hexadecimal digits and are called supplementary planes, or astral planes. I have no idea if there's a good reason for the name "astral plane." Sometimes I think people come up with these names just to add excitement to their lives. 
+Anyways, the Unicode code point range goes from U+0000 to U+10FFFF which is over 1 million symbols, and these symbols are divided into groups called planes. Each plane is about 65000 characters (16^4). The first plane is the Basic Multilingual Plane (U+0000 → U+FFFF) and contains all the commonly symbols we use everyday and then some. The rest of the planes require more than 4 hexadecimal digits and are called supplementary planes or astral planes. I have no idea if there's a good reason for the name "astral plane." Sometimes, I think people come up with these names just to add excitement to their lives. 
+
+The current largest codepoint? Why that would be a [cheese wedge](https://codepoints.net/U+1F9C0) at U+1F9C). 🧀  How did we ever communicate before this?
 
 We can express characters in a couple different ways: `"A" === "\u0041" === "\x41" === "\u{41}"`. These are escape sequences. The \x can be used for most (but not all) of the Basic Multilingual Plane, specifically U+0000 to U+00FF. The \u can be used for any unicode characters. 
 
-And `"💩" === "\u{1F4A9}".  Unfortunately, "💩" === '\uD83D\uDCA9'. What is this nonsense? All astral code points can also be represented by "surrogate pairs", and this is used for backwards compatability reasons. There's a formula to calculate surrogates from astral code points, and vice versa. 
+And `"💩" === "\u{1F4A9}".  Unfortunately this is also true: "💩" === '\uD83D\uDCA9'. What is this nonsense? All astral code points can also be represented by "surrogate pairs", and this is used for backwards compatability reasons. There's a formula to calculate surrogates from astral code points, and vice versa. 
 
 Given a code point C greater than 0xFFFF, it corresponds to a surrogate pair <H,L> 
 `H = Math.floor((C - 0x10000) / 0x400) + 0xD800
@@ -38,21 +40,22 @@ There's an open [Chromium bug for "Emoji in password fields appear as two bullet
 
 For what it's worth, here's an article [discussing the merits of emoji passwords](https://medium.com/@hvost/why-you-should-not-use-emojis-in-your-passwords-b8db0607e169#.ee3f1qr43).
 
+So, is there a solution to this madness? [Bynens](https://mathiasbynens.be/notes/javascript-unicode#accounting-for-astral-symbols) list a couple solutions. [Array.from](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/from) shows some promise. It's succinct, works in Node, and is generally well supported across browsers, except I think IE11 and below.
 
+`Array.from("💩").length === 1; //hooray!`
 
-Solution?
+but
 
+`Array.from("❤️").length === 2; //boooo!`
 
-astral plane
-
-
-The biggest?  https://codepoints.net/U+1F9C0
-
-password field
-
+I don't really know why this is the case. And, to make batters worse, putting together woman, heart, kiss, women emojis are frequently rendered as ]a single emoji](http://emojipedia.org/kiss-woman-woman/). `"👩‍❤️‍💋‍👩".length === 11`.  Oh jeez. `Array.from("👩‍❤️‍💋‍👩").length === 8`. These are created by having a joiner `\u{200D}` character between the relevant emojis.
 
 
 
 
 
-https://mathiasbynens.be/notes/javascript-unicode
+
+
+
+
+
