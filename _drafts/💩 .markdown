@@ -1,0 +1,58 @@
+---
+layout: post
+title:  "💩".length === 2
+date:   2017-02-26 18:07:00 -0800
+categories: programming javascript
+---
+
+Yup, it's true. In Javascript, `"💩".length === 2`. You can open up a Chrome debug console, or Node.JS REPL and see for yourself. But why?!
+
+And why does '☃'.length only equal 1?
+
+It all comes down to code points and our friend, Unicode. If you're a little rusty on the details of Unicode and character sets, stop now, and read [The Absolute Minimum Every Software Developer Absolutely, Positively Must Know About Unicode and Character Sets (No Excuses!)](https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/). It's excellent, and I read it from time-to-time to refresh myself on details.
+
+A lot of the following is from this superb [Javascript Unicode](https://mathiasbynens.be/notes/javascript-unicode) post by Mathias Bynens. It's 5 years old, and sadly still true. Writing helps reinforce the concepts for me personally, and I add a few tidbits here and there.
+
+Anyways, the Unicode code point range goes from U+0000 to U+10FFFF which is over 1 million symbols, and these symbols are divided into groups called planes. Each plane is about 65000 characters (16^4). The first plane is the Basic Multilingual Plane (U+0000 → U+FFFF) and contains all the commonly symbols we use everyday and then some. The rest of the planes require more than 4 hexadecimal digits and are called supplementary planes, or astral planes. I have no idea if there's a good reason for the name "astral plane." Sometimes I think people come up with these names just to add excitement to their lives. 
+
+We can express characters in a couple different ways: `"A" === "\u0041" === "\x41" === "\u{41}"`. These are escape sequences. The \x can be used for most (but not all) of the Basic Multilingual Plane, specifically U+0000 to U+00FF. The \u can be used for any unicode characters. 
+
+And `"💩" === "\u{1F4A9}".  Unfortunately, "💩" === '\uD83D\uDCA9'. What is this nonsense? All astral code points can also be represented by "surrogate pairs", and this is used for backwards compatability reasons. There's a formula to calculate surrogates from astral code points, and vice versa. 
+
+Given a code point C greater than 0xFFFF, it corresponds to a surrogate pair <H,L> 
+`H = Math.floor((C - 0x10000) / 0x400) + 0xD800
+L = (C - 0x10000) % 0x400 + 0xDC00`
+
+So, in our case:
+C = 0x1F4A9
+H = (Math.floor((0x1F4A9 - 0x10000) / 0x400) + 0xD800).toString(16) = 0xD83D
+L = ((0x1F4A9 - 0x10000) % 0x400 + 0xDC00).toString(16) = 0xDCA9
+
+You can see that the answers correspond to the '\uD83D\uDCA9' I had written above.
+
+The whole reason I ran into this was because I was enforcing a minimum length password, and I noticed that emoji counted as more than one. In fact if you paste the poo emoji in a password field, you'll see: 
+
+![A single poo emoji yields two dots in a password field]({{ site.url }}/assets/poo-unicode/password-poo.jpg)
+
+There's an open [Chromium bug for "Emoji in password fields appear as two bullets"](https://bugs.chromium.org/p/chromium/issues/detail?id=486880). I didn't find an analgous Firefox bug, so I [filed it](https://bugzilla.mozilla.org/show_bug.cgi?id=1345229).
+
+For what it's worth, here's an article [discussing the merits of emoji passwords](https://medium.com/@hvost/why-you-should-not-use-emojis-in-your-passwords-b8db0607e169#.ee3f1qr43).
+
+
+
+Solution?
+
+
+astral plane
+
+
+The biggest?  https://codepoints.net/U+1F9C0
+
+password field
+
+
+
+
+
+
+https://mathiasbynens.be/notes/javascript-unicode
