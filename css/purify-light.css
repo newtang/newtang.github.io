@@ -145,6 +145,8 @@ code {
   /* 1 */
   font-size: 1em;
   /* 2 */
+  background: #faf9f9;
+  border-radius: 4px;
 }
 
 /**

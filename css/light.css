@@ -141,8 +141,10 @@ samp {
   font-family: monospace, monospace;
   /* 1 */
   font-size: 1em;
-  /* 2 */ }
-
+  /* 2 */ 
+  background: #faf9f9;
+  border-radius: 4px;
+}
 /**
  * Add the correct font style in Android 4.3-.
  */
