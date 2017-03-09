@@ -1,19 +1,19 @@
 ---
 layout: post
 title:  "\"💩\".length === 2"
-date:   2017-03-07 14:07:00 -0800
+date:   2017-03-08 16:28:00 -0800
 categories: programming javascript
 ---
 
 Yup, it's true. In Javascript, `"💩".length === 2`. You can open up a Chrome debug console, or Node.JS REPL and see for yourself. But why?! And why does `'⛳'.length` only equal 1?
 
-It all comes down to codepoints and our friend, Unicode. If you're a little rusty on the details of Unicode and character sets, stop now, and read [The Absolute Minimum Every Software Developer Absolutely, Positively Must Know About Unicode and Character Sets (No Excuses!)](https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/). It's excellent, and I read it from time-to-time to refresh myself on details.
+It all comes down to codepoints and our friend, [Unicode](https://en.wikipedia.org/wiki/Unicode). If you're a little rusty on the details of Unicode and character sets, stop now, and read [The Absolute Minimum Every Software Developer Absolutely, Positively Must Know About Unicode and Character Sets (No Excuses!)](https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/). It's excellent, and I read it from time-to-time to refresh myself on details.
 
 The next few paragraphs are summaries from this superb [Javascript Unicode](https://mathiasbynens.be/notes/javascript-unicode) post by [Mathias Bynens](https://mathiasbynens.be). It's 5 years old, and sadly still true. 
 
-Anyways, the Unicode codepoint range goes from U+0000 to U+10FFFF which is over 1 million symbols, and these symbols are divided into groups called planes. Each plane is about 65000 characters (16^4). The first plane is the Basic Multilingual Plane (U+0000 through U+FFFF) and contains all the commonly symbols we use everyday and then some. The rest of the planes require more than 4 hexadecimal digits and are called supplementary planes or astral planes. I have no idea if there's a good reason for the name "astral plane." Sometimes, I think people come up with these names just to add excitement to their lives. 
+Anyways, the Unicode codepoint range goes from U+0000 to U+10FFFF which is over 1 million symbols, and these symbols are divided into groups called planes. Each plane is about 65000 characters (16^4). The first plane is the Basic Multilingual Plane (U+0000 through U+FFFF) and contains all the common symbols we use everyday and then some. The rest of the planes require more than 4 hexadecimal digits and are called supplementary planes or astral planes. I have no idea if there's a good reason for the name "astral plane." Sometimes, I think people come up with these names just to add excitement to their lives. 
 
-The current largest codepoint? Why that would be a [cheese wedge](https://codepoints.net/U+1F9C0) at U+1F9C).  🧀   How did we ever communicate before this?
+The current largest codepoint? Why that would be a [cheese wedge](https://codepoints.net/U+1F9C0) at U+1F9C0.  🧀 &nbsp; How did we ever communicate before this?
 
 We can express characters in a couple different ways: `"A" === "\u0041" === "\x41" === "\u{41}"`. These are escape sequences. The \x can be used for most (but not all) of the Basic Multilingual Plane, specifically U+0000 to U+00FF. The \u can be used for any Unicode characters. The curly braces are required if there are more than 4 hexadecimal digits and optional otherwise. This is for Javascript/HTML by the way. Other languages have their own sets of rules.
 
@@ -34,7 +34,7 @@ L = ((0x1F4A9 - 0x10000) % 0x400 + 0xDC00).toString(16) = 0xDCA9;
 
 The `.toString(16)` converts the number to a hexadecimal string. You can see that the answers correspond to the '\uD83D\uDCA9' I had written above.
 
-The whole reason I ran into this was because I was enforcing a minimum password lengths, and I noticed that emoji counted as more than one. In fact if you paste the 💩 in a password field, you'll see: 
+The whole reason I ran into this was because I was enforcing minimum password lengths, and I noticed that emoji counted as more than one. In fact if you paste the 💩 &nbsp;in a password field, you'll see: 
 
 ![A single poo emoji yields two dots in a password field]({{ site.url }}/assets/poo-unicode/password-poo.png)
 
@@ -42,7 +42,7 @@ There's an open [Chromium bug for "Emoji in password fields appear as two bullet
 
 As an aside, here's an article [discussing the merits of emoji passwords](https://medium.com/@hvost/why-you-should-not-use-emojis-in-your-passwords-b8db0607e169#.ee3f1qr43).
 
-So, is there a solution to this madness? [Bynens](https://mathiasbynens.be/notes/javascript-unicode#accounting-for-astral-symbols) lists a couple possibilities. [Array.from](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/from) shows some promise. It's succinct, works in Node, and is generally well supported across browsers, except IE11 and below, I think.
+So, is there a solution that counts symbols correctly? [Bynens](https://mathiasbynens.be/notes/javascript-unicode#accounting-for-astral-symbols) lists a couple possibilities. [Array.from](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/from) shows some promise. It's succinct, works in Node, and is generally well supported across browsers, except IE11 and below, I think.
 
 `Array.from("💩").length === 1; //hooray!`
 
@@ -79,7 +79,7 @@ fancyCount("👩‍❤️‍💋‍👩") === 7
 
 ![Make it stop]({{ site.url }}/assets/poo-unicode/makeitstop.gif)
 
-👩‍❤️‍💋‍👩 &nbsp; is created by having a [Zero Width Joiner](https://codepoints.net/U+200D) `\u{200D}` character between the relevant emojis. So we could do something like this:
+👩‍❤️‍💋‍👩 &nbsp; is created by having a [Zero Width Joiner](https://codepoints.net/U+200D) `\u{200D}` character between the component emojis. So we could do something like this:
 
 {% highlight javascript %}
 function fancyCount2(str){
@@ -104,6 +104,6 @@ fancyCount2("❤️") === 1 //hooray!
 fancyCount2("👩‍❤️‍💋‍👩") === 1 //hooray!
 {% endhighlight %}
 
-Honestly, you should probably never use this. Not all browsers, UIs, etc even render 👩‍❤️‍💋‍👩 &nbsp; as a single symbol. The code assumes the joiners are used between characters appropriately which could be very problematic. During my research noticed that `\u{200C}` allows for [ligatures](http://ilovetypography.com/2007/09/09/decline-and-fall-of-the-ligature/) and `fancyCount2` isn't accounting for that. That's an easy adjustment, but I'm sure there's even more modifiers and joiners that I've never heard of. I know you're on the edge of your seat waiting for the ultimate solution, but this rabbit hole is too deep! Sorry for the disappointment, but if you know of a more robust, comprehensive character counter, I'd love to hear from you!
+Honestly, you should probably never use this. Not all browsers, UIs, etc even render 👩‍❤️‍💋‍👩 &nbsp; as a single symbol. The code assumes the joiners are used between characters appropriately which could be very problematic. During my research I noticed that [U+200C](https://codepoints.net/U+200C) allows for [ligatures](http://ilovetypography.com/2007/09/09/decline-and-fall-of-the-ligature/) and `fancyCount2` isn't accounting for that. That's an easy adjustment, but I'm sure there's even more modifiers and joiners that I've never heard of. I know you're on the edge of your seat waiting for the ultimate solution, but this rabbit hole is too deep! Sorry for the disappointment, but if you know of a more robust, comprehensive character counter, I'd love to hear from you!
 
 ![I'm out]({{ site.url }}/assets/poo-unicode/imout.gif)
