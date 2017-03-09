@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "\"💩\".length === 2"
-date:   2017-03-08 16:28:00 -0800
+date:   2017-03-08 16:23:00 -0800
 categories: programming javascript
 ---
 
@@ -11,7 +11,7 @@ It all comes down to codepoints and our friend, [Unicode](https://en.wikipedia.o
 
 The next few paragraphs are summaries from this superb [Javascript Unicode](https://mathiasbynens.be/notes/javascript-unicode) post by [Mathias Bynens](https://mathiasbynens.be). It's 5 years old, and sadly still true. 
 
-Anyways, the Unicode codepoint range goes from U+0000 to U+10FFFF which is over 1 million symbols, and these symbols are divided into groups called planes. Each plane is about 65000 characters (16^4). The first plane is the Basic Multilingual Plane (U+0000 through U+FFFF) and contains all the common symbols we use everyday and then some. The rest of the planes require more than 4 hexadecimal digits and are called supplementary planes or astral planes. I have no idea if there's a good reason for the name "astral plane." Sometimes, I think people come up with these names just to add excitement to their lives. 
+Anyways, the Unicode codepoint range goes from U+0000 to U+10FFFF which is over 1 million symbols, and these are divided into groups called planes. Each plane is about 65000 characters (16^4). The first plane is the Basic Multilingual Plane (U+0000 through U+FFFF) and contains all the common symbols we use everyday and then some. The rest of the planes require more than 4 hexadecimal digits and are called supplementary planes or astral planes. I have no idea if there's a good reason for the name "astral plane." Sometimes, I think people come up with these names just to add excitement to their lives. 
 
 The current largest codepoint? Why that would be a [cheese wedge](https://codepoints.net/U+1F9C0) at U+1F9C0.  🧀 &nbsp; How did we ever communicate before this?
 
