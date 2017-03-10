@@ -5,6 +5,8 @@ date:   2017-03-08 16:23:00 -0800
 categories: programming javascript
 ---
 
+EDIT: Wow, much to my surprise this really blew up on [Hacker News](https://news.ycombinator.com/item?id=13830177). There are some pretty interesting discussions happening. (Thanks [Stan](https://blog.stanzheng.com/)!) 
+
 Yup, it's true. In Javascript, `"💩".length === 2`. You can open up a Chrome debug console, or Node.JS REPL and see for yourself. But why?! And why does `'⛳'.length` only equal 1?
 
 It all comes down to codepoints and our friend, [Unicode](https://en.wikipedia.org/wiki/Unicode). If you're a little rusty on the details of Unicode and character sets, stop now, and read [The Absolute Minimum Every Software Developer Absolutely, Positively Must Know About Unicode and Character Sets (No Excuses!)](https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/). It's excellent, and I read it from time-to-time to refresh myself on details.
@@ -13,7 +15,7 @@ The next few paragraphs are summaries from this superb [Javascript Unicode](http
 
 Anyways, the Unicode codepoint range goes from U+0000 to U+10FFFF which is over 1 million symbols, and these are divided into groups called planes. Each plane is about 65000 characters (16^4). The first plane is the Basic Multilingual Plane (U+0000 through U+FFFF) and contains all the common symbols we use everyday and then some. The rest of the planes require more than 4 hexadecimal digits and are called supplementary planes or astral planes. I have no idea if there's a good reason for the name "astral plane." Sometimes, I think people come up with these names just to add excitement to their lives. 
 
-The current largest codepoint? Why that would be a [cheese wedge](https://codepoints.net/U+1F9C0) at U+1F9C0.  🧀 &nbsp; How did we ever communicate before this?
+The current largest codepoint? Why that would be a [cheese wedge](https://codepoints.net/U+1F9C0) at U+1F9C0.  🧀 &nbsp; How did we ever communicate before this? EDIT: It turns out this isn't quite accurate. I think cheese wedge is the highest codepoint emoji. On HN someone [pointed out a few codepoints](https://news.ycombinator.com/reply?id=13833675&goto=item%3Fid%3D13830177%2313833675) higher than this, namely those reserved for private uses, [variation selector codepoints](https://codepoints.net/U+E01EF), and a [CJK compatibility ideograph](https://codepoints.net/U+2FA1D).
 
 We can express characters in a couple different ways: `"A" === "\u0041" === "\x41" === "\u{41}"`. These are escape sequences. The \x can be used for most (but not all) of the Basic Multilingual Plane, specifically U+0000 to U+00FF. The \u can be used for any Unicode characters. The curly braces are required if there are more than 4 hexadecimal digits and optional otherwise. This is for Javascript/HTML by the way. Other languages have their own sets of rules.
 
