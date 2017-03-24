@@ -2,7 +2,7 @@
 layout: post
 title:  "Eslint"
 date:   2017-03-18 11:35:00 -0800
-categories: security ssl
+categories: javascript eslint
 ---
 
 ESLint rules that ESLint rules. http://www.theonion.com/article/supreme-court-rules-supreme-court-rules-998
