@@ -29,7 +29,7 @@ END;
 $$;
 {% endhighlight %}
 
-`[PERFORM](https://www.postgresql.org/docs/9.6/static/plpgsql-statements.html)` just executes this function, but discards the result. Oh, and I had to activate `\timing` to show the duration. So I ran this a few times, and my results:
+[`PERFORM`](https://www.postgresql.org/docs/9.6/static/plpgsql-statements.html) just executes this function, but discards the result. Oh, and I had to activate `\timing` to show the duration. So I ran this a few times, and my results:
 
 {% highlight javascript %}
 43286.626ms
