@@ -12,5 +12,7 @@ Armikrog
 This is a quick, fun whimisical game. I love the usage of stop motion. Puzzles aren't particularly challenging, except maybe one or two. Game isn't very long. But it's fun.
 
 Stardew Valley
+I've never played a game quite like this. I'm told it's like Harvest Moon. It's like being in a town in Zelda, but the townspeople are more developed and there's far more quests. There's lots of ways to make money, and lots of things to do like farming, raising livestock, fishing, mining, doing quests, fighting monsters, talking to townspeople, etc. I was surprised I enjoyed it as much as I did. Impressively it's made by a single indie developer.
+
 
 Yoshi's Wooly World (Wii U)
