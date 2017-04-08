@@ -90,4 +90,7 @@ I hope that Github Pages comes up with a mechanism so I can do something similar
 
 If you end up getting a free cert from Let's Encrypt, consider sending a few bucks to the [EFF](https://eff.org)!
 
+**EDIT: 4/8/2017**
+Eventually you'll need to renew your certificate. Heroku has made this incredibly easy with their [Automated Certificate Management](https://devcenter.heroku.com/articles/automated-certificate-management) add-on, which is free for any paid dynos. 
+
 
