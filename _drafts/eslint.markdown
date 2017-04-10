@@ -18,7 +18,7 @@ I recently embarked on a fresh new Node.JS project, and after having used JSHint
  * Well designed console output
  * Well maintained
  * Easy to ignore a rule with special comment
- * Helpful Gitter channel
+ * Helpful [Gitter channel](https://gitter.im/eslint/eslint)
 
 I know I'm a little behind the times here, but I'm fully on the ESLint train.
 
