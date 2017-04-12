@@ -24,6 +24,7 @@ Scalable Internet Architectures by Theo Schlossnagle
 - I didn't like this very much. It bounced between topics I knew a lot about like source control, to others that weren't very well explained. Maybe it was too dry, or it just didn't interest me. I don't know, but I wouldn't recommend it.
 
 Fahrenheit 451 by Ray Bradbury
+A classic book from literature class that I managed to miss out on. It takes place in a dystopian future where books are illegal and burned. It's not particularly long, so I won't go into much detail, but it's a great read. Some very salient points that are (sadly) relevant today.
 
 Clean Code by Robert C. Martin
  - As an experienced developer, I agreed with quite a lot in the book. It was still worthwhile to read; it crystalized some comments, made me reflect on some of my programming values, and nicely explained several topics. I think I would've gained more by reading this five years ago, but it was still worthwhile. I would recommend it to people who've programmed a few years and are looking to make the next jump.
