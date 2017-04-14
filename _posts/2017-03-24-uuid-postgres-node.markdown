@@ -59,3 +59,12 @@ I'm using the [uuid npm](https://www.npmjs.com/package/uuid) module. The `consol
 ![Zooooooom]({{ site.url }}/assets/uuid-postgres-node/quicksilver.gif)
 
 Dang, we're talking 10x faster! Granted, this isn't a perfect test. I ran this on my Mac laptop which isn't going to have the same hardware as a server. But, it's hard to imagine the disparity being that much different on different hardware. Also, my project will probably never involve cranking out rapid fire UUIDs at this rate, but it's fascinating nonetheless. Time to create some UUIDs in Node!
+
+**Edit 4/13/2017**<br/>
+[Jason Owen wrote a very nice follow up](https://jasonaowen.net/blog/2017/Apr/13/benchmarking-uuids/) that includes timing UUID generation from the [pgcrypto extension](https://www.postgresql.org/docs/9.6/static/pgcrypto.html) which I was unaware of. He also made some good points on the [RETURNING clause](https://www.postgresql.org/docs/9.6/static/sql-insert.html), and pre-optimization. Go read it!
+
+
+
+
+
+
