@@ -40,7 +40,7 @@ After consulting a few different sources, my whole kit is about 37 compact items
 | extra clothes | pencils/pens | |
 |[first aid kit](https://www.amazon.com/gp/product/B000069EYA/ref=oh_aui_detailpage_o03_s01?ie=UTF8&psc=1) | plastic sheeting | |
 
-<br/>
+![Our Emergency Supply Kit]({{ site.url }}/assets/emergency_supply_kit/kit.jpg)
 
 For water storage, the recommendation was 1 gallon per person per day. So for my wife and I that's 6 gallons. We added a 7th gallon for our pets.
 
