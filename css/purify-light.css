@@ -38,7 +38,7 @@ body {
  * Add the correct display in IE 9-.
  */
 
-article,footer,header,nav {
+article,aside,footer,header,nav {
   display: block;
 }
 
@@ -157,6 +157,11 @@ code {
  * Add the correct background and color in IE 9-.
  */
 
+mark {
+  background-color: #ff0;
+  color: #000;
+}
+
 /**
  * Add the correct font size in all browsers.
  */
@@ -266,6 +271,10 @@ progress {
   /* 2 */
 }
 
+table {
+  width: 100%;
+}
+
 /**
  * Remove the default vertical scrollbar in IE.
  */
@@ -330,9 +339,17 @@ progress {
  * 1. Add the correct display in Edge, IE, and Firefox.
  */
 
+details {
+  display: block;
+}
+
 /*
  * Add the correct display in all browsers.
  */
+
+summary {
+  display: list-item;
+}
 
 /* Scripting
    ========================================================================== */
@@ -344,6 +361,10 @@ progress {
 /**
  * Add the correct display in IE.
  */
+
+template {
+  display: none;
+}
 
 /* Hidden
    ========================================================================== */
@@ -751,6 +772,14 @@ img {
   vertical-align: top;
 }
 
+.article-empty {
+  display: block;
+  margin: 100px 0;
+  font-style: italic;
+  color: #ada8a8;
+  text-align: center;
+}
+
 .article-header {
   display: block;
   padding-bottom: 30px;
@@ -787,6 +816,13 @@ img {
 
 .article-content blockquote p {
   margin-bottom: 0;
+}
+
+.article-content img.emoji {
+  display: inline-block;
+  margin-top: -4px;
+  margin-bottom: 0;
+  vertical-align: middle;
 }
 
 .article-comments {
@@ -903,6 +939,15 @@ img {
   margin: 0;
 }
 
+.highlighter-rouge {
+  padding: 2px 4px;
+  font-size: 14px;
+  color: #d14;
+  background: #faf9f9;
+  border: 1px solid #ebeaea;
+  border-radius: 1px;
+}
+
 @media all and (max-width: 767px) {
   .highlight {
     padding: 50px 25px;
@@ -913,6 +958,11 @@ img {
 .highlight .c {
   font-style: italic;
   color: #998;
+}
+
+.highlight .err {
+  color: #a61717;
+  background-color: #e3d2d2;
 }
 
 .highlight .k {
@@ -936,6 +986,18 @@ img {
   color: #555;
 }
 
+.highlight .gt {
+  color: #a00;
+}
+
+.highlight .kd {
+  font-weight: bold;
+}
+
+.highlight .kr {
+  font-weight: bold;
+}
+
 .highlight .m {
   color: #099;
 }
@@ -944,12 +1006,40 @@ img {
   color: #d14;
 }
 
+.highlight .nb {
+  color: #0086b3;
+}
+
 .highlight .no {
   color: #008080;
 }
 
+.highlight .mf {
+  color: #099;
+}
+
+.highlight .mh {
+  color: #099;
+}
+
+.highlight .mi {
+  color: #099;
+}
+
+.highlight .sb {
+  color: #d14;
+}
+
 .highlight .s2 {
   color: #d14;
+}
+
+.highlight .se {
+  color: #d14;
+}
+
+.highlight .sr {
+  color: #009926;
 }
 
 .highlight .vi {
@@ -972,6 +1062,86 @@ img {
   text-align: center;
 }
 
+.icon-alert:before {
+  content: "";
+}
+
+.icon-arrow-down-a:before {
+  content: "";
+}
+
+.icon-arrow-down-b:before {
+  content: "";
+}
+
+.icon-arrow-down-c:before {
+  content: "";
+}
+
+.icon-arrow-graph-down-left:before {
+  content: "";
+}
+
+.icon-arrow-graph-down-right:before {
+  content: "";
+}
+
+.icon-arrow-graph-up-left:before {
+  content: "";
+}
+
+.icon-arrow-graph-up-right:before {
+  content: "";
+}
+
+.icon-arrow-left-a:before {
+  content: "";
+}
+
+.icon-arrow-left-b:before {
+  content: "";
+}
+
+.icon-arrow-left-c:before {
+  content: "";
+}
+
+.icon-arrow-move:before {
+  content: "";
+}
+
+.icon-arrow-return-left:before {
+  content: "";
+}
+
+.icon-arrow-return-right:before {
+  content: "";
+}
+
+.icon-arrow-right-a:before {
+  content: "";
+}
+
+.icon-arrow-right-b:before {
+  content: "";
+}
+
+.icon-arrow-right-c:before {
+  content: "";
+}
+
+.icon-arrow-up-a:before {
+  content: "";
+}
+
+.icon-arrow-up-b:before {
+  content: "";
+}
+
+.icon-arrow-up-c:before {
+  content: "";
+}
+
 .icon-at:before {
   content: "";
 }
@@ -980,12 +1150,28 @@ img {
   content: "";
 }
 
+.icon-bag:before {
+  content: "";
+}
+
+.icon-beer:before {
+  content: "";
+}
+
 .icon-bookmark:before {
   content: "";
 }
 
 .icon-bug:before {
   content: "";
+}
+
+.icon-card:before {
+  content: "";
+}
+
+.icon-cash:before {
+  content: "";
 }
 
 .icon-code:before {
@@ -998,6 +1184,10 @@ img {
 
 .icon-coffee:before {
   content: "";
+}
+
+.icon-connection-bars:before {
+  content: "";
 }
 
 .icon-document:before {
@@ -1024,12 +1214,28 @@ img {
   content: "";
 }
 
+.icon-folder:before {
+  content: "";
+}
+
+.icon-fork:before {
+  content: "";
+}
+
+.icon-fork-repo:before {
+  content: "";
+}
+
 .icon-grid:before {
   content: "";
 }
 
 .icon-happy:before {
   content: "";
+}
+
+.icon-heart:before {
+  content: "";
 }
 
 .icon-help:before {
@@ -1046,6 +1252,10 @@ img {
 
 .icon-key:before {
   content: "";
+}
+
+.icon-knife:before {
+  content: "";
 }
 
 .icon-laptop:before {
@@ -1088,6 +1298,10 @@ img {
   content: "";
 }
 
+.icon-loop:before {
+  content: "";
+}
+
 .icon-more:before {
   content: "";
 }
@@ -1100,6 +1314,14 @@ img {
   content: "";
 }
 
+.icon-pizza:before {
+  content: "";
+}
+
+.icon-plane:before {
+  content: "";
+}
+
 .icon-play:before {
   content: "";
 }
@@ -1108,8 +1330,32 @@ img {
   content: "";
 }
 
+.icon-plus:before {
+  content: "";
+}
+
+.icon-power:before {
+  content: "";
+}
+
 .icon-record:before {
   content: "";
+}
+
+.icon-refresh:before {
+  content: "";
+}
+
+.icon-reply:before {
+  content: "";
+}
+
+.icon-reply-all:before {
+  content: "";
+}
+
+.icon-search:before {
+  content: "";
 }
 
 .icon-settings:before {
@@ -1118,6 +1364,10 @@ img {
 
 .icon-share:before {
   content: "";
+}
+
+.icon-social-apple:before {
+  content: "";
 }
 
 .icon-social-chrome:before {
@@ -1159,6 +1409,10 @@ img {
   content: "";
 }
 
+.icon-social-reddit:before {
+  content: "";
+}
+
 .icon-social-rss:before {
   content: "";
 }
@@ -1171,12 +1425,24 @@ img {
   content: "";
 }
 
+.icon-social-youtube:before {
+  content: "";
+}
+
 .icon-steam:before {
   content: "";
 }
 
 .icon-stop:before {
   content: "";
+}
+
+.icon-umbrella:before {
+  content: "";
+}
+
+.icon-woman:before {
+  content: "";
 }
 
 .icon-xbox:before {

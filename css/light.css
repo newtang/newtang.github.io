@@ -316,6 +316,10 @@ progress {
   vertical-align: baseline;
   /* 2 */ }
 
+table {
+  width:100%;
+}
+
 /**
  * Remove the default vertical scrollbar in IE.
  */
