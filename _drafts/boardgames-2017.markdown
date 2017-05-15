@@ -14,12 +14,17 @@ Basically a visual version of Cards Against Humanity where you're trying to buil
 Power Grid
 Like Ticket To Ride but more complicated. Requires powering a grid of cities using different kinds of power plants. Power plants have different capacities at different prices which require different resources.
 
-Pandemic Legacy
+Pandemic Legacy Season 1.
+This is a Legacy game which means each time you play, you progress through a story that permenantly changes the board, cards, and pieces. It's a pretty fascinating concept. You end up playing between 12-24 times, and by the end the game is basically trashed from stickers or discarded cards.
 - hard to organize with 4 people consistently
-- lots of nuance and exceptions to rules as you progress.
+- lots of nuance and exceptions to rules as you progress. It can be hard to remember all rule tweaks if you go awhile without playing.
+- Without going into spoilers, we seemed to have gotten into a somewhat impossble scenario that was very difficult to recover from. I don't think we were strategically that bad, but I suppose it's possible.
 
 Dixit
 I've played this before, but I figured I would document it here. Each person has a few cards with wild, vibrant, unusual artwork on them. Each person rotates taking a turn as the storyteller. The storyteller chooses a card from their hand and comes up with a short story (can be a word or phrase) that describes it. The other players choose a card that would work for the same story. The storyteller is trying to getting some, but not all of the players to guess his card. If all, or none of the players guess his card, the storyteller is penalized. Fun for small groups.
 
 Tokaido
-- The object of the game is to (hilariously) have a better Japanese vacation than your peers which is a hilarious premise, but a solid game. There are several strategies you can take. Once you get the hang of the game, it's pretty quick. About 45 minutes. Also, the artwork and design is superb. 
+- The object of the game is to have a better Japanese vacation than your peers which is a hilarious premise, but a solid game. There are several strategies you can take. Once you get the hang of the game, it's pretty quick. About 45 minutes. Also, the artwork and design is superb. 
+
+Herbacious
+A fun little card game with beautiful watercolors of different herbs. The goal is to collect cards in order to form different groupings of herbs. For example, all different herbs, all the same, several distinct pairs of herbs, etc. Every player takes a turn collecting 2 cards, one of which must be put in a community pot. You also have the option of taking from the community pot if you're ready to form your herb group. Fun game, interesting strategy.

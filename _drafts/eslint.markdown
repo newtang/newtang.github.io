@@ -28,7 +28,7 @@ Here's my set of rules. Since I'm early in my project, I have a feeling some of 
 
 I have them all set to error. In my experience, I don't like having a bunch of compiler/lint warnings, so I always make them errors.
 
-My choices were based on: Will these catch legitmate error and ensure good decisions by future me and potential future collaborators 
+My choices were based on: Will these catch likely errors and ensure good decisions by future me and potential future collaborators 
 
 Let's go through some of them.
 
@@ -45,7 +45,7 @@ curly //enforce consistent brace style for all control statements
 "max-len": ["error", {"code": 156}],
 "quotes": ["off","double"],
 
-Node.
+Node
 callback-return
 handle-callback-err
 "no-path-concat": ["error"],
