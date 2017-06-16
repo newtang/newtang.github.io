@@ -31,3 +31,6 @@ Clean Code by Robert C. Martin
 
 Republic Lost by Lawrence Lessig
 The argument put forth by Lessig is that Campaign Finance Reform is arguably the most important issue facing the United States today. Congressmen spend an inordinate amount of time securing campaign funds from lobbyists which corrupts their ability to represent American citizens. He illustrates several proofs and several examples of this at work including climate change, the obesity epidemic, and several more.. For what it's worth, I think he's right. In the middle of reading I discovered there was an updated version taking into account the recent 2016 election. I read the original which from around 2012. He also shares several solutions to this problem. Anyways, it can be kind of a slow read because I feel like he belabors the point sometimes. But it's a compelling argument and worth reading.
+
+Cannery Row by John Steinbeck
+Another classic high school literature type book. It's a slice of life around the Great Depression from Cannery Row, a little town in Monterrey. There's some great characters and overall a pleasant read.
