@@ -807,6 +807,10 @@ img {
   margin-bottom: 30px;
 }
 
+.article-content p + ul { 
+  margin-top: -30px;
+}
+
 .article-content h2,.article-content h3,.article-content h4 {
   display: block;
   margin-bottom: 10px;
