@@ -7,7 +7,7 @@ categories: javascript eslint
 
 [Title inspired by The Onion](http://www.theonion.com/article/supreme-court-rules-supreme-court-rules-998)
 
-I recently embarked on a new [Node.JS](https://nodejs.org) project, and after having used [JSHint](http://jshint.com/) for several previous projects, I wanted to read up on [ESLint](http://eslint.org/) and give it a shot. I'm a big fan of static analysis tools particularly in untyped languages like Javascript. They catch a ton of bugs by enforcing best practices and looking for known pitfalls. They also help keep your code clean and consistent. I **strongly** recommend using a linter, and it's much easier to use one earlier than later in a project. Anyways, it didn't take long to realize that ESLint is wildly superior to it's predecessors for several reasons:
+I recently embarked on a new [Node.JS](https://nodejs.org) project, and after having used [JSHint](http://jshint.com/) for several previous projects, I wanted to read up on [ESLint](http://eslint.org/) and give it a shot. I'm a big fan of static analysis tools particularly for untyped languages like Javascript. They catch a ton of bugs by enforcing best practices and looking for known pitfalls. They also help keep your code clean and consistent. I **strongly** recommend using a linter, and it's much easier to start using one earlier than later in a project. Anyways, it didn't take long to realize that ESLint is wildly superior to it's predecessors for several reasons:
 
  * There are way more rules (this is a good thing)
  * Easy to configure
@@ -56,7 +56,7 @@ Classic
  * [radix](http://eslint.org/docs/rules/radix)
  * [semi](http://eslint.org/docs/rules/semi)
 
-I remember these from JSLint and JSHint. I prefer semicolons and I think eqeqeq is still a good practice. The radix rule might be a little dated because as of ES5, you no longer have to worry about pesky octals, but hexadecimal numbers can cause unwanted results. And avoiding eval remains wise.
+I remember these from JSLint and JSHint. I prefer semicolons and I think eqeqeq is still a good practice. The radix rule might be a little dated because as of ES5, you no longer have to worry about pesky octals, but hexadecimal numbers can cause unwanted results. And, avoiding eval remains wise.
 
 ES6 and ES7
  * [no-await-in-loop](http://eslint.org/docs/rules/no-await-in-loop)
@@ -69,7 +69,7 @@ ES6 and ES7
  * [prefer-template](http://eslint.org/docs/rules/prefer-template)
  * [require-await](http://eslint.org/docs/rules/require-await)
 
-I'm pretty much fully on the ES6/ES7 train (for Node use anyways). I don't use var, I'm using await/async for all my asynchronous logic, and the spread operator is pretty useful. I think the `prefer-template` rule gets me a lot. For short strings, adding a couple strings together is a little easier for me to read than templates, but maybe I'm just used to the old ways.
+I'm using ES6/ES7 full time (for Node use anyways). I don't use var, I'm using await/async for all my asynchronous logic, and the spread operator is pretty useful. The `prefer-template` rule tripms me up a lot. For short strings, adding a couple strings together is a little easier for me to read than templates, but maybe I'm just used to the old ways of doing things.
 
 
 Things that don't happen often, but there's no harm in protecting against them anyways.
@@ -95,7 +95,6 @@ Good practices
 
 I don't like altering native libraries or using reserved words as variables. A `default` case is usually a good idea and return-assign is hard to read.
 
-
 Clean up
  * [no-alert](http://eslint.org/docs/rules/no-alert)
  * [no-console](http://eslint.org/docs/rules/no-console)
@@ -108,7 +107,6 @@ Clean up
 
 I like rules that catch unused code (which is sometimes an error). No-magic-numbers bites me a lot, but it's definitely nicer to have named constants. For browsers I allow error and warn for for no-console.
 
-
 Misc ones I like
  * [array-callback-return](http://eslint.org/docs/rules/array-callback-return)
  * [no-throw-literal](http://eslint.org/docs/rules/no-throw-literal)
@@ -116,9 +114,9 @@ Misc ones I like
  * [no-unsafe-negation](http://eslint.org/docs/rules/no-unsafe-negation)
  * [strict](http://eslint.org/docs/rules/strict): ["error", "global"],
  * [yoda](http://eslint.org/docs/rules/yoda): ["error", "never", { "exceptRange": true }]
+ * [no-unsafe-regex](https://www.npmjs.com/package/eslint-plugin-no-unsafe-regex)
 
-I also like to remember to `"use strict";` and to throw only Error (or subclasses). The array-callback-return rule is a handy one.
-
+I also like to remember to `"use strict";` and to throw only Error (or subclasses). The array-callback-return rule is a handy one. The last one, no-unsafe-regex, is an eslint plugin to prevent unsafe, exponential time regexes.
 
 This can probably seem overwhelming if you're just starting, but the [default recommended rules](http://eslint.org/docs/rules/) are pretty good. You've probably already made your Javascript better by just choosing the default rules.  Also, [Airbnb has a well-liked set of eslint rules](https://www.npmjs.com/package/eslint-config-airbnb) as well.
 
