@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "ESLint Rules that ESLint Rules"
-date:   2017-06-17 11:35:00 -0800
+date:   2017-06-20 9:01:00 -0800
 categories: javascript eslint
 ---
 
@@ -19,7 +19,7 @@ I recently embarked on a new [Node.JS](https://nodejs.org) project, and after ha
  * Well maintained
  * Easy to ignore a rule with [special comment](http://eslint.org/docs/user-guide/command-line-interface#--no-inline-config)
  * Handy `--fix` directive to auto-fix certain rules.
- * You can override the rules on a per folder basis with .eslint files. This is useful if you have browser and server Javascript in the same repo.
+ * You can override the rules on a per folder basis. This is useful if you have browser and server Javascript in the same repo.
  * Helpful [Gitter channel](https://gitter.im/eslint/eslint)
 
 I know I'm a little behind the times here, but I'm fully on the ESLint train. [Here's my whole set of rules](https://github.com/newtang/eslint) which extend the [ESLint recommended rules](http://eslint.org/docs/rules/). Since I'm early in my project, I have a feeling some of these will change if I get too annoyed by them. I have them all set to error. In my experience, people tend to ignore compiler/linter warnings, so I prefer errors to enforce build failures. My choices were based on: 
