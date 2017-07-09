@@ -34,3 +34,6 @@ The argument put forth by Lessig is that Campaign Finance Reform is arguably the
 
 Cannery Row by John Steinbeck
 Another classic high school literature type book. It's a slice of life around the Great Depression from Cannery Row, a little town in Monterrey. There's some great characters and overall a pleasant read.
+
+The Dark Forest by Cixin Liu
+The sequel to The Three Body Problem. Again, very imaginative and some very clever ideas. Several simultaneous story lines, and some are more compelling than others, but overall an entertaining read.
