@@ -18,9 +18,9 @@ As an owner of an older house, my wife and I gradually make updates and improvem
 [![Window types]({{ site.url }}/assets/windows/types.jpg)]({{ site.url }}/assets/windows/types.jpg)
 
 ### Window materials
-- **Wood**: is more expensive, but an efficient insulator. Requires more maintenance to retain beauty and efficiency. 
-- **Vinyl**: is less expensive than wood. It's efficient, and does not require maintenance. Resistant to scratching, fading, and corrosion. This seems to be the standard choice for replacement windows.
-- **Aluminum**: Not a great insulator, so it's not great for climates with more extreme temperatures. Allows more light because of the thinner frames. Apparently, they can also be more impact-proof, so it's useful for hurricane prone areas. [Source](https://www.angieslist.com/articles/pros-and-cons-aluminum-vs-vinyl-windows.htm)
+- **Wood** is more expensive, but an efficient insulator. Requires more maintenance to retain beauty and efficiency. 
+- **Vinyl** is less expensive than wood. It's efficient, and does not require maintenance. Resistant to scratching, fading, and corrosion. This seems to be the standard choice for replacement windows.
+- **Aluminum** is not a great insulator, so it's not great for climates with more extreme temperatures. Allows more light because of the thinner frames. Apparently, they can also be more impact-proof, so it's useful for hurricane prone areas. [Source](https://www.angieslist.com/articles/pros-and-cons-aluminum-vs-vinyl-windows.htm)
 
 ### Features 
 - **Paned-ness**: (I made this word up) Double paned (also double glazed) windows are literally two panes of glass with a small gap between them. Sometimes, it's hard to tell if glass is double paned. One trick is to hold a lighter flame near the window, and see if you see double. You should see a reflection of the flame for every pane of glass. This tip can get a little confusing, because you might see two very slightly offset reflections per pane. Try doing this trick with a glass cup first and you'll start to understand what you're looking for. Oh, and yes, there are triple paned windows. From what I can tell, this might be overkill unless you live near a particularly loud area like a highway.
@@ -55,6 +55,6 @@ As an owner of an older house, my wife and I gradually make updates and improvem
 
 We went with casement windows with colonial grids and a couple sliding windows with cottage grids. The locking mechanism keeps them firmly closed, and the casement met egress standards. All the windows we purchased are vinyl but painted bronze on the outside, double paned with a thicker glass pane, laminated, and filled with argon gas. The windows near doors are tempered. Admittedly, we didn't get deep into the details of U-factor or SHGC, but the specs seemed fine and met Energy Star standards.
 
-
+![Window final product]({{ site.url }}/assets/windows/window.jpg)
 
 
