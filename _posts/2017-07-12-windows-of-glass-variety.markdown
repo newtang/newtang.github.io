@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Windows of the Glass Variety"
-date:   2017-05-17 11:35:00 -0800
+date:   2017-07-12 15:44:00 -0700
 categories: windows glass
 ---
 
