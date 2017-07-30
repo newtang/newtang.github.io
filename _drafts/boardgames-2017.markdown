@@ -28,3 +28,6 @@ Tokaido
 
 Herbacious
 A fun little card game with beautiful watercolors of different herbs. The goal is to collect cards in order to form different groupings of herbs. For example, all different herbs, all the same, several distinct pairs of herbs, etc. Every player takes a turn collecting 2 cards, one of which must be put in a community pot. You also have the option of taking from the community pot if you're ready to form your herb group. Fun game, interesting strategy.
+
+Splendor
+Another game I've played before but wanted to write about. You choose a few different colored gem coins, to purchase cards that act as a permanant gem coin. (Ie, a ruby, diamond, and 2 emeralds may get you a diamond card). Some of these cards, which require more and more gem coins give you points, and you need 15 points to win. You can also purchase nobles if you have the appropriate number of cards. There's a few more rules involving joker (wild) coins, and reserving cards. It's not very complicated, but I find it very compelling. Older kids (maybe ages 8 or 9+) can get into it.
