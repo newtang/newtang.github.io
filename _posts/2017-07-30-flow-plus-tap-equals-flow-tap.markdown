@@ -42,4 +42,6 @@ Before publishing, I wanted to choose an open source license. I really don't kno
 
 On the occasions I've thought about publishing an npm module, I usually discover something similar that already exists, or bureaucratic red tape dissuades me from open sourcing, so I'm happy I had the opportunity to publish this. Hopefully it won't be the last one! Oh, and let me know if flow-tap comes in handy for you.
 
+**EDIT:** It turns out this may have been for not, as [@izs pointed out](https://twitter.com/izs/status/891866449907601409) you can do roughly the same thing with node-tap's [node-arg](http://www.node-tap.org/cli/) flag, which I was unaware of. Oh well! Still a good learning experience nonetheless.
+
 
