@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Spoiler free review of Pandemic Legacy Season 1"
-date:   2017-08-13 11:35:00 -0800
+date:   2017-09-03 18:07:00 -0700
 categories: boardgames
 ---
 
