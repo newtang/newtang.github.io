@@ -37,3 +37,14 @@ Another classic high school literature type book. It's a slice of life around th
 
 The Dark Forest by Cixin Liu
 The sequel to The Three Body Problem. Again, very imaginative and some very clever ideas. Several simultaneous story lines, and some are more compelling than others, but overall an entertaining read.
+
+Data intensive applications
+A little slow at times, but really informative on general architecture strategies. I'm not sure I would recommend reading it straight through like I did. There's lots of several interesting topics to bounce around in.
+
+Death's End by Cixin Liu
+The final book of the Three Body Problem Triology. Goes in a crazy direction, but I really enjoyed the trilogy.
+
+The Organic Composing Handbook by Dede Cummings
+Eh, this was a very fluffy book. There's some interesting tidbits here and there, but also a lot of random stories and contradictions. If you were interesting in starting a compost pile (which I highly recommend if your community doesn't have compost pickup), any online instruction should be sufficient.
+
+

@@ -17,3 +17,6 @@ I've never played a game quite like this. I'm told it's like Harvest Moon. For m
 
 Yoshi's Wooly World (Wii U)
 This is similar to side scrolling Mario games except Yoshi is the protagonist and the entire world is made of wool! The texture of the game is amazing and unlike anything I've ever played. As Yoshi you solve little puzzles, find coins and other treasures by unravelling wool, or spitting out yarn balls. I played this with my wife as a two-player co-op which is fun. You can leverage each other to solve puzzles. However, the two-player mode feels a bit bolted on. There are instances where you get launched off screen (like from a trampoline), and it automatically kills your partner. Some worlds, particularly the bonus world are basically impossible for a co-op to complete because you get in each others' way too much. But, that shouldn't dissuade you from playing. Really fun game!
+
+Zelda: Breath of the Wild
+This is probably one of the best games I ever played. Huge, huge world. Plenty to do. It's fun, it's difficult, it's exciting, it's funny. I could go on and on.
