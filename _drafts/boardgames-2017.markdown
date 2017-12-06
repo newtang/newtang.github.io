@@ -24,10 +24,13 @@ Dixit
 I've played this before, but I figured I would document it here. Each person has a few cards with wild, vibrant, unusual artwork on them. Each person rotates taking a turn as the storyteller. The storyteller chooses a card from their hand and comes up with a short story (can be a word or phrase) that describes it. The other players choose a card that would work for the same story. The storyteller is trying to getting some, but not all of the players to guess his card. If all, or none of the players guess his card, the storyteller is penalized. Fun for small groups.
 
 Tokaido
-- The object of the game is to have a better Japanese vacation than your peers which is a hilarious premise, but a solid game. There are several strategies you can take. Once you get the hang of the game, it's pretty quick. About 45 minutes. Also, the artwork and design is superb. 
+- The object of the game is to have a better Japanese vacation than your peers which is a hilarious premise, but a solid game. There are several strategies you can take. Once you get the hang of the game, it's pretty quick. About 45 minutes. Also, the artwork and design are superb. 
 
 Herbacious
 A fun little card game with beautiful watercolors of different herbs. The goal is to collect cards in order to form different groupings of herbs. For example, all different herbs, all the same, several distinct pairs of herbs, etc. Every player takes a turn collecting 2 cards, one of which must be put in a community pot. You also have the option of taking from the community pot if you're ready to form your herb group. Fun game, interesting strategy.
 
 Splendor
 Another game I've played before but wanted to write about. You choose a few different colored gem coins, to purchase cards that act as a permanant gem coin. (Ie, a ruby, diamond, and 2 emeralds may get you a diamond card). Some of these cards, which require more and more gem coins give you points, and you need 15 points to win. You can also purchase nobles if you have the appropriate number of cards. There's a few more rules involving joker (wild) coins, and reserving cards. It's not very complicated, but I find it very compelling. Older kids (maybe ages 8 or 9+) can get into it.
+
+Smallworld Underground
+This is an another version of Smallworld, with different races and abilities. Basically you have a map of a world, and each person is given a race and an ability. You use this to your advantage to gain coins. Eventually you die out and you get another race and ability. The underground version has a few tokens and treasures that can really disrupt the world. Smallworld is a neat game, but I find it strategically difficult because it's so hard to keep track of what all the different races and abilities do. 
