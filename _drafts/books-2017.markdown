@@ -5,20 +5,19 @@ date:   2018-01-01 11:35:00 -0800
 categories: books
 ---
 
-I haven't been happy with the number of books I've been able to finish the last few years. Usually I'll read a lot, hit a lull, get busy, or any number of excuses. In 2017, I decided to take my friend [Jonathan's advice and try to read a mere 10 pages a day](http://blog.jpalardy.com/posts/10-pages-a-day/). It worked out really well for a number of reasons. Ten pages is so attainable, and easy to squeeze in during the day. And, any time I hit a dry portion of a book, the ten page rule helps push me through. I still missed a few days here and there, but it's easy to get back on the horse. This year I got through 12 books, 11 issues of Wired, and a [few huge blog posts](https://waitbutwhy.com/2017/04/neuralink.html). I kept track of the books I read over the year in some handy categories.
+I haven't been happy with the number of books I've been able to complete the last few years. In 2017, I decided to take my friend Jonathan's advice and [try to read a mere 10 pages a day](http://blog.jpalardy.com/posts/10-pages-a-day/). It worked out really well for a number of reasons. Ten pages is so attainable, and easy to squeeze in during the day. And, any time I hit a dry portion of a book, the ten page rule helps push me through. I still missed a few days here and there, but it's easy to recover. This year I got through 12 books, 11 issues of [Wired](https://www.wired.com/), and a [few huge blog posts](https://waitbutwhy.com/2017/04/neuralink.html). I kept track of the books I read over the year in these handy categories.
 
 ## Technical
-
 
 #### [![Internet Architectures]({{ site.url }}/assets/books-2017/scalableInternetArchitectures.jpg){: style="clear:right;margin-left:20px;float:right;width:125px"}](http://a.co/2qb8uBD)[Scalable Internet Architectures](http://a.co/2qb8uBD) by Theo Schlossnagle
 I didn't like this very much. It bounced between topics I knew a lot about like source control, to others that weren't very well explained. Maybe it was too dry, or it just didn't interest me. I don't know, but I wouldn't recommend it.
 
 #### [![Clean Code]({{ site.url }}/assets/books-2017/cleanCode.jpg){: style="clear:right;margin-left:20px;float:right;width:125px"}](http://a.co/3m8qcVt)[Clean Code](http://a.co/3m8qcVt) by Robert C. Martin
-As a relatively experienced developer I agreed with quite a lot in the book. It was still worthwhile to read; it crystalized some notions I had, made me reflect on some of my programming values, and nicely explained several topics. I think I would've gained more by reading this five years ago, but it was still worthwhile. I would recommend it to people who've programmed a few years and are looking to make the next jump.
+As a relatively experienced developer I agreed with quite a lot in the book. It was still worthwhile to read; it crystallized some notions I had, made me reflect on some of my programming values, and nicely explained several topics. I think I would've gained more by reading this five years ago, but it was still worthwhile. I would recommend it to people who've programmed a few years and are looking to make the next jump.
 
 
 #### [![Designing Data-Intensive Applications]({{ site.url }}/assets/books-2017/DesigningDataIntensive.jpg){: style="clear:right;margin-left:20px;float:right;width:125px"}](http://a.co/5l4JTMU)[Designing Data-Intensive Applications](http://a.co/5l4JTMU) by Martin Kleppmann
-This seemed to be the hot technical book of the year. It's definitely a great read on a number of architecture and scaling situations and tradeoffs. I read it cover to cover, which I'm not sure I would recommend. I wish I bounced around more to topics that particularly interested me, instead of trying to plow through one that didn't. Anyways, if you're building big software platforms, definitely recommended reading.
+This seemed to be the hot technical book of the year. It's definitely a great read on a number of architecture and scaling situations and trade-offs. I read it cover to cover, which I'm not sure I would recommend. I wish I bounced around more to topics that particularly interested me, instead of trying to plow through ones that didn't. Anyways, if you're building big software platforms, this is definitely recommended reading.
 
 
 ## Other nonfiction
@@ -28,7 +27,7 @@ This is a fun read about the origin story of [Reddit](https://reddit.com), but I
 <br /><br /><br /><br />
 
 #### [![Delivering Happiness]({{ site.url }}/assets/books-2017/DeliveringHappiness.jpg){: style="clear:right;margin-left:20px;float:right;width:125px"}](http://a.co/0hZLc4h)[Delivering Happiness](http://a.co/0hZLc4h) by Tony Hsieh
-This is a pretty interesting story about Tony Hsieh, the founder of Zappos, and his life and decision making. I really enjoyed the discussion about how company culture is an extension of brand. I still can't believe he walked away from $40 million. He just had to continue working at LinkExchange for a year and he couldn't do it! The end touches upon the science of happiness. This correlated well with Drive which talked about the importance of purpose, autonomy, and mastery. Delivering Happiness added Connectedness which I really like.
+This is a pretty interesting autobiography about Tony Hsieh, the founder of [Zappos](https://zappos.com), and his life and decision making. I really enjoyed the discussion about how company culture is an extension of brand. I still can't believe he chose to walk away from 40 million dollars instead of continuing to work at LinkExchange for a year! Obviously, it worked out for him. The end touches upon the science of happiness. This correlated well with [Drive by Daniel H. Pink](http://a.co/cNNPQzU) which discussed the importance of purpose, autonomy, and mastery to being happy and motivated. Delivering Happiness added Connectedness which made a lot of sense to me.
 
 
 #### [![Republic Lost]({{ site.url }}/assets/books-2017/republicLost.jpg){: style="clear:right;margin-left:20px;float:right;width:125px"}](http://a.co/ikygplJ)[Republic Lost](http://a.co/ikygplJ ) by Lawrence Lessig
@@ -38,7 +37,7 @@ As an aside, [Mayday.us](https://mayday.us/) and [Represent.us](https://represen
 
 
 #### [![The Organic Composting Handbook]({{ site.url }}/assets/books-2017/OrganicComposting.jpg){: style="clear:right;margin-left:20px;float:right;width:125px"}](http://a.co/eTBmPwb)[The Organic Composing Handbook](http://a.co/eTBmPwb ) by Dede Cummings
-Eh, this was a very fluffy book. There's some interesting tidbits here and there, but also a lot of random stories and contradictions. If you were interesting in starting a compost pile (which I highly recommend if your community doesn't have compost pickup), any online instruction should be sufficient.
+Eh, this was a very fluffy book. There's some nice photos and some interesting tidbits here and there, but also a lot of random stories and contradictions. If you were interested in starting a compost pile (which I highly recommend if your community doesn't have compost pickup), any online instruction should be sufficient.
 
 
 
