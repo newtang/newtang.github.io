@@ -35,9 +35,12 @@ The argument put forth by Lessig is that Campaign Finance Reform is the most imp
 
 As an aside, [Mayday.us](https://mayday.us/) and [Represent.us](https://represent.us/) are two organizations attempting to educate voters and fix this problem.
 
-
 #### [![The Organic Composting Handbook]({{ site.url }}/assets/books-2017/OrganicComposting.jpg){: style="clear:right;margin-left:20px;float:right;width:125px"}](http://a.co/eTBmPwb)[The Organic Composing Handbook](http://a.co/eTBmPwb ) by Dede Cummings
 Eh, this was a very fluffy book. There's some nice photos and some interesting tidbits here and there, but also a lot of random stories and contradictions. If you were interested in starting a compost pile (which I highly recommend if your community doesn't have compost pickup), any online instruction should be sufficient.
+
+
+#### [![How the Hell Did This Happen? The Election of 2016]({{ site.url }}/assets/books-2017/howTheHell.jpg){: style="clear:right;margin-left:20px;float:right;width:125px"}](http://a.co/foX4sGV )[How the Hell Did This Happen? The Election of 2016](http://a.co/eTBmPwb ) by P.J. O'Rourke
+A light hearted read about the recent presidential election. Takes some fun jabs at the candidates, but not a ton of substance until the end.
 
 
 
