@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Books I read in 2018"
+date:   2018-01-13 6:03:00 -0800
+categories: books
+---
+
+
+
+## Non-fiction
+
+#### [![The Cartoon Guide to Statistics]({{ site.url }}/assets/books-2018/cartoonstats.jpg){: style="clear:right;margin-left:20px;float:right;width:125px"}](http://a.co/2qb8uBD)[The Cartoon Guide to Statistics](http://a.co/6TpDdcj) by Larry Gonick & Woollcott Smith
+I seem to try to learn a little more about statistics every year, and this book is my latest attempt. There's lots of good examples that build on the lessons of previous chapters. Admittedly at times it went a little too fast for me, and I had to repeatedly go back and refresh myself. But overall, this was pretty good. I'm happy to have a book I can revisit to refresh myself on statistics concepts.
