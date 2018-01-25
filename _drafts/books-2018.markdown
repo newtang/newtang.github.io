@@ -5,6 +5,10 @@ date:   2018-01-13 6:03:00 -0800
 categories: books
 ---
 
+## Fiction
+
+#### [![Artemis]({{ site.url }}/assets/books-2018/artemis.jpg){: style="clear:right;margin-left:20px;float:right;width:125px"}](http://a.co/g8Cm66b)[Artemis](http://a.co/6TpDdcj) by Andy Weir
+The author of The Martian is back with another fun space adventure, this time on a moon base. Artemis has a lot of fascinating science factoids that The Martian has, and I though the story was gripping, particularly through the end. I had a tough time visualizing some of the things described to me, but all in all this was a fun read.
 
 
 ## Non-fiction
