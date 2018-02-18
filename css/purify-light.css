@@ -930,9 +930,9 @@ img {
 }
 
 .highlight {
-  padding: 25px;
+  padding: 10px;
   margin: 0;
-  margin: 30px 0;
+  margin: 10px 0;
   overflow: auto;
   font-weight: 400;
   background: #faf9f9;
