@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Problems with Content Security Policy"
-date:   2018-02-17 22:40:00 -0800
+date:   2018-02-20 10:00:00 -0800
 categories: programming csp
 ---
 
