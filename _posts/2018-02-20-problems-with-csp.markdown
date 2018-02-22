@@ -37,7 +37,7 @@ Interestingly, I cannot whitelist a particular [data url](https://developer.mozi
 ### Segment
 [Segment](https://segment.com/) is an interesting service that allows a user to embed one script, and turn on or off various services (like Zendesk, Google Analytics, etc). It's handy for all sorts of reasons, but it's a nightmare if the webpage has a CSP. Someone can just flip on Mixpanel, but if its urls are never added to the CSP, well, it's going to be blocked. I don't think there's much Segment can do here, but improved documentation, as I mentioned above, would be a good start.
 
-### No subdomain wildcards 
+### ~~No subdomain wildcards~~ (EDITED)
 Here's some very similar looking reports. Note the subdomains:
 ```
 blocked-uri: wss://us34.zopim.com, violated-directive: connect-src...
@@ -45,7 +45,9 @@ blocked-uri: wss://us22.zopim.com, violated-directive: connect-src...
 blocked-uri: wss://us24.zopim.com, violated-directive: connect-src...
 ```
 
-I have no idea what [Zopim's](https://www.zopim.com/) rationale for having multiple different subdomains, but unfortunately, CSPs do not allow subdomain wildcards. It's not a big deal if there's a few, but in this case there's *a ton*. Bummer. Anyways, this is another area I think CSP could potentially improve.
+~~I have no idea what [Zopim's](https://www.zopim.com/) rationale for having multiple different subdomains, but unfortunately, CSPs do not allow subdomain wildcards. It's not a big deal if there's a few, but in this case there's *a ton*. Bummer. Anyways, this is another area I think CSP could potentially improve.~~
+
+**EDIT 2/22/18**: It turns out CSPs do allow for subdomain wildcards. I don't know where I got my info, but adding `https://*.zopim.com` to a CSP totally works. Sorry about that. Thanks to the friendly folks at [Zendesk](https://zendesk.com) for pointing this out.
 
 ### Alerts from extensions
 ```
