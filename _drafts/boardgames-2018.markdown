@@ -13,4 +13,6 @@ I've played this a few times over the years, but I wanted to write about it. It'
 style="clear:right;margin-left:20px;float:right;width:125px"}](http://a.co/9BSQ41B)[Alhambra](http://a.co/9BSQ41B)
 This is a competitve game where players are trying to build a little city complex by purchasing different building tiles from a shared community market with a few different currencies. You get points by having the most of the different kinds of tiles, and a couple other ways. It's a decent game. It was a little tricky to understand at first, but it's not too complex once you play a couple turns. You can't affect others' progress too much other than buying a tile you think they might want.
 
-http://a.co/ 
+#### [![Gloomhaven]({{ site.url }}/assets/boardgames-2018/gloomhaven.jpg){:
+style="clear:right;margin-left:20px;float:right;width:125px"}](http://a.co/djuPb7X )[Gloomhaven](http://a.co/djuPb7X )
+There's a lot of hype around this game. It was a [Kickstarter campaign](https://www.kickstarter.com/projects/1350948450/gloomhaven) and is very well regarded on [Board Game Geek](https://boardgamegeek.com/boardgame/174430/gloomhaven). My friends and I only played one scenario, but we didn't really enjoy it. It has a steep learning curve, and requires a ton of setup. Once we got the hang of it, we found the combat logic frustrating. It felt like we would spend a lot of time planning our attacks and movements, only to have some randomness make our plans worthless. It clearly appeals to someone, but I don't think I would recommend it.
