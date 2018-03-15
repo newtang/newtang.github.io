@@ -10,6 +10,8 @@ categories: books
 #### [![Artemis]({{ site.url }}/assets/books-2018/artemis.jpg){: style="clear:right;margin-left:20px;float:right;width:125px"}](http://a.co/g8Cm66b)[Artemis](http://a.co/6TpDdcj) by Andy Weir
 The author of The Martian is back with another fun space adventure, this time on a moon base. Artemis has a lot of fascinating science factoids that The Martian has, and I though the story was gripping, particularly through the end. I had a tough time visualizing some of the things described to me, but all in all this was a fun read.
 
+#### [![Pirate Latitudes]({{ site.url }}/assets/books-2018/pirateLatitudes.jpg){: style="clear:right;margin-left:20px;float:right;width:125px"}](http://a.co/f8VGzjp)[Pirate Latitudes](http://a.co/f8VGzjp) by Michael Crichton
+I read most of Crichton's books as a teenager. I was a huge fan, but it's been years since I've read anything by him. There have been a few books that have been released posthumously, one of which was Pirate Latitudes. It starts a bit slow, but really picks up. It feels like Oceans 11 in the 1600s with Pirates, then goes in several different directions. Really fun book.
 
 ## Non-fiction
 
