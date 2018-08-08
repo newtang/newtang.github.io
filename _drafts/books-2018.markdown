@@ -26,3 +26,11 @@ This book's primary argument is in the subtitle, "anyone can master the art and 
 
 #### [![The Case Against Sugar]({{ site.url }}/assets/books-2018/caseAgainstSugar.jpg){: style="clear:right;margin-left:20px;float:right;width:125px"}](http://a.co/0neCK1c)[The Case Against Sugar](http://a.co/0neCK1c) by Gary Taubes
 This is kind of a lengthy history on sugar, it's introduction into "Western diets" and the work that the sugar industry has done to persuade the public that sugar is harmless. It also goes into detail about the real harm that extensive sugar consumption leads to. The book made it's point, but overall, I thought it was a bit slow; it focused more on the politics, and less on the biology and science. The most interesting part was the correlation between sugar consumption and a variety of diseases including gout, cancer, and Alzheimers. Side note: I wrote about [reducing my carbohydrate intake in an earlier post]({{site.url}}/posts/losing-weight-by-giving-up-carbohydrates).
+
+####[![Astrophysics for People in a Hurry]({{ site.url }}/assets/books-2018/astrophysics.jpg){: style="clear:right;margin-left:20px;float:right;width:125px"}](http://a.co/chn4bUU)[Astrophysics for People in a Hurry](http://a.co/chn4bUU) by Neil de Grasse Tyson
+Very fun, very informative read. Pretty light as far as non-fiction goes. I really enjoyed the sections on Dark Matter and Dark Energy.
+
+####[![The God Delusion]({{ site.url }}/assets/books-2018/godDelusion.jpg){: style="clear:right;margin-left:20px;float:right;width:125px"}](http://a.co/4uCUaUQ)[The God Delusion](http://a.co/4uCUaUQ) by Richard Dawkins
+I've been curious about this book for awhile. Dawkins makes a lot of interesting points about the Bible, particularly some history and contradictions. It's a bit slow, but I think I read too many nonfiction books in a row. I enjoyed his discussions on evolution and memetics. 
+
+
