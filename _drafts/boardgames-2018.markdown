@@ -16,3 +16,7 @@ This is a competitve game where players are trying to build a little city comple
 #### [![Gloomhaven]({{ site.url }}/assets/boardgames-2018/gloomhaven.jpg){:
 style="clear:right;margin-left:20px;float:right;width:125px"}](http://a.co/djuPb7X )[Gloomhaven](http://a.co/djuPb7X )
 There's a lot of hype around this game. It was a [Kickstarter campaign](https://www.kickstarter.com/projects/1350948450/gloomhaven) and is very well regarded on [Board Game Geek](https://boardgamegeek.com/boardgame/174430/gloomhaven). My friends and I only played one scenario, but we didn't really enjoy it. It has a steep learning curve, and requires a ton of setup. Once we got the hang of it, we found the combat logic frustrating. It felt like we would spend a lot of time planning our attacks and movements, only to have some randomness make our plans worthless. It clearly appeals to someone, but I don't think I would recommend it.
+
+#### [![Munchkin]({{ site.url }}/assets/boardgames-2018/munchkin.jpg){:
+style="clear:right;margin-left:20px;float:right;width:125px"}](http://a.co/39Kvb28)[Munchkin](http://a.co/39Kvb28)
+This game struck me as a pseudo-competitive D&D-like card game. I wish I wrote this up closer to when I actually played. Anyways, you have to fight various monsters that come up in the deck. If you can't defeat them you can enlist the help of the other players, but you have to give away some of the resultant loot. As you win battles you level up, which helps you win more battles or inflict chaos for other players.
