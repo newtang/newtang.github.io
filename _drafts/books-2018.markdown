@@ -13,6 +13,9 @@ The author of The Martian is back with another fun space adventure, this time on
 #### [![Pirate Latitudes]({{ site.url }}/assets/books-2018/pirateLatitudes.jpg){: style="clear:right;margin-left:20px;float:right;width:125px"}](http://a.co/f8VGzjp)[Pirate Latitudes](http://a.co/f8VGzjp) by Michael Crichton
 I read most of Crichton's books as a teenager. I was a huge fan, but it's been years since I've read anything by him. There have been a few books that have been released posthumously, one of which was Pirate Latitudes. It starts a bit slow, but really picks up. It feels like Oceans 11 in the 1600s with Pirates, then goes in several different directions. Really fun book.
 
+#### [![Altered Carbon]({{ site.url }}/assets/books-2018/alteredCarbon.jpg){: style="clear:right;margin-left:20px;float:right;width:125px"}](https://www.amazon.com/dp/0345457684/)[Pirate Latitudes](https://www.amazon.com/dp/0345457684/) by Richard K Morgan
+Set in a far future where people can transport their consciousness to different bodies (sleeves), we follow the exploits of Takeshi Kovacs who was hired to solve a murder mystery of sorts. The physics of how the world works is fascinating, and the book can be pretty violent and graphic. Although the pacing is excellent, at times it's a bit hard to follow; there are some characters or references made that I didn't recall. It could just be me, but this made it frustrating to read at times.
+
 ## Non-fiction
 
 #### [![The Cartoon Guide to Statistics]({{ site.url }}/assets/books-2018/cartoonstats.jpg){: style="clear:right;margin-left:20px;float:right;width:125px"}](http://a.co/2qb8uBD)[The Cartoon Guide to Statistics](http://a.co/6TpDdcj) by Larry Gonick & Woollcott Smith
