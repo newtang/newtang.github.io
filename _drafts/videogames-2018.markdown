@@ -26,3 +26,8 @@ This is single player puzzle game that mimics writing assembly. As the levels pr
 *iOS*<br/>
 ![Donut County]({{ site.url }}/assets/video-games-2018/donutCounty.jpg)
 A single player game where you control a hole in the ground that gets bigger as it consumes more and more stuff. Kind of Katamari-esque. It's not a particularly challenging game, but it's cute and fun.
+
+<h4 style="margin:0;">Inside</h4>
+*PC from Steam*<br/>
+![Inside]({{ site.url }}/assets/video-games-2018/inside.jpg)
+From the creators of Limbo, this is another visually dark and visually impressive game. It's a single player 3d rendered side-scroller with elements of action, suspense, and puzzle solving. I loved it. Some of the enemies are pretty terrifying and some of the ways the protagonist can die are gruesome.

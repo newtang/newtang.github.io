@@ -20,3 +20,11 @@ There's a lot of hype around this game. It was a [Kickstarter campaign](https://
 #### [![Munchkin]({{ site.url }}/assets/boardgames-2018/munchkin.jpg){:
 style="clear:right;margin-left:20px;float:right;width:125px"}](http://a.co/39Kvb28)[Munchkin](http://a.co/39Kvb28)
 This game struck me as a pseudo-competitive D&D-like card game. I wish I wrote this up closer to when I actually played. Anyways, you have to fight various monsters that come up in the deck. If you can't defeat them you can enlist the help of the other players, but you have to give away some of the resultant loot. As you win battles you level up, which helps you win more battles or inflict chaos for other players.
+
+#### [![Azul]({{ site.url }}/assets/boardgames-2018/jaipur.jpg){:
+style="clear:right;margin-left:20px;float:right;width:125px"}](http://a.co/d/048YgzD )[Jaipur](http://a.co/d/048YgzD )
+This was a pretty clever multiplayer game where each player gets tiles from a shared community space, and has to assemble the tiles on their own personal space in particular patterns to maximize points. Very fun, very clever.
+
+#### [![Jaipur]({{ site.url }}/assets/boardgames-2018/jaipur.jpg){:
+style="clear:right;margin-left:20px;float:right;width:125px"}](http://a.co/d/9krb2dc)[Jaipur](http://a.co/d/9krb2dc)
+Very fun 2-player board game. Each player is vying to become the personal seller for the maharaja. You're basically trying to buy and sell goods and get the most money at the end of the game. The buying mechanics are clever, and there are several valid strategies for playing. Also, it's a relatively quick game, which is nice.
