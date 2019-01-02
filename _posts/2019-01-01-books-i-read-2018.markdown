@@ -1,26 +1,28 @@
 ---
 layout: post
 title:  "Books I read in 2018"
-date:   2018-01-13 6:03:00 -0800
+date:   2019-01-01 5:30:00 -0800
 categories: books
 ---
+
+Hey, a blog post! Neat! In 2018, I have not written nearly as much as I would've liked. Most of my time has been sucked up by my startup, [Eventbot](https://geteventbot.com). Although I found some time to read and squeeze in a few games (upcoming posts), my energy for additional technical writing was pretty much sapped. I'm not super optimistic that will change this year, but we'll see. Anyways, on to the books!
 
 ## Fiction
 
 #### [![Artemis]({{ site.url }}/assets/books-2018/artemis.jpg){: style="clear:right;margin-left:20px;float:right;width:125px"}](http://a.co/g8Cm66b)[Artemis](http://a.co/6TpDdcj) by Andy Weir
-The author of The Martian is back with another fun space adventure, this time on a moon base. Artemis has a lot of fascinating science factoids that The Martian has, and I though the story was gripping, particularly through the end. I had a tough time visualizing some of the things described to me, but all in all this was a fun read.
+The author of The Martian is back with another fun space adventure, this time on a moon base. Artemis has a lot of fascinating science factoids that The Martian has, and I thought the story was gripping, particularly through the end. I had a tough time visualizing some of the things described to me, but all in all this was a fun read.
 
 #### [![Pirate Latitudes]({{ site.url }}/assets/books-2018/pirateLatitudes.jpg){: style="clear:right;margin-left:20px;float:right;width:125px"}](http://a.co/f8VGzjp)[Pirate Latitudes](http://a.co/f8VGzjp) by Michael Crichton
 I read most of Crichton's books as a teenager. I was a huge fan, but it's been many years since I've read anything by him. There have been a few books that have been released posthumously, one of which was Pirate Latitudes. It starts a bit slow, but really picks up. It feels like Oceans 11 in the 1600s with Pirates, then goes in several different directions. Really fun book.
 
-#### [![Altered Carbon]({{ site.url }}/assets/books-2018/alteredCarbon.jpg){: style="clear:right;margin-left:20px;float:right;width:125px"}](https://www.amazon.com/dp/0345457684/)[Pirate Latitudes](https://www.amazon.com/dp/0345457684/) by Richard K Morgan
+#### [![Altered Carbon]({{ site.url }}/assets/books-2018/alteredCarbon.jpg){: style="clear:right;margin-left:20px;float:right;width:125px"}](https://www.amazon.com/dp/0345457684/)[Altered Carbon](https://www.amazon.com/dp/0345457684/) by Richard K Morgan
 Set in a far future where people can transport their consciousness to different bodies (sleeves), we follow the exploits of Takeshi Kovacs who was hired to solve a murder mystery of sorts. The physics of how the world works is fascinating, and the book can be pretty violent and graphic. Although the pacing is excellent, at times it's a bit hard to follow; there are some characters or references made that I didn't recall. It could just be me, but this made it frustrating to read at times.
 
-#### [![Next]({{ site.url }}/assets/books-2018/next.jpg){: style="clear:right;margin-left:20px;float:right;width:125px"}](http://a.co/d/f1dykKP)[Pirate Latitudes](http://a.co/d/f1dykKP) by Michael Crichton
-Continuing on my mini-Crichton rampage, Next was Crichton's final book before he died. I think I read it along time ago, but I didn't remember it well. Anyways, it's a typical Crichton book: cool science, well-written, some interesting plot twists, and forgetable characters. Some of the science seems a tad dated, or well-accepted at this point. Very easy to read, as is all of his books. Not my favorite, but a fun read.
+#### [![Next]({{ site.url }}/assets/books-2018/next.jpg){: style="clear:right;margin-left:20px;float:right;width:125px"}](http://a.co/d/f1dykKP)[Next](http://a.co/d/f1dykKP) by Michael Crichton
+Continuing on my mini-Crichton rampage, Next was Crichton's final book before he died. I think I read it along time ago, but I didn't remember it well. Anyways, it's a typical Crichton book: cool science, well-written, some interesting plot twists, and completely forgettable characters. Some of the science seems a tad dated, or well-accepted at this point. Very easy to read, as is all of his books. Not my favorite, but a fun read.
 
-#### [![Dance Dance Dance]({{ site.url }}/assets/books-2018/dancedancedance.jpg){: style="clear:right;margin-left:20px;float:right;width:125px"}](http://a.co/d/79Wg8Tz)[Pirate Latitudes](http://a.co/d/79Wg8Tz) by Haruki Murakami
-This was my first Murakami story! Very enjoyable, and easy to read. It felt like a fun, eclectic mix of Stranger Things and Dirk Gently's Holistic Detective Agency (the book). This was translated from Japanese, but I thought the prose flowed very well. I thought there were a couple strange word choices here and there, but it didn't derail my enjoyment. I'm sure I'll be reading another Murakami story soon.
+#### [![Dance Dance Dance]({{ site.url }}/assets/books-2018/dancedancedance.jpg){: style="clear:right;margin-left:20px;float:right;width:125px"}](http://a.co/d/79Wg8Tz)[Dance Dance Dance](http://a.co/d/79Wg8Tz) by Haruki Murakami
+This was my first Murakami book! Very enjoyable, and easy to read. It felt like a fun, eclectic mix of Stranger Things and Dirk Gently's Holistic Detective Agency. This was translated from Japanese, but I thought the prose flowed very well. I thought there were a couple strange word choices here and there, but it didn't derail my enjoyment. I'm sure I'll be reading another Murakami story soon.
 
 
 ## Non-fiction
@@ -37,10 +39,10 @@ This book's primary argument is in the subtitle, "anyone can master the art and 
 #### [![The Case Against Sugar]({{ site.url }}/assets/books-2018/caseAgainstSugar.jpg){: style="clear:right;margin-left:20px;float:right;width:125px"}](http://a.co/0neCK1c)[The Case Against Sugar](http://a.co/0neCK1c) by Gary Taubes
 This is kind of a lengthy history on sugar, it's introduction into "Western diets" and the work that the sugar industry has done to persuade the public that sugar is harmless. It also goes into detail about the real harm that extensive sugar consumption leads to. The book made it's point, but overall, I thought it was a bit slow; it focused more on the politics, and less on the biology and science. The most interesting part was the correlation between sugar consumption and a variety of diseases including gout, cancer, and Alzheimers. Side note: I wrote about [reducing my carbohydrate intake in an earlier post]({{site.url}}/posts/losing-weight-by-giving-up-carbohydrates).
 
-####[![Astrophysics for People in a Hurry]({{ site.url }}/assets/books-2018/astrophysics.jpg){: style="clear:right;margin-left:20px;float:right;width:125px"}](http://a.co/chn4bUU)[Astrophysics for People in a Hurry](http://a.co/chn4bUU) by Neil de Grasse Tyson
+#### [![Astrophysics for People in a Hurry]({{ site.url }}/assets/books-2018/astrophysics.jpg){: style="clear:right;margin-left:20px;float:right;width:125px"}](http://a.co/chn4bUU)[Astrophysics for People in a Hurry](http://a.co/chn4bUU) by Neil deGrasse Tyson
 Very fun, very informative read. Pretty light as far as non-fiction goes. I really enjoyed the sections on Dark Matter and Dark Energy.
 
-####[![The God Delusion]({{ site.url }}/assets/books-2018/godDelusion.jpg){: style="clear:right;margin-left:20px;float:right;width:125px"}](http://a.co/4uCUaUQ)[The God Delusion](http://a.co/4uCUaUQ) by Richard Dawkins
+#### [![The God Delusion]({{ site.url }}/assets/books-2018/godDelusion.jpg){: style="clear:right;margin-left:20px;float:right;width:125px"}](http://a.co/4uCUaUQ)[The God Delusion](http://a.co/4uCUaUQ) by Richard Dawkins
 I've been curious about this book for awhile. Dawkins makes a lot of interesting points about the Bible, particularly some history and contradictions. It's a bit slow, but I think I read too many nonfiction books in a row. I enjoyed his discussions on evolution and memetics. 
 
 
