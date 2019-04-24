@@ -1,0 +1,40 @@
+---
+layout: post
+title:  "Video games of 2019"
+date:   2019-01-04 23:30:00 -0800
+categories: videogames
+---
+
+<h4 style="margin:0;">7 Billion Humans</h4>
+*iOS*<br/>
+![7 Billion Humans]({{ site.url }}/assets/video-games-2019/7BillionHumans.jpg)
+This single player puzzle game is essentially the sequel to [Human Resource Machine which I chronicled last year](/posts/video-games-2018). This time, instead of assembly, you're tasked with multi-threading puzzles! As the levels progress you get more commands at your disposal. Puzzles get more and more difficult and gnarly as you progress. Each puzzle includes some stretch goals like fewest number of commands. Tricky, fun puzzler! Again, like Human Resource Machine, I played it on my phone, which was made the UI a little tight. 
+
+
+<h4 style="margin:0;">Civilization VI</h4>
+*PC Steam*<br/>
+![Civilization VI]({{ site.url }}/assets/video-games-2019/civilization6.jpg)
+It's Civ. Same old great game.
+
+<h4 style="margin:0;">Worms WMD</h4>
+*Nintendo Switch*<br/>
+![Worms WMD]({{ site.url }}/assets/video-games-2019/wormswmd.jpg)
+Basically a refresh of the classic 2D Worms games for the Switch. Each player controls a team of worms they try to blow each other off the map! Controls are still kind of awkward, but once you get the hang of it, it's a fun game for a small groups.
+
+
+<h4 style="margin:0;">Life is Strange</h4>
+*PC Steam*<br/>
+![Life Is Strange]({{ site.url }}/assets/video-games-2019/lifeIsStrange.png)
+Your character, Max, is a senior in high school, and she mysteriously gained the ability to roll back time and change her decisions and interactions. It deals with some pretty heavy topics like bullying, death, love, friendship (just to name a couple), which might not make it a great kick-back-and-relax type game for some.  However, *this is the most emotionally impactful game I've ever played.* I read that Max was supposed to be a neutral character so you're more likely to attribute personal characteristics to her. Well, I fell for this hook, line, and sinker. Her, and some of the other protagonists reminded me strongly of high school (in a largely good way), so I really bought in to it. It gave me a heavy sense of nostalgia, gratefulness, and, well, sadness. 
+
+
+
+
+
+
+
+
+
+
+
+
