@@ -1,0 +1,6 @@
+- Stripe & Square: contact list for various groups within the company (LGBT, parents, ethnic groups, etc)
+- Square: Candle
+- Airtable: $200 for doing their takehome test
+- Mapbox, a card thanking me for coming in.
+- everywhere, lunch, tour
+- Stripe, offer to pay for transportation
