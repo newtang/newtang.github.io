@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Books I read in 2019"
-date:   2019-01-01 5:30:00 -0800
+date:   2020-01-02 9:45:00 -0800
 categories: books
 ---
 
@@ -32,7 +32,7 @@ I really wanted to like this. I've been getting more interested in urbanism late
 
 
 #### [![The Food Lab: Better Home Cooking Through Science ]({{ site.url }}/assets/books-2019/foodLab.jpg){: style="clear:right;margin-left:20px;float:right;width:125px"}](https://www.amazon.com/dp/B00TG24C34/)[The Food Lab]( https://www.amazon.com/dp/B00TG24C34/) by J. Kenji Lopez-Alt
-This is not a book I read end-to-end, because this is mostly a cookbook! However, it includes a lot of science of cooking which is fascinating. It also dives into often excluded basics like scrambled eggs. Yes, I knew how to scramble eggs before I read this, but Lopez-Alt dives deep into how to do fluffy eggs vs creamy eggs, and how exactly it works. My scrambled eggs are fluffier than they've ever been! 
+This is not a book I read end-to-end because this is mostly a cookbook! However, it includes a lot of science of cooking which is fascinating. It also dives into often excluded basics like scrambled eggs. Yes, I knew how to scramble eggs before I read this, but Lopez-Alt dives deep into how to do fluffy eggs vs creamy eggs, and why his methodologies work the way they do. My scrambled eggs are fluffier than they've ever been! 
 
 
 
