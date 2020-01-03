@@ -14,7 +14,7 @@ This single player puzzle game is essentially the sequel to [Human Resource Mach
 <h4 style="margin:0;">Civilization VI</h4>
 *PC Steam*<br/>
 ![Civilization VI]({{ site.url }}/assets/video-games-2019/civilization6.jpg)
-It's Civ. Same old great game.
+It's Civ. Same solid game. For some reason, I haven't been able to get into the recent ones as much as the older ones when I was a kid. I don't know if it's because they're more complicated, or if they're generally the same. 
 
 <h4 style="margin:0;">Worms WMD</h4>
 *Nintendo Switch*<br/>
@@ -25,11 +25,16 @@ Basically a refresh of the classic 2D Worms games for the Switch. Each player co
 <h4 style="margin:0;">Life is Strange</h4>
 *PC Steam*<br/>
 ![Life Is Strange]({{ site.url }}/assets/video-games-2019/lifeIsStrange.png)
-Your character, Max, is a senior in high school, and she mysteriously gained the ability to roll back time and change her decisions and interactions. It deals with some pretty heavy topics like bullying, death, love, friendship (just to name a couple), which might not make it a great kick-back-and-relax type game for some.  However, *this is the most emotionally impactful game I've ever played.* I read that Max was supposed to be a neutral character so you're more likely to attribute personal characteristics to her. Well, I fell for this hook, line, and sinker. Her, and some of the other protagonists reminded me strongly of high school (in a largely good way), so I really bought in to it. It gave me a heavy sense of nostalgia, gratefulness, and, well, sadness. 
+Your character, Max, is a senior in high school, and she mysteriously gained the ability to roll back time and change her decisions and interactions. It deals with some pretty heavy topics like bullying, death, love, friendship (just to name a couple), which might not make it a great kick-back-and-relax type game for some. However, this is the most emotionally impactful game I've ever played. I read that Max was supposed to be a neutral character so you're more likely to attribute personal characteristics to her. Well, I fell for this hook, line, and sinker. Her, and some of the other protagonists reminded me strongly of high school (in a largely good way), so I really bought in to it. It gave me a heavy sense of nostalgia, gratefulness, and, well, melancholy. 
 
+<h4 style="margin:0;">Baba Is You</h4>
+*Nintendo Switch*<br/>
+![Baba Is You]({{ site.url }}/assets/video-games-2019/babaIsYou.jpg)
+This is a damn clever puzzler where you manipulate the rules of the level to complete the objective of the puzzle. It's tricky to explain. Some are straightforard, but others took me a long time. My wife would catch me just staring at the screen, not moving, deep in thought, trying to solve the puzzles. I loved this game.
 
-
-
+<h4 style="margin:0;">Borderlands 3</h4>
+*PC Epic Games*<br/>
+![Borderlands 3]({{ site.url }}/assets/video-games-2019/borderlands3.jpg)
 
 
 
