@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Video games of 2019"
-date:   2020-01-04 23:30:00 -0800
+date:   2020-01-04 23:15:00 -0800
 categories: videogames
 ---
 
@@ -19,7 +19,7 @@ It's Civ. Same solid game. For some reason, I haven't been able to get into the 
 <h4 style="margin:0;">Worms WMD</h4>
 *Nintendo Switch*<br/>
 ![Worms WMD]({{ site.url }}/assets/video-games-2019/wormswmd.jpg)
-Basically a refresh of the classic 2D Worms games for the Switch. In this turn-based game, each player controls a team of worms that try to annhilate each other! Controls are still kind of awkward, but once you get the hang of it, it's a fun game for a small groups. Contrary to the opinions of my family, I think 2D Worms is vastly superior to 3D Worms.
+Basically a refresh of the classic 2D Worms games for the Switch. In this turn-based game, each player controls a team of worms that try to annihilate each other! Controls are still kind of awkward, but once you get the hang of it, it's a fun game for a small groups. Contrary to the opinions of my family, I think 2D Worms is vastly superior to 3D Worms.
 
 
 <h4 style="margin:0;">Life is Strange</h4>
@@ -30,7 +30,7 @@ Your character, Max, is a senior in high school, and she mysteriously gained the
 <h4 style="margin:0;">Baba Is You</h4>
 *Nintendo Switch*<br/>
 ![Baba Is You]({{ site.url }}/assets/video-games-2019/babaIsYou.jpg)
-This is a damn clever puzzler where you manipulate the rules of the level to complete the objective of the puzzle. It's tricky to explain. Some are straightforard, but others took me a long time. My wife would catch me just staring at the screen, not moving, deep in thought, trying to solve the puzzles. I loved this game.
+This is a damn clever puzzler where you manipulate the rules of the level to complete the objective of the puzzle. It's tricky to explain. Some are straightforward, but others took me a long time. My wife would catch me just staring at the screen, not moving, deep in thought, trying to solve the puzzles. I loved this game.
 
 <h4 style="margin:0;">Borderlands 3</h4>
 *PC Epic Games*<br/>
