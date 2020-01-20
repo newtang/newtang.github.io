@@ -19,14 +19,19 @@ A fun, simple game where you're trying to make the grossest, most outrageous tac
 Seven Wonders
 This is kind of like Civilization the card game. There are a lot of different ways strategies because of the different card types you can purchase, such a resource, army, science, market, victory points, etc. I'm pretty bad at nailing down a strategy, but fun game! 
 
+Dungeon Mayhem | Dungeons & Dragons Card Game | 2-4 Players, 120 Cards https://www.amazon.com/dp/B07GW2195F/ref=cm_sw_r_other_apa_i_M8ujEbR4C3XSD
+A fun 2-4 player game that sort of emulates the battle component of D&D. You have hit points, shields cards, attack cards, and special attack cards in each players' shuffled deck. Players can only usually have a few cards in your hand at a time, so there isn't much agonizing over what strategy to choose, and the game moves swiftly. 
+
 Kingdomino
 Each player takes turns getting square tiles and building their 5x5 kingdom in front of them. Really clever competitive strategy/puzzle game.
+
+Pandemic Legacy Season 2!
 
 <br/><br/><br/>
 
 
 
 
-That Dnd one
+
 
 
