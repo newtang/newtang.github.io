@@ -11,7 +11,7 @@ I skipped a year of board game reviews, but they're back!
 A bluffing card game, similar to coup, except because exchanges & faked exchanges you don't necessarily know what card you have! This is a good bluffing game for people who don't usually love bluffing games (like me). Some interesting strategies and predictions arise from this one. Relatively quick game.
 
 Baker Street
-There's an element of Hanabi in this one because you don't know what's in your own hand. At first glance we thought it would be more challenging, but it turned out to be easier. We tried increasing the difficult and still completed the game without too much trouble. We didn't get a chance to try it on the hardest setting.
+There's an element of Hanabi in this one because you don't know what's in your own hand. At first glance we thought it would be more challenging, but it turned out to be easier. We tried increasing the difficult and still completed the harder levels without too much trouble. We didn't get a chance to try it on the hardest setting.
 
 Taco vs Burrito
 A fun, simple game where you're trying to make the grossest, most outrageous taco/burrito. There's some cards where you can steal other ingredients, and other things to disrupt the game. There's some basic strategy in this one. A fun one to play with kids.
@@ -24,6 +24,13 @@ A fun 2-4 player game that sort of emulates the battle component of D&D. You hav
 
 Kingdomino
 Each player takes turns getting square tiles and building their 5x5 kingdom in front of them. Really clever competitive strategy/puzzle game.
+
+Clank
+Clank is a fascinating mix of dungeon crawler and deck building like Dominion. While building a deck, you travel a dungeon in search of treasure and fighting enemies. My only gripe is that the artwork isn't as strong as other games, and it gives it a chaotic, messy look.
+
+Captain Sonar
+Ideally, Captain Sonar is a 4 vs 4 game where each team navigates their submarine and tries to blow up their opponent. There's a turn-by-turn mode and a realtime mode. It can get stressful, especially in realtime. Definitely worth trying, but the game is a bit weaker when you have fewer than 8 people; players have to handle more than one role, which are already demanding enough.
+
 
 Pandemic Legacy Season 2!
 
