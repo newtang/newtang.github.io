@@ -5,7 +5,7 @@ date:   2020-05-28 16:23:00 -0800
 categories: programming javascript
 ---
 
-This all started when I was doing some digging into the internals of [express](https://expressjs.com) for [work](https://mapbox.com). I noticed that the way routing (that is, matching a url path to the appropriate handler) was achieved was surpisingly naive and not particularly efficient. Essentially, every route that's registered is converted to a regular expression, and the path of incoming requests are checked against every single regex, until it matches.
+This all started when I was doing some digging into the internals of [express](https://expressjs.com) for [work](https://mapbox.com). I noticed its router, the logic that matches a url path to the appropriate handler, was surpisingly naive and not particularly efficient. Essentially, every route that's registered is converted to a regular expression, and the path of incoming requests are checked against every single regex, until it matches.
 
 There's a lot I like about Express; it has an easy learning curve, can be quite powerful, and has an elegant API. But, running every request against (potentially) every registered regex just kind of bothered me. It's arguably one of the most important and well-used Node libraries in the world, and this strategy seemingly hasn't seen any optimization or updates in years. If a service provides 100 routes, for the 100th to be accessed, it's going to have to run through all 100 regexes. For a tiny service, running a regular expression isn't _that_ costly, but as services get bigger, and traffic gets more intense, these inefficiencies can make a difference.
 
@@ -16,11 +16,13 @@ So, my project pivoted; are there other routers I could drop into Express? Well,
 
 I created a series of [express-router-compatibility tests](https://github.com/newtang/express-router-compatibility) on 6 routers. I also experimented with [Moa](https://www.npmjs.com/package/moa-router), which looked promising but its Express example didn't work. I also tried [@hapi/call](https://www.npmjs.com/package/@hapi/call), but it functioned far too differently, and I had a difficult time integrating it into Express.
 
-I tried to assess how easy it was to replace the Express router with these various other routers. This is a lot like sticking a square peg in a round hole; some tests were straightforward, others, tricky. It's difficult to justify making a small changes and calling it "supported", but I did my best. For example, Find-My-Way claims to support regular expression routes, but it does so in an odd, roundabout way where a regex must be inside parenthesis after a parameter name in a string, like so: `'/example/:file(^\\d+).png'`. Because it's different than the Express Router way of handling regex, it fails the compatibility check.  
+I tried to assess how easy it was to replace the Express router with these various other routers by testing expected features. This is a lot like sticking a square peg in a round hole; some tests were straightforward, others, tricky. It's difficult to justify making a small changes and calling it "supported", but I did my best. For example, Find-My-Way claims to support regular expression routes, but it does so in an unusual way where a regex must be inside parenthesis after a parameter name in a string, like so: `'/example/:file(^\\d+).png'`. Because it's different than the Express Router way of handling regex, it fails the compatibility check.  
 
 Additionally, Find-My-Way required a custom wrapper to function as Express middleware. Because of this, it can technically function with the default `req, res, next` arguments so it passes that compatibility check. Like I said, this is a little more art than science.
 
-Express router, is obviously passed all the compatibility tests. Both Koa-routers were fairly compatible as well, even though they were made with [Koa](https://koajs.com) in mind. The others were spottier.
+The Express router, is obviously passed all the compatibility tests. Both Koa-routers were fairly compatible as well, even though they were made with [Koa](https://koajs.com) in mind. The others were spottier.
+
+There weren't many tests that passed across the board. Unsurprisingly, all routers support static routes and parameterized routes the same way Express' router does. Wildcard routes were almost universal, but koa-tree-router opted for a different approach when supporting them.
 
 Is there a router I forgot? Or a test that can be added or improved? Please, feel free to make a pull request.
 
