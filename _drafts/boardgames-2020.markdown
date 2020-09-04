@@ -5,7 +5,7 @@ date:   2020-01-13 17:30:00 -0800
 categories: boardgames games
 ---
 
-I skipped a year of board game reviews, but they're back!
+I skipped a year of board game reviews, but they're back! I played a bunch of new boardgames at the beginning of the year before the pandemic struck.
 
 #### [![Mascarade]({{ site.url }}/assets/boardgames-2020/mascarade.jpg){: style="clear:right;margin-left:20px;float:right;width:125px;"}](https://www.amazon.com/dp/B00E97DWKA)[Mascarade](http://a.co/ccGzGpt)
 A bluffing card game, similar to coup, except because exchanges & faked exchanges you don't necessarily know what card you have! This is a good bluffing game for people who don't usually love bluffing games (like me). Some interesting strategies and predictions arise from this one. Relatively quick game.
