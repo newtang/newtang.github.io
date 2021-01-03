@@ -1,0 +1,33 @@
+---
+layout: post
+title:  "Video games of 2020"
+date:   2021-01-03 15:15:00 -0800
+categories: videogames
+---
+
+Most of my game playing time this year was spent on Borderlands 3 and Baba Is You which [I covered in last year's post](/posts/video-games-2019). Baba Is You is probably my favorite puzzle game of all time.
+
+
+<h4 style="margin:0;">What the Golf</h4>
+*Switch*<br/>
+![What the Golf]({{ site.url }}/assets/video-games-2020/whatTheGolf.jpg)
+Imagine you could golf... anything? Very fun, very silly "golf" game that occasionally has some tough challenges. Manages to parody a bunch of games in a golfy way. I don't think that sentence has been written before. Includes a fun two-player mode!
+
+<h4 style="margin:0;">Lovers in a Dangerous Spacetime</h4>
+*Switch*<br/>
+![Lovers in a Dangerous Spacetime]({{ site.url }}/assets/video-games-2020/loversInADangerous.jpg)
+Fun couch co-op game that's a few years old at this point. Up to four players control different aspects of a spaceship; steering, guns, shield in order to shoot bad guys and rescue, what else, space bunnies. It's sorta like Overcooked In Space.
+
+<h4 style="margin:0;">Factorio</h4>
+*PC*<br/>
+![Factorio]({{ site.url }}/assets/video-games-2020/factorio.jpg)
+Sort of like Sim-Factory where you mine resources, output finished products, and combine them to have other finished products. Also, have to fend off aliens, etc. It's a really cool concept, but I had a difficult time getting into it. It just felt like work; like it required the same part of my brain that I use for my day job. Also, I found the tutorial to be somewhat exhausting, and not particularly helpful after the first 1 or 2 scenarios.
+
+<h4 style="margin:0;">Hades</h4>
+*Switch*<br/>
+![Hades]({{ site.url }}/assets/video-games-2020/hades.jpg)
+Well, it didn't win [IGN Game of the Year](https://www.ign.com/articles/game-of-the-year-2020) for nothing! In this roguelike, your character, Zagreus, repeatedly tries to break out of the underworld, fighting various monsters along the way with help from Athenian gods and other mythical folks. The art is fantastic, and there's a tremendous amount of dialog. Another gem from Supergiant!
+
+
+
+
