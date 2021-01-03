@@ -16,12 +16,12 @@ Imagine you could golf... anything? Very fun, very silly "golf" game that occasi
 <h4 style="margin:0;">Lovers in a Dangerous Spacetime</h4>
 *Switch*<br/>
 ![Lovers in a Dangerous Spacetime]({{ site.url }}/assets/video-games-2020/loversInADangerous.jpg)
-Fun couch co-op game that's a few years old at this point. Up to four players control different aspects of a spaceship; steering, guns, shield in order to shoot bad guys and rescue, what else, space bunnies. It's sorta like Overcooked In Space.
+Fun couch co-op game that's a few years old at this point. Up to four players control different aspects of a spaceship: steering, guns, and shield with the goal of shooting down bad guys and rescue, what else, space bunnies. With a co-op style where everyone is probably yelling at each other it reminds me of an Overcooked In Space.
 
 <h4 style="margin:0;">Factorio</h4>
 *PC*<br/>
 ![Factorio]({{ site.url }}/assets/video-games-2020/factorio.jpg)
-Sort of like Sim-Factory where you mine resources, output finished products, and combine them to have other finished products. Also, have to fend off aliens, etc. It's a really cool concept, but I had a difficult time getting into it. It just felt like work; like it required the same part of my brain that I use for my day job. Also, I found the tutorial to be somewhat exhausting, and not particularly helpful after the first 1 or 2 scenarios.
+Sort of like Sim-Factory where you mine resources, output finished products, and combine them to have other finished products. Also, have to fend off aliens, etc. It's a really cool concept, but I had a difficult time getting into it. It just felt like work; like it required the same part of my brain that I use for my day job. Also, I found the tutorial to be somewhat exhausting, and not particularly helpful after the first couple scenarios.
 
 <h4 style="margin:0;">Hades</h4>
 *Switch*<br/>
