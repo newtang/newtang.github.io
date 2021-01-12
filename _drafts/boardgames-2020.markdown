@@ -1,40 +1,39 @@
 ---
 layout: post
 title:  "Board games of 2020"
-date:   2020-01-13 17:30:00 -0800
+date:   2021-01-11 23:30:00 -0800
 categories: boardgames games
 ---
 
-I skipped a year of board game reviews, but they're back! I played a bunch of new boardgames at the beginning of the year before the pandemic struck.
+I skipped a year of board game reviews, but they're back! I played a bunch of new boardgames at the beginning of the year before the pandemic struck, mostly with our boardgames crew at [work](https://mapbox.com). 
 
-#### [![Mascarade]({{ site.url }}/assets/boardgames-2020/mascarade.jpg){: style="clear:right;margin-left:20px;float:right;width:125px;"}](https://www.amazon.com/dp/B00E97DWKA)[Mascarade](http://a.co/ccGzGpt)
+#### [![Mascarade]({{ site.url }}/assets/boardgames-2020/mascarade.jpg){: style="clear:right;margin-left:20px;float:right;width:125px;"}](https://www.amazon.com/dp/B00E97DWKA)[Mascarade](https://www.amazon.com/dp/B00E97DWKA)
 A bluffing card game, similar to coup, except because exchanges & faked exchanges you don't necessarily know what card you have! This is a good bluffing game for people who don't usually love bluffing games (like me). Some interesting strategies and predictions arise from this one. Relatively quick game.
 
-Baker Street
+#### [![Beyond Baker Street]({{ site.url }}/assets/boardgames-2020/beyondBakerStreet.jpg){: style="clear:right;margin-left:20px;float:right;width:125px;"}](https://www.amazon.com/Z-Man-Games-ZM7670-Beyond-Street/dp/B01EYE2XEI/)[Baker Street](https://www.amazon.com/Z-Man-Games-ZM7670-Beyond-Street/dp/B01EYE2XEI/)
 There's an element of Hanabi in this one because you don't know what's in your own hand. At first glance we thought it would be more challenging, but it turned out to be easier. We tried increasing the difficult and still completed the harder levels without too much trouble. We didn't get a chance to try it on the hardest setting.
 
-Taco vs Burrito
+#### [![Taco vs Burrito]({{ site.url }}/assets/boardgames-2020/tacoVsBurrito.jpg.jpg){: style="clear:right;margin-left:20px;float:right;width:125px;"}](https://www.amazon.com/dp/B07JZTBV9C)[Taco vs Burrito](https://www.amazon.com/dp/B07JZTBV9C)
 A fun, simple game where you're trying to make the grossest, most outrageous taco/burrito. There's some cards where you can steal other ingredients, and other things to disrupt the game. There's some basic strategy in this one. A fun one to play with kids.
 
-Seven Wonders
-This is kind of like Civilization the card game. There are a lot of different ways strategies because of the different card types you can purchase, such a resource, army, science, market, victory points, etc. I'm pretty bad at nailing down a strategy, but fun game! 
+#### [![7 Wonders]({{ site.url }}/assets/boardgames-2020/7wonders.jpg){: style="clear:right;margin-left:20px;float:right;width:125px;"}](https://www.amazon.com/dp/B08F65MX4L/)[7 Wonders](https://www.amazon.com/dp/B08F65MX4L/)
+An older one but a good one, that I don't think I've reviewed before. This is kind of like Civilization the card game. There are a lot of different strategies because of the different card types you can purchase, such a resource, army, science, market, victory points, etc. I'm pretty bad at nailing down a strategy, but it's a fun game! 
 
-Dungeon Mayhem | Dungeons & Dragons Card Game | 2-4 Players, 120 Cards https://www.amazon.com/dp/B07GW2195F/ref=cm_sw_r_other_apa_i_M8ujEbR4C3XSD
+#### [![Dungeon Mayhem]({{ site.url }}/assets/boardgames-2020/dungeonMayhem.jpg){: style="clear:right;margin-left:20px;float:right;width:125px;"}](https://www.amazon.com/dp/B07GW2195F/)[Dungeon Mayhem](https://www.amazon.com/dp/B07GW2195F/)
 A fun 2-4 player game that sort of emulates the battle component of D&D. You have hit points, shields cards, attack cards, and special attack cards in each players' shuffled deck. Players can only usually have a few cards in your hand at a time, so there isn't much agonizing over what strategy to choose, and the game moves swiftly. 
 
-Kingdomino
-Each player takes turns getting square tiles and building their 5x5 kingdom in front of them. Really clever competitive strategy/puzzle game.
+#### [![Kingdomino]({{ site.url }}/assets/boardgames-2020/kingdomino.jpg){: style="clear:right;margin-left:20px;float:right;width:125px;"}](https://www.amazon.com/dp/B01N3A4070)[Kingdomino](https://www.amazon.com/dp/B01N3A4070)
+Each player takes turns getting square tiles and building their 5x5 kingdom in front of them. Really clever competitive strategy/puzzle game. You can play as a 2 player game, but works much better with 3 or 4.
 
-Clank
-Clank is a fascinating mix of dungeon crawler and deck building like Dominion. While building a deck, you travel a dungeon in search of treasure and fighting enemies. My only gripe is that the artwork isn't as strong as other games, and it gives it a chaotic, messy look.
+#### [![Clank]({{ site.url }}/assets/boardgames-2020/clank.jpg){: style="clear:right;margin-left:20px;float:right;width:125px;"}](https://www.amazon.com/dp/B01KAC6268)[Clank](https://www.amazon.com/dp/B01KAC6268)
+Clank is a fascinating mix of a dungeon crawler and a deck builder like Dominion. While building a deck, you travel a dungeon in search of treasure and fighting enemies. My only gripe is that the artwork isn't as strong as other games, and it gives it a chaotic, messy look.
 
-Captain Sonar
-Ideally, Captain Sonar is a 4 vs 4 game where each team navigates their submarine and tries to blow up their opponent. There's a turn-by-turn mode and a realtime mode. It can get stressful, especially in realtime. Definitely worth trying, but the game is a bit weaker when you have fewer than 8 people; players have to handle more than one role, which are already demanding enough.
+#### [![Captain Sonar]({{ site.url }}/assets/boardgames-2020/captainSonar.jpg){: style="clear:right;margin-left:20px;float:right;width:125px;"}](https://www.amazon.com/dp/B01EZUCHOC)[Captain Sonar](https://www.amazon.com/dp/B01EZUCHOC)
+Ideally, Captain Sonar is a 4 vs 4 game where each team navigates their submarine and tries to blow up their opponent. There's a turn-by-turn mode and a realtime mode. It can get stressful, especially in realtime. It's definitely worth trying, but the game is a bit weaker when you have fewer than 8 people; players have to handle more than one role, each of which are already demanding enough.
 
 
-Pandemic Legacy Season 2!
-
-<br/><br/><br/>
+#### [![Pandemic Legacy Season 2]({{ site.url }}/assets/boardgames-2020/pandemicLegacySeason2.jpg){: style="clear:right;margin-left:20px;float:right;width:125px;"}](https://www.amazon.com/dp/B0716K46YP)[Pandemic Legacy: Season 2](https://www.amazon.com/dp/B0716K46YP)
+We had started this game, but, uh, we were interupted by an actual pandemic. We got through a few months, and it was fun! Very similar set of mechanics to [Season 1 which I reviewed a couple years ago](/posts/pandemic-legacy-season-1).
 
 
 
