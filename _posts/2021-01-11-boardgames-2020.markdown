@@ -13,7 +13,7 @@ A bluffing card game, similar to coup, except because exchanges & faked exchange
 #### [![Beyond Baker Street]({{ site.url }}/assets/boardgames-2020/beyondBakerStreet.jpg){: style="clear:right;margin-left:20px;float:right;width:125px;"}](https://www.amazon.com/Z-Man-Games-ZM7670-Beyond-Street/dp/B01EYE2XEI/)[Baker Street](https://www.amazon.com/Z-Man-Games-ZM7670-Beyond-Street/dp/B01EYE2XEI/)
 There's an element of Hanabi in this one because you don't know what's in your own hand. At first glance we thought it would be more challenging, but it turned out to be easier. We tried increasing the difficult and still completed the harder levels without too much trouble. We didn't get a chance to try it on the hardest setting.
 
-#### [![Taco vs Burrito]({{ site.url }}/assets/boardgames-2020/tacoVsBurrito.jpg.jpg){: style="clear:right;margin-left:20px;float:right;width:125px;"}](https://www.amazon.com/dp/B07JZTBV9C)[Taco vs Burrito](https://www.amazon.com/dp/B07JZTBV9C)
+#### [![Taco vs Burrito]({{ site.url }}/assets/boardgames-2020/tacoVsBurrito.jpg){: style="clear:right;margin-left:20px;float:right;width:125px;"}](https://www.amazon.com/dp/B07JZTBV9C)[Taco vs Burrito](https://www.amazon.com/dp/B07JZTBV9C)
 A fun, simple game where you're trying to make the grossest, most outrageous taco/burrito. There's some cards where you can steal other ingredients, and other things to disrupt the game. There's some basic strategy in this one. A fun one to play with kids.
 
 #### [![7 Wonders]({{ site.url }}/assets/boardgames-2020/7wonders.jpg){: style="clear:right;margin-left:20px;float:right;width:125px;"}](https://www.amazon.com/dp/B08F65MX4L/)[7 Wonders](https://www.amazon.com/dp/B08F65MX4L/)
