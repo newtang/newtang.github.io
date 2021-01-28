@@ -5,9 +5,9 @@ date:   2020-05-28 16:23:00 -0800
 categories: programming javascript
 ---
 
-In early summer of 2020, I broke ground on a new router for express. After tinkering with it on and off for the last several months, I'm happy to share that the first public beta version of Expresso is now available!
+After fiddling around with router compatibility in express, in early summer of 2020, I broke ground on a new router for express. After tinkering with it on and off for the last several months, I'm happy to share that the first public beta version of Expresso is now available!
 
-My goals were to make the Expresso faster than the default Express router, reasonably backwards compatible, throw helpful errors on problematic setup, and finally, to allow routes to be added in an order-independant manner. Let's go through these!
+My goals were to make Expresso faster than the default Express router, reasonably backwards compatible, throw helpful errors on problematic setup, and finally, to allow routes to be added in an order-independent manner. Let's go through these!
 
 ### Speed
 
@@ -55,29 +55,50 @@ The API for Expresso is basically identical to the default Express router. Howev
 
 ### Errors
 
+Ideally, in software it's preferable to make the right thing easy to do, and make the wrong thing, like a source of common mistakes or a suboptimal decision, harder. Expresso tries to warn users on setup, but allows some optional, explicit overrides. Here's a couple examples.
 
+```js
+	const router = expresso();
+	router.get('/api', () => {...});
+	router.get('/api', () => {...}); //throws exception for duplicate route
+```
 
+```js
+	const router = expresso();
+	router.get('/id/:id', () => {...});
+	router.get('/id/:value', () => {...}); //throws exception for duplicate route
+```
 
+```js
+	const router = expresso({allowDuplicatePaths: true});
+	router.get('/api', () => {...});
+	router.get('/api', () => {...});
 
-Somewhat naively, this project took me a little longer than I intended. There were a lot of details to get right, and there's some interesting features the default express router does that are easy to forget. For example it handles all HEAD and OPTIONS requests, and carefully adjusts the `url` and `baseUrl` properties when multiple routers are entered or left. 
+	router.get('/id/:id', () => {...});
+	router.get('/id/:value', () => {...});
+```
 
-Because it took longer than estimated, I sort of regret doing this project. It wasn't particularly distinct from my [day job](https://mapbox.com), so I started to lose a little bit of steam towards the end.Hopefully, someone finds it useful! I'll probably be more reinvigorated to add the missing features if someone finds Expresso useful, but I'll probably be taking a break.
+Although these compact examples might look a little silly or improbable, these errors are more likely to manifest themselves if the routes are distributed across multiple files.
 
+### Order Independence 
 
+Order independence is a big feature for Expresso. In the default Express router, this situation was possible:
 
-If your codebase follows some wonky fallthrough patterns, expresso might not work for you.
+```js
+router.get('/api/v1/:user', (req, res) => {res.send(req.params.user)});
 
-`router.get(/^api*/, (req, res, next) => next())`
-`router.get("/api/", (req, res, next) => doSomething())//won't get called`
+// will never get called in Express, but will get called in Expresso-Router
+router.get('/api/v1/settings', (req, res) => {res.send('settings')});
 
-alternatives:
-router.get("/api/", doSomething, (req, res, next) => () );
-`express.use(/^api*/, (req, res, next) => doSomething());` //check this one
+```
 
-There's some interesting things the Router does for you that you forget about. It handles all HEAD and OPTIONS requests for you.
+In the above example, a GET request to '/api/v1/settings' will never trigger the second route in Express because the previous one would technically a match a request to '/api/v1/settings' even though it's less specific. However, with Expresso-router, this is no longer a concern. Routes are order independent, and Expresso-Router will check the most specific route first.
 
-Maybe it wasn't worth doing, but I hope it was!
+### Conclusion
 
+Naively, this project took me a little longer than I intended. There were a lot of details to get right, and there's some interesting features the default express router does that are easy to overlook. For example it handles all HEAD and OPTIONS requests, and carefully adjusts the `url` and `baseUrl` properties when multiple routers are userd. 
+
+Because it took longer than estimated, I sort of regret doing this project. It wasn't particularly distinct from my [day job](https://mapbox.com), so I started to lose a little bit of steam towards the end. I'll probably be more reinvigorated to add missing features if someone finds Expresso useful.
 
 
 
@@ -97,7 +118,7 @@ Blog post
 
 
 
- 
+
 
 
 
