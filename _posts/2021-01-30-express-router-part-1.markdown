@@ -5,7 +5,7 @@ date:   2021-01-30 14:45:00 -0800
 categories: programming javascript
 ---
 
-It all started when I was doing some digging into the internals of [Express](https://expressjs.com) for [work](https://mapbox.com). I noticed its router, the logic that matches a url path to the appropriate handler, was not particularly efficient. Essentially, every path that's registered is converted to a regular expression, and the path of incoming requests are checked against every regex, until it matches.
+It all started when I was digging into the internals of [Express](https://expressjs.com). I noticed its router, the logic that matches a url path to the appropriate handler, was not particularly efficient. Essentially, every path that's registered is converted to a regular expression, and the path of incoming requests are checked against every regex, until it matches.
 
 There's a lot I like about Express; it has an easy learning curve, and an intuitive API. It's arguably one of the most important and well-used Node libraries in the world, but its routing strategy hasn't seen any optimization in years. If a service provides 100 routes, it may have to iterate through all 100 to find a match. For a tiny service, running a regular expression isn't _that_ costly, but as services get bigger, and traffic gets more intense, these inefficiencies can make a difference.
 
