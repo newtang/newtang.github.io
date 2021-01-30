@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "A better router for Express - Part 1"
-date:   2020-05-28 16:23:00 -0800
+date:   2021-01-30 14:45:00 -0800
 categories: programming javascript
 ---
 
