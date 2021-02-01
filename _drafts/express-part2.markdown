@@ -5,13 +5,13 @@ date:   2020-05-28 16:23:00 -0800
 categories: programming javascript
 ---
 
-After fiddling around with router compatibility, in early summer of 2020, I broke ground on a new router for Express. After tinkering with it on and off for the last several months, I'm happy to share that the first public version of Expresso is now available!
+[After fiddling around with router compatibility](/posts/express-router-part-1), in early summer of 2020, I broke ground on a new router for Express. After tinkering with it on and off for the last several months, I'm happy to share that the first public version of Expresso is now available!
 
 My goals were to make Expresso faster than the default Express router, reasonably backwards compatible, throw helpful errors on problematic setup, and finally, to allow routes to be added in an order-independent manner. Let's step through these!
 
 ### Speed
 
-I tweaked [router-benchmark](https://github.com/delvedor/router-benchmark) to include Expresso, and I included the results in my API doc. For static routes, at least according to my quick and dirty local environment, Expresso wins hands down.
+I tweaked [router-benchmark](https://github.com/delvedor/router-benchmark) to include Expresso, and I included the results in my API doc. For static routes Expresso wins hands down, at least according to my quick and dirty local environment.
 
 ```sh
 
