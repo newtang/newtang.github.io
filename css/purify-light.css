@@ -950,6 +950,7 @@ img {
   background: #faf9f9;
   border: 1px solid #ebeaea;
   border-radius: 1px;
+  margin-bottom: 30px;
 }
 
 @media all and (max-width: 767px) {
