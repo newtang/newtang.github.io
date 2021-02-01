@@ -62,26 +62,26 @@ The [API for Expresso is basically identical to the default Express router](http
 
 If possible, it's preferable to make the right thing easy to do, and make the wrong thing, like a source of common mistakes, something destructive, or a suboptimal decision, more difficult. Expresso tries to warn users about common mistakes on setup, but [allows some optional, explicit overrides in the constructor](https://github.com/newtang/expresso/blob/HEAD/API.md#config). Here's a couple examples.
 
-```js
+{% highlight javascript %}
 const router = expresso();
 router.get('/api', () => {...});
 router.get('/api', () => {...}); //throws exception for duplicate route
-```
+{% endhighlight %}
 
-```js
+{% highlight javascript %}
 const router = expresso();
 router.get('/id/:id', () => {...});
 router.get('/id/:value', () => {...}); //throws exception for duplicate route
-```
+{% endhighlight %}
 
-```js
+{% highlight javascript %}
 const router = expresso({allowDuplicatePaths: true});
 router.get('/api', () => {...});
 router.get('/api', () => {...});
 
 router.get('/id/:id', () => {...});
 router.get('/id/:value', () => {...});
-```
+{% endhighlight %}
 
 Although these compact examples might look a little silly or improbable, these errors are more likely to manifest themselves if the routes are distributed across multiple files. 
 
@@ -89,13 +89,13 @@ Although these compact examples might look a little silly or improbable, these e
 
 Order independence is a big feature for Expresso. In the default Express router, this situation was possible:
 
-```js
+{% highlight javascript %}
 router.get('/api/v1/:user', (req, res) => {res.send(req.params.user)});
 
 // will never get called in default Express router, but will get called in Expresso 
 router.get('/api/v1/settings', (req, res) => {res.send('settings')});
 
-```
+{% endhighlight %}
 
 In the above example, a GET request to `/api/v1/settings` will never trigger the second route in the default Express router because the first one would match even though it's less specific. However, with Expresso, this is no longer a concern. Routes are order independent, and Expresso will check the most specific route first.
 
