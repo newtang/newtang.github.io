@@ -5,7 +5,11 @@ date:   2020-05-28 16:23:00 -0800
 categories: programming javascript expresso
 ---
 
-[In my previous post](/posts/express-router-part-1), I noted that the default router for Express, an extremely popular Node module, hasn't seen any substantial optimization in years. So, I was curious if I could make a faster, drop-in replacement router, and in early summer of 2020, I broke ground on this project. In the ensuing months, I made incremental progress, and I'm now happy to share that the [first public version of Expresso is now available](https://www.npmjs.com/package/expresso-router)!
+[In my previous post](/posts/express-router-part-1), I noted that the default router for Express, an extremely popular Node module, hasn't seen any substantial optimization in years. So, I was curious if I could make a faster, drop-in replacement router, and in early summer of 2020, I broke ground on this project. In the ensuing months, I made incremental progress, and I'm thrilled to share that the [first public version of Expresso is now available](https://www.npmjs.com/package/expresso-router)!
+
+```sh
+npm i expresso-router
+```
 
 My goals were to make Expresso faster than the default Express router, reasonably backwards compatible, throw helpful errors on problematic setup, and finally, to allow routes to be added in an order-independent manner. Let's walk through these!
 
@@ -51,7 +55,7 @@ The truth is, I'm certain I left some optimization on the table, particularly fo
 
 ### Backwards compatible 
 
-The [API for Expresso is basically identical to the default Express router](https://github.com/newtang/expresso/blob/HEAD/API.md#api-1) . However, there are a few missing features like wildcards, and support for parameters in the `use` function.
+The [API for Expresso is basically identical to the default Express router](https://github.com/newtang/expresso/blob/HEAD/API.md#api-1) . However, there are a few missing features like wildcards, and support for parameters in the `use` function. I have [issues](https://github.com/newtang/expresso/issues) filed for several of these, and some [additional details in the Migration section](https://github.com/newtang/expresso/blob/HEAD/API.md#migration).
 
 ### Errors
 
@@ -96,7 +100,7 @@ In the above example, a GET request to `/api/v1/settings` will never trigger the
 
 ### Conclusion
 
-Naively, this project took a little longer than I intended. There were a lot of details to get right, and there's some interesting features the default Express router has that are easy to overlook. For example, it handles all HEAD and OPTIONS requests, and carefully adjusts the `url` and `baseUrl` properties when multiple routers are used. A lot of these I discovered while going through the default router's tests to maximize backwards compatibility where I could.
+Naively, this project took a little longer than I intended. There were a lot of details to get right, and there's some interesting features the default Express router has that are easy to overlook. For example, it handles all HEAD and OPTIONS requests, and carefully adjusts the `url` and `baseUrl` properties on the `req` object when multiple routers are used. A lot of these I discovered while going through the default router's tests to maximize backwards compatibility where I could.
 
 Because it took longer than estimated, I have some mild regret taking on this project. It wasn't particularly distinct from my [day job](https://mapbox.com), so I started to lose a little bit of momentum towards the end. I'll probably be reinvigorated to add missing features if someone finds Expresso useful.
 
