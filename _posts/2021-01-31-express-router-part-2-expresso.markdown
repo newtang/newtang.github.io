@@ -63,24 +63,24 @@ The [API for Expresso is basically identical to the default Express router](http
 If possible, it's preferable to make the right thing easy to do, and make the wrong thing, like a source of common mistakes, something destructive, or a suboptimal decision, more difficult. Expresso tries to warn users about common mistakes on setup, but [allows some optional, explicit overrides in the constructor](https://github.com/newtang/expresso/blob/HEAD/API.md#config). Here's a couple examples.
 
 ```js
-	const router = expresso();
-	router.get('/api', () => {...});
-	router.get('/api', () => {...}); //throws exception for duplicate route
+const router = expresso();
+router.get('/api', () => {...});
+router.get('/api', () => {...}); //throws exception for duplicate route
 ```
 
 ```js
-	const router = expresso();
-	router.get('/id/:id', () => {...});
-	router.get('/id/:value', () => {...}); //throws exception for duplicate route
+const router = expresso();
+router.get('/id/:id', () => {...});
+router.get('/id/:value', () => {...}); //throws exception for duplicate route
 ```
 
 ```js
-	const router = expresso({allowDuplicatePaths: true});
-	router.get('/api', () => {...});
-	router.get('/api', () => {...});
+const router = expresso({allowDuplicatePaths: true});
+router.get('/api', () => {...});
+router.get('/api', () => {...});
 
-	router.get('/id/:id', () => {...});
-	router.get('/id/:value', () => {...});
+router.get('/id/:id', () => {...});
+router.get('/id/:value', () => {...});
 ```
 
 Although these compact examples might look a little silly or improbable, these errors are more likely to manifest themselves if the routes are distributed across multiple files. 
