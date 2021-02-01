@@ -11,6 +11,7 @@ categories: programming javascript expresso
 npm i expresso-router
 ```
 
+
 My goals were to make Expresso faster than the default Express router, reasonably backwards compatible, throw helpful errors on problematic setup, and finally, to allow routes to be added in an order-independent manner. Let's walk through these!
 
 ### Speed
