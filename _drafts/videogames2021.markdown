@@ -17,3 +17,20 @@ After traveling abroad for awhile, your character returns home to a mysteriously
 *Switch*<br/>
 ![Castle Crashers]({{ site.url }}/assets/video-games-2021/castleCrashers.jpg)
 I played this game over a decade ago, but now it's remastered and on modern systems. It's a fun co-op beat-em-up slasher, kind of like old arcade games like X-Men or Ninja Turtles. It turns out the remastered version is still fun and a little easier on the eyes. The damsels in distress theme is badly dated and a little cringey at this point, but it doesn't really impact the gameplay much. Still fun, go play with a friend!
+
+
+<h4 style="margin:0;">Stephen's Sausage Roll</h4>
+*PC*<br/>
+![Stephen's Sausage Roll]({{ site.url }}/assets/video-games-2021/stephensSausageRoll.jpg)
+
+
+Somehow, a game that involves solving puzzles by rolling and pushing sausages so they're evenly cooked on both sides manages to be very challenging and satifying. 
+
+
+<h4 style="margin:0;">Terraria</h4>
+*PC*<br/>
+![Terraria]({{ site.url }}/assets/video-games-2021/terraria.jpg)
+
+
+
+

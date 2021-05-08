@@ -2,7 +2,7 @@
 layout: post
 title:  "A Partial Guide to San Mateo Elections 2020"
 date:   2020-10-04 22:50:00 -0800
-categories: politics
+categories: politics housing
 ---
 
 

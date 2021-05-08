@@ -87,7 +87,7 @@ Although these compact examples might look a little silly or improbable, these e
 
 ### Order Independence 
 
-Order independence is a big feature for Expresso. In the default Express router, this situation was possible:
+Adding routes without worrying about their order is a big feature for Expresso. In the default Express router, this situation was possible:
 
 {% highlight javascript %}
 router.get('/api/v1/:user', (req, res) => {res.send(req.params.user)});
