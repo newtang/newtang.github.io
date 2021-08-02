@@ -11,10 +11,17 @@ Finished off Mistborn trilogy.
 ## Non-fiction
 
 #### [![All Joy and No Fun: The Paradox of Modern Parenthood ]({{ site.url }}/assets/books-2021/allJoyNoFun.jpg){: style="clear:right;margin-left:20px;float:right;width:125px"}](https://www.amazon.com/dp/B01L9E1R66)[All Joy and No Fun: The Paradox of Modern Parenthood](https://www.amazon.com/dp/B01L9E1R66) by Jennifer Senior
-While most books of the parenting genre discuss the  impacts of parents' decisions on kids this book looks at the impacts of kids on their parents. Senior deftly combines research and real world stories to discuss how parenting, particularly in America, has changed over the years. Surprisingly compelling read. 
+While most books of the parenting genre discuss the impacts of parents' decisions on kids, this book looks at the impacts of kids on their parents. Senior deftly combines research and real world stories to discuss how parenting, particularly in America, has changed over the years. Surprisingly compelling read. 
 
 #### [![Color of Law]({{ site.url }}/assets/books-2021/allJoyNoFun.jpg){: style="clear:right;margin-left:20px;float:right;width:125px"}](https://www.amazon.com/dp/B01M8IWJT2)[Color of Law](https://www.amazon.com/dp/B01M8IWJT2) by Richard Rothstein 
 An important book for any YIMBY, or anyone curious about why their home is zoned the way it is. Rothstein's incredibly well-researched book painstakingly goes through the largely racist history of our zoning laws in different parts of the country.  
 
 #### [![Talking to Strangers]({{ site.url }}/assets/books-2021/talkingToStrangers.jpg){: style="clear:right;margin-left:20px;float:right;width:125px"}](https://www.amazon.com/dp/B07NDKVWZW)[Talking to Strangers](https://www.amazon.com/dp/B07NDKVWZW) by Malcolm Gladwell
-This is full of fascinating and troubling stories that illustrate the consequences of our inability to communicate well with strangers. I really enjoy Gladwell's approachable writing style and how he manages to reiterate his questions without being overly repetitive. 
+This is full of fascinating and troubling stories that illustrate the consequences of our general inability to communicate well with strangers. I really enjoy Gladwell's approachable writing style and how he manages to reiterate his questions without being overly repetitive. He carefully touches upon several recent thorny issues
+
+#### [![Everyday Data Science: Optimize Your Life]({{ site.url }}/assets/books-2021/everydayDataScience.jpg){: style="clear:right;margin-left:20px;float:right;width:125px"}](https://www.amazon.com/dp/B08TZ1MT3W)[Everyday Data Science: Optimize Your Life](https://www.amazon.com/dp/B08TZ1MT3W) by Andrew N Carr
+This very short book illustrates examples of how to use data collection and data science to optimize some life scenarios. Although it dips into technical aspects, I'm not sure it's technical enough to be actionable without a lot supplementary research. But, it was an interesting book and I learned about the application of some mathematical concepts. I'm not sure I would try any of the examples in the book, like word vectors to improve my resume, but it was a good quick read nonetheless.
+
+
+
+
