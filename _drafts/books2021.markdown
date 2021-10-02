@@ -29,4 +29,7 @@ This very short book illustrates examples of how to use data collection and data
 #### [![One Billion Americans]({{ site.url }}/assets/books-2021/oneBillionAmericans.jpg){: style="clear:right;margin-left:20px;float:right;width:125px"}](https://www.amazon.com/dp/B082ZR6827)[One Billion Americans](https://www.amazon.com/dp/B082ZR6827) by Matthew Yglesias 
 With this book, and last year's Open Borders I've definitely been on a pro-immigration kick. Yglesias makes the case that for America to maintain it's position as the world's most prosperous and powerful country, it needs to accept significant growth. He offers ideas as to how it's possible, the potential problematic outcomes such as housing and traffic problems, and offers some solutions. The book is thoughtful, well researched, and well-writen. 
 
+#### [![The Big Short]({{ site.url }}/assets/books-2021/theBigShort.jpg){: style="clear:right;margin-left:20px;float:right;width:125px"}](https://www.amazon.com/dp/B003LSTK8G/)[The Big Short](https://www.amazon.com/dp/B003LSTK8G/) by Michael Lewis
+Lewis manages to blend complicated, but admittedly interesting financial lexicon, with a character driven narrative. The Big Short follows the bewildering tales of a few savvy, quirky investors who ultimately short the housing marketing before it's 2008 collapse. I really enjoyed the movie, and it was fun to read through the source material. A surprisingly compelling read.
+
 
