@@ -17,7 +17,7 @@ A Cards Against Humanity-like party game where people play review cards from the
 
 
 #### [![Pandemic Legacy Season 2]({{ site.url }}/assets/boardgames-2020/pandemicLegacySeason2.jpg){: style="clear:right;margin-left:20px;float:right;width:125px;"}](https://www.amazon.com/dp/B0716K46YP)[Pandemic Legacy: Season 2](https://www.amazon.com/dp/B0716K46YP)
-I did touch on this on [last year's board game post](/posts/boardgames-2020), but it took up a big chunk of my game playing time this year. It is a lot of fun to play with a regular friend group, and the mechanics and the story evolve over time. However, a lot stays the same, so you have to enjoy playing Pandemic repeatedly to appreciate this game.
+I did touch on this on [last year's board game post](/posts/boardgames-2020), but it took up a big chunk of my game playing time this year. It is a lot of fun to play with a regular friend group, and the mechanics and the story evolve over time. However, a lot stays the same, so you have to enjoy the core mechanics of Pandemic to appreciate this game. Without getting into spoilers, there's some pretty fun and challenging scenarios at the end.
 
 
 
