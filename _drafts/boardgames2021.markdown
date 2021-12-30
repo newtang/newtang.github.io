@@ -5,6 +5,7 @@ date:   2021-01-11 23:30:00 -0800
 categories: boardgames games
 ---
 
+Since mass-vaccination, I've been able to game with some pals! Here's a few.
 
 #### [![King of Tokyo]({{ site.url }}/assets/boardgames-2021/kingOfTokyo.jpg){: style="clear:right;margin-left:20px;float:right;width:125px;"}](https://www.amazon.com/dp/B01F46RPS4)[King of Tokyo](https://www.amazon.com/dp/B01F46RPS4)
 I wish I got to play this a little bit more, but there's some solid strategy in this dice-rolling odds based strategy game. Each player controls a monster, and can choose whether to stay on the defensive or attack other players.  
@@ -15,14 +16,14 @@ This is a fun adult party game for people who like to argue about nonsense. The 
 #### [![Overrated]({{ site.url }}/assets/boardgames-2021/overrated.jpg){: style="clear:right;margin-left:20px;float:right;width:125px;"}](https://www.amazon.com/dp/B083JKXTYG/)[Overrated](https://www.amazon.com/dp/B083JKXTYG/)
 A Cards Against Humanity-like party game where people play review cards from their hand, for a particular venue or place, and the judge chooses their favorite. I was pretty skeptical at first, but there are some pretty funny reviews.
 
-
 #### [![Pandemic Legacy Season 2]({{ site.url }}/assets/boardgames-2020/pandemicLegacySeason2.jpg){: style="clear:right;margin-left:20px;float:right;width:125px;"}](https://www.amazon.com/dp/B0716K46YP)[Pandemic Legacy: Season 2](https://www.amazon.com/dp/B0716K46YP)
 I did touch on this on [last year's board game post](/posts/boardgames-2020), but it took up a big chunk of my game playing time this year. It is a lot of fun to play with a regular friend group, and the mechanics and the story evolve over time. However, a lot stays the same, so you have to enjoy the core mechanics of Pandemic to appreciate this game. Without getting into spoilers, there's some pretty fun and challenging scenarios at the end.
 
+#### [![Terraforming Mars]({{ site.url }}/assets/boardgames-2021/terraformingMars.jpg){: style="clear:right;margin-left:20px;float:right;width:125px;"}](https://www.amazon.com/dp/B01GSYA4K2)[Terraforming Mars](https://www.amazon.com/dp/B01GSYA4K2)
+Terraforming Mars is a fun, competitive strategy game with multiple ways to win. It has a little bit of a learning curve, especially if no one in the group has played it before. Each player controls a corporation, vying to be the most successful at terraforming the planet. Since there's a shared planetary map, each players actions can unlock beneficial actions for each other. Also, all the cards are unique with some fun artwork. I only got to play this once, and I feel like I only experienced the tip of the iceberg when it comes to the diversity of game play. Very enjoyable.
 
-
-
-
+#### [![Monopoly Deal]({{ site.url }}/assets/boardgames-2021/monopolyDeal.jpg){: style="clear:right;margin-left:20px;float:right;width:125px;"}](https://www.amazon.com/dp/B07H5HFTWC)[Monopoly Deal](https://www.amazon.com/dp/B07H5HFTWC)
+Monopoly is not a particularly fun game. It's a long, tedious slog. Monopoly Deal is a similar game tightened up into a 15 minute card game. It's ok. I don't know that I would go out of my way to play it, but for some it may scratch the Monopoly itch without taking all day.
 
 
 
