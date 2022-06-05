@@ -28,5 +28,15 @@ This game is sort of like a 3D Terraria, and sort of like Minecraft, but it's no
 ![Core Keeper]({{ site.url }}/assets/video-games-2022/coreKeeper.jpg)
 Core Keeper, on the other hand, I've really enjoyed. It's like a top-down Terraria, with some elements of Stardew Valley mixed in. I've been playing with some friends, and we've really enjoyed exploring, crafting, farming, and fighting monsters together. It even has a few thoughtful "quality of life" improvements over Terraria like having multiple people able to access the same treasure chest at the same time.
 
+<h4 style="margin:0;">Ultimate Chicken Horse</h4>
+*Switch*<br/>
+![Ultimate Chicken Horse]({{ site.url }}/assets/video-games-2022/ultimateChickenHorse.jpg)
+Ulimate Chicken Horse is a fun, multiplayer game where players are given objects and hazards to construct a small, 2D level layout. Players then play that level and attempt to reach the goal. The level is replayed with new components added, making it zanier, and more difficult to complete. Great couch-co-op game!
+
+
+
+
+
+
 
 
