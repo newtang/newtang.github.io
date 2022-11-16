@@ -22,3 +22,7 @@ Probably the best book on urbanism and what to consider when planning a car-ligh
 
 #### [![Kobold Guide to Board Game Design]({{ site.url }}/assets/books-2022/kobold.jpg){: style="clear:right;margin-left:20px;float:right;width:125px"}](https://www.amazon.com/dp/1936781042/)[Kobold Guide to Board Game Design](https://www.amazon.com/dp/1936781042/) by Mike Selinker
 I've been kicking around a board game idea, and I thought this would be fun to read. The book consists of different stories from game designers around various stages of building out notable games. There are definitely some good nuggets of wisdom here, and it's a pretty interesting read if you are a board game enthusiast with no interest in building a game yourself. 
+
+
+#### [![How to Take Over the World]({{ site.url }}/assets/books-2022/howToTakeOverTheWorld.jpg){: style="clear:right;margin-left:20px;float:right;width:125px"}](https://www.amazon.com/dp/059319201X/)[How to Take Over the World](https://www.amazon.com/dp/059319201X/) by Ryan North
+Kind of a non-fiction comedy, science and history book. You know the kind! This book describes itself as "Practical schemes and scientific solutions for the aspiring supervillain". I read [North's previous book, How to Invent Everything](/posts/books-i-read-2019) a few years ago, and it strikes a similar tone: funny, informative, thought-provoking. Very fun read!

@@ -33,9 +33,10 @@ Core Keeper, on the other hand, I've really enjoyed. It's like a top-down Terrar
 ![Ultimate Chicken Horse]({{ site.url }}/assets/video-games-2022/ultimateChickenHorse.jpg)
 Ulimate Chicken Horse is a fun, multiplayer game where players are given objects and hazards to construct a small, 2D level layout. Players then play that level and attempt to reach the goal. The level is replayed with new components added, making it zanier, and more difficult to complete. Great couch-co-op game!
 
-
-
-
+<h4 style="margin:0;">Lost in Random</h4>
+*Switch*<br/>
+![Lost in Random]({{ site.url }}/assets/video-games-2022/lostInRandom.jpg)
+The game enticed me with it's beautiful Nightmare-Before-Christmas-style environments. The actual gameplay on the other hand, is ok. Combat is a little awkward with realtime actions paused to choose amongst various cards. Some of the jokes fall a little flat to me. It's alright.
 
 
 
