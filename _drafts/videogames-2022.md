@@ -36,8 +36,16 @@ Ulimate Chicken Horse is a fun, multiplayer game where players are given objects
 <h4 style="margin:0;">Lost in Random</h4>
 *Switch*<br/>
 ![Lost in Random]({{ site.url }}/assets/video-games-2022/lostInRandom.jpg)
-The game enticed me with it's beautiful Nightmare-Before-Christmas-style environments. The actual gameplay on the other hand, is ok. Combat is a little awkward with realtime actions paused to choose amongst various cards. Some of the jokes fall a little flat to me. It's alright.
+The game enticed me with it's beautiful Nightmare-Before-Christmas-style environments. The actual gameplay on the other hand, is just ok. Combat is a little awkward with realtime actions paused to choose amongst various cards. Some of the jokes fall a little flat to me. It's alright.
 
+<h4 style="margin:0;">Wilderplace</h4>
+*PC*<br/>
+![Wilderplace]({{ site.url }}/assets/video-games-2022/wilderplace.jpg)
+This is a story driven, turn-based puzzler with cool handdrawn art created by my friend [Saman](https://trashmoon.com/)! I was able to beta test the game during development. I don't know if my feedback was useful at all, but it was fun to be a part of the process. Anyways, there's some clever puzzles and the music and artwork give it a relaxing vibe. Great game!
 
+<h4 style="margin:0;">Disco Elysium</h4>
+*Switch*<br/>
+![Disco Elysium]({{ site.url }}/assets/video-games-2022/discoElysium.avif)
+The main character wakes up, hungover, unable to remember anything. In this game, the player pieces together the character's past, while solving a murder and several other mysteries. There is a tremendous amount of dialog and history in the game with plenty of interesting characters. As your character gains experience by accomplishing various objectives they can level up many physical, mental, and emotional attributes which can unlock other conversation and story paths. I really enjoy this game. It feels a little rickety on the Switch. Sometimes the animation is choppy, or the menus are slow to come up. But all the text, dialog, and walking around work fine. 
 
 
