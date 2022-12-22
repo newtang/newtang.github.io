@@ -45,6 +45,9 @@ This tennis strategy book came highly recommended to me from a few people I hit 
 #### [![The Inner Game of Tennis: The Classic Guide to the Mental Side of Peak Performance]({{ site.url }}/assets/books-2022/innerGameOfTennis.jpg){: style="clear:right;margin-left:20px;float:right;width:125px"}](https://www.amazon.com/dp/0679778314)[The Inner Game of Tennis](https://www.amazon.com/dp/0679778314) by W. Timothy Gallwey
 Although this book uses tennis as an example to illustrate its point, it's not exactly about tennis per se. It's really about shutting down your logical, critical self to get into flow, and to learn. [Bill Gates recently recommended this book as well](https://www.gatesnotes.com/Books/The-Inner-Game-of-Tennis), and describes it better than I could. Personally, it's an interesting premise, but even though it's a short book, I still found it a bit too long. 
 
+#### [![The Blind Side]({{ site.url }}/assets/books-2022/theBlindSide.jpg){: style="clear:right;margin-left:20px;float:right;width:125px"}](https://www.amazon.com/dp/0679778314)[The Blind Side](https://www.amazon.com/dp/0393330478/) by Michael Lewis
+Lewis is such a fantastic writer. I read two of his books last year which were also great. Not only is the story about left tackle, Michael Oher incredible, but it weaves together a lot of football history and some social commentary. The movie is good, but the book has so much more rich detail in it. 
+
 
 
 
