@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Video games of 2022"
-date:   2022-01-09 23:15:00 -0800
+date:   2022-12-26 19:00:00 -0800
 categories: videogames
 ---
 
@@ -9,8 +9,8 @@ categories: videogames
 
 <h4 style="margin:0;">Little Alchemy 2</h4>
 *Web*<br/>
-![Little Alchemy 2]({{ site.url }}/assets/video-games-2022/littleAlchemy2.png)
-I was surprised how addicting [Little Alchemy](https://littlealchemy2.com/) was. Basically, you combine items to make other items, and there's hundreds of items to make and often many ways to make them. It's a little like the crafting component of other games. Fun graphics, and funny descriptions.
+![Little Alchemy 2]({{ site.url }}/assets/video-games-2022/littleAlchemy2.jpg)
+I was surprised how addicting [Little Alchemy](https://littlealchemy2.com/) was. Basically, you combine items to make other items, and there's hundreds of items to make and often many ways to make them. It's a little like the crafting component of other games. Fun graphics, and funny descriptions. Good time waster.
 
 
 <h4 style="margin:0;">Return of the Obra Dinn</h4>
@@ -41,11 +41,11 @@ The game enticed me with it's beautiful Nightmare-Before-Christmas-style environ
 <h4 style="margin:0;">Wilderplace</h4>
 *PC*<br/>
 ![Wilderplace]({{ site.url }}/assets/video-games-2022/wilderplace.jpg)
-This is a story driven, turn-based puzzler with cool handdrawn art created by my friend [Saman](https://trashmoon.com/)! I was able to beta test the game during development. I don't know if my feedback was useful at all, but it was fun to be a part of the process. Anyways, there's some clever puzzles and the music and artwork give it a relaxing vibe. Great game!
+This is a story driven, turn-based puzzler with cool handdrawn art created by my friend [Saman](https://trashmoon.com/)! I was able to beta test the game during development. I don't know if my feedback was useful at all, but it was fun to be a part of the process. Anyways, there's some clever puzzles, and the music and artwork give it a relaxing vibe. Great game!
 
 <h4 style="margin:0;">Disco Elysium</h4>
 *Switch*<br/>
 ![Disco Elysium]({{ site.url }}/assets/video-games-2022/discoElysium.avif)
-The main character wakes up, hungover, unable to remember anything. In this game, the player pieces together the character's past, while solving a murder and several other mysteries. There is a tremendous amount of dialog and history in the game with plenty of interesting characters. As your character gains experience by accomplishing various objectives they can level up many physical, mental, and emotional attributes which can unlock other conversation and story paths. I really enjoy this game. It feels a little rickety on the Switch. Sometimes the animation is choppy, or the menus are slow to come up. But all the text, dialog, and walking around work fine. 
+The main character wakes up, hungover, unable to remember anything. In this game, the player pieces together the character's past, while solving a murder and several other mysteries. There is a tremendous amount of dialog and history in the game with plenty of interesting characters. As your character gains experience by accomplishing various objectives they can level up many physical, mental, and emotional attributes which can unlock other conversation and story paths. I really enjoyed this game. Admittedly, it feels a little rickety on the Switch; sometimes the animation is choppy, or the menus are slow to come up. But all the text, dialog, and walking around work fine. 
 
 
