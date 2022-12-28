@@ -1,14 +1,11 @@
 ---
 layout: post
 title:  "Books I read in 2022"
-date:   2021-12-28 14:00:00 -0800
+date:   2022-12-28 23:30:00 -0800
 categories: books
 ---
 
-
-
 ## Fiction
-
 
 #### [![The City We Became]({{ site.url }}/assets/books-2022/cityWeBecame.jpg){: style="clear:right;margin-left:20px;float:right;width:125px"}](https://www.amazon.com/dp/B083LW5WBB)[The City We Became](https://www.amazon.com/dp/B083LW5WBB) by N.K. Jemisin
 
@@ -40,7 +37,6 @@ An [excellent recommendation from Jonathan Palardy's excellent yearly list](http
 
 #### [![Winning Ugly]({{ site.url }}/assets/books-2022/winningUgly.jpg){: style="clear:right;margin-left:20px;float:right;width:125px"}](https://www.amazon.com/dp/067188400X/)[Winning Ugly](https://www.amazon.com/dp/067188400X/) by Brad Gilbert
 This tennis strategy book came highly recommended to me from a few people I hit with. The book discusses preparation, strategy, and critical junctures in between interesting anecdotes from Gilbert's career. Honestly, the match stories are incredibly interesting, even if you're a tennis fan who's not interesting in picking up a racquet. This book definitely gave me a few things to think about for my game. 
-
 
 #### [![The Inner Game of Tennis: The Classic Guide to the Mental Side of Peak Performance]({{ site.url }}/assets/books-2022/innerGameOfTennis.jpg){: style="clear:right;margin-left:20px;float:right;width:125px"}](https://www.amazon.com/dp/0679778314)[The Inner Game of Tennis](https://www.amazon.com/dp/0679778314) by W. Timothy Gallwey
 Although this book uses tennis as an example to illustrate its point, it's not exactly about tennis per se. It's really about shutting down your logical, critical self to get into flow, and to learn. [Bill Gates recently recommended this book as well](https://www.gatesnotes.com/Books/The-Inner-Game-of-Tennis), and describes it better than I could. Personally, it's an interesting premise, but even though it's a short book, I still found it a bit too long. 
