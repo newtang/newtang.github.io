@@ -16,6 +16,9 @@ Fun read with major characters embodying cities. I'm not sure I liked it as much
 
 Sanderson's first book is a solid debut. Some of the secondary characters are a bit flat, but the primary characters, setting and story arc are a lot of fun. It's a breeze to read through.
 
+<br />
+<br />
+
 ## Non-fiction
 
 #### [![The Anatomy of the Swipe: Making Money Move]({{ site.url }}/assets/books-2022/anatomyOfTheSwipe.jpg){: style="clear:right;margin-left:20px;float:right;width:125px"}](https://www.amazon.com/dp/1641374470/)[The Anatomy of the Swipe: Making Money Move](https://www.amazon.com/dp/1641374470/) by Ahmed Siddiqui
@@ -44,6 +47,6 @@ Although this book uses tennis as an example to illustrate its point, it's not e
 #### [![The Blind Side]({{ site.url }}/assets/books-2022/theBlindSide.jpg){: style="clear:right;margin-left:20px;float:right;width:125px"}](https://www.amazon.com/dp/0679778314)[The Blind Side](https://www.amazon.com/dp/0393330478/) by Michael Lewis
 Lewis is such a fantastic writer. I read two of his books last year which were also great. Not only is the story about left tackle, Michael Oher, incredible, but it weaves together a lot of football history and some social commentary. The movie is good, but the book has so much more rich detail in it. 
 
-#### [![Stubborn Attachments: A Vision for a Society of Free, Prosperous, and Responsible Individuals]({{ site.url }}/assets/books-2022/stubbornAttachments.jpg){: style="clear:right;margin-left:20px;float:right;width:125px"}](https://www.amazon.com/dp/1732265135/)[Stubborn Attachments](https://www.amazon.com/dp/1732265135/) by Tyler Cowen
+#### [![Stubborn Attachments: A Vision for a Society of Free, Prosperous, and Responsible Individuals]({{ site.url }}/assets/books-2022/stubbornAttachments.png){: style="clear:right;margin-left:20px;float:right;width:125px"}](https://www.amazon.com/dp/1732265135/)[Stubborn Attachments](https://www.amazon.com/dp/1732265135/) by Tyler Cowen
 I enjoy [Tyler Cowen's blog](https://marginalrevolution.com/) and several of his books. This one, although not particularly long, is a little bit harder to parse. Basically, he asserts that growth is good (which I agree with) and offers multiple philosophical and economical points of view on the topic.
 
