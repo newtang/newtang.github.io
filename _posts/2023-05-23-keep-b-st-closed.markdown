@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Keep B. St Closed to cars"
+title:  "San Mateo - Keep B. St Closed to Cars"
 date:   2023-05-20 9:30:00 -0800
 categories: sanmateo parklets pedestrian
 ---
