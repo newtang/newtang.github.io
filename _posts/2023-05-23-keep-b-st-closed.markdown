@@ -5,7 +5,7 @@ date:   2023-05-20 9:30:00 -0800
 categories: sanmateo parklets pedestrian
 ---
 
-*In downtown San Mateo, two blocks of B St. have been closed to cars since the pandemic started, and restaurants were able to take advantage of the outdoor space. Generally, people loved it, and it gave new life to the area. Fast forward a couple years, and some mismanagement, and we have one block that's very vibrant, and several restaurants take advantage of the space. Meanwhile, the northern block has a lot of people pass through, but restaurants haven't put out tables and chairs. What follows is my public comment to City Council, urging them to keep both blocks closed. The last couple paragraphs I didn't get to read aloud because I was short on time, but I kept them here. I added a few links where appropriate.*
+*In downtown San Mateo, two blocks of B St. have been closed to cars since the pandemic started, and restaurants were able to take advantage of the outdoor space. Generally, people loved it, and it gave new life to the area. Fast forwarding a couple years, and following some questionable city decisions, the southern block between 2nd and 3rd is very vibrant with several restaurants taking advantage of the outdoor space. Meanwhile, the northern block between 1st and 2nd has a lot of people pass through, but restaurants haven't put out tables and chairs. What follows is my public comment to City Council, urging them to keep both blocks pedestrianized and closed to cars. The last couple paragraphs I didn't get to read aloud because I was short on time, but I kept them here. I added a few links where appropriate.*
 
 ===
 
