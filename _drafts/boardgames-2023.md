@@ -26,6 +26,10 @@ No Thanks has a pretty simple concept behind it. Numeric cards are drawn from a 
 I had first played this many years ago, but I never wrote about it, so it gets a fresh review. This game is very similar to Dominion; you build up a deck of abilities. However, the deck contains heroes which are used to fight monsters, or acquire constructs which can grant abilities. Acension isn't as customizable as Dominion, but as a reault it's a bit quicker to set up, and each turn is a quicker since players only have to scan a few options at their disposal. Great deckbuilding game if you want a twist on Dominion, or find it to cumbersome.
 
 
+#### [![Scythe]({{ site.url }}/assets/boardgames-2023/scythe.jpg){: style="clear:right;margin-left:20px;float:right;width:125px;"}](https://www.amazon.com/dp/B01IPUGYK6/[Scythe](https://www.amazon.com/dp/B01IPUGYK6/)
+
+I heard so many good things about this game, I was excited to try it. It reminds me a little of Risk (territory ownership, and battles), and Terraforming Mars, (several strategies and ways of accumulating points), and even Catan (resource gathering). It took me a few turns to get the hang of it, but it was really fun once I did. Players can take actions that affect their popularity and power, collect or trade resources, possess territory, build structures, and even fight with mechs. Artwork and minifigures are really nice too. Great game!
+
 Control game. I forgot to review it last year.
 
 
