@@ -12,10 +12,6 @@ Wingspan is a beautiful, competitive game where players are trying to collect bi
 #### [![Echoes: The Microchip]({{ site.url }}/assets/boardgames-2023/echoesMicrochip.jpg){: style="clear:right;margin-left:20px;float:right;width:125px;"}](https://www.amazon.com/dp/B09P42ZFVN/)[Echoes: The Microchip](https://www.amazon.com/dp/B09P42ZFVN/)
 I like idea behind Echoes. In this cooperative (or single player) game, players try to piece together a timeline of events by listening to the "echoes" of left behind artifacts depicted on cards. Players use a free phone app, that plays the audio associated with card. There are several stories available, but we only played The Microchip. It's really only playable once, but I got my $10 work of joy out of it. I think the format would lend itself better to a murder/mystery type of story.
 
-
-#### [![Echoes: The Microchip]({{ site.url }}/assets/boardgames-2023/echoesMicrochip.jpg){: style="clear:right;margin-left:20px;float:right;width:125px;"}](https://www.amazon.com/dp/B09P42ZFVN/)[Echoes: The Microchip](https://www.amazon.com/dp/B09P42ZFVN/)
-I like idea behind Echoes. In this cooperative (or single player) game, players try to piece together a timeline of events by listening to the "echoes" of left behind artifacts depicted on cards. Players use a free phone app that plays the audio associated with card. There are several stories available, but we only played The Microchip. It's really only playable once, but I got my $10 worth of joy out of it. I think the format would lend itself better to a murder/mystery type of story.
-
 #### [![No Thanks]({{ site.url }}/assets/boardgames-2023/noThanks.jpg){: style="clear:right;margin-left:20px;float:right;width:125px;"}](https://www.amazon.com/dp/B013FAC4FK/)[No Thanks](https://www.amazon.com/dp/B013FAC4FK/)
 No Thanks has a pretty simple concept behind it. Numeric cards are drawn from a deck, and players can choose if they want to take the card. If not, they must put one of their "No Thanks" tokens on the card. Eventually someone will take the card, along with all the tokens. Players are able to hide adjacent cards in their hand, and the player with the lowest total wins. Quick, clever, good for all ages.
 
@@ -26,10 +22,22 @@ No Thanks has a pretty simple concept behind it. Numeric cards are drawn from a 
 I had first played this many years ago, but I never wrote about it, so it gets a fresh review. This game is very similar to Dominion; you build up a deck of abilities. However, the deck contains heroes which are used to fight monsters, or acquire constructs which can grant abilities. Acension isn't as customizable as Dominion, but as a reault it's a bit quicker to set up, and each turn is a quicker since players only have to scan a few options at their disposal. Great deckbuilding game if you want a twist on Dominion, or find it to cumbersome.
 
 
-#### [![Scythe]({{ site.url }}/assets/boardgames-2023/scythe.jpg){: style="clear:right;margin-left:20px;float:right;width:125px;"}](https://www.amazon.com/dp/B01IPUGYK6/[Scythe](https://www.amazon.com/dp/B01IPUGYK6/)
+#### [![Scythe]({{ site.url }}/assets/boardgames-2023/scythe.jpg){: style="clear:right;margin-left:20px;float:right;width:125px;"}](https://www.amazon.com/dp/B01IPUGYK6/)[Scythe](https://www.amazon.com/dp/B01IPUGYK6/)
 
 I heard so many good things about this game, I was excited to try it. It reminds me a little of Risk (territory ownership, and battles), and Terraforming Mars, (several strategies and ways of accumulating points), and even Catan (resource gathering). It took me a few turns to get the hang of it, but it was really fun once I did. Players can take actions that affect their popularity and power, collect or trade resources, possess territory, build structures, and even fight with mechs. Artwork and minifigures are really nice too. Great game!
 
+
+
+#### [![Tiny Towns]({{ site.url }}/assets/boardgames-2023/tinyTowns.jpg){: style="clear:right;margin-left:20px;float:right;width:125px;"}](https://www.amazon.com/dp/B07L1CPM28/)[Scythe](https://www.amazon.com/dp/B07L1CPM28/)
+
+This is a little like Kingdomino, where you have to construct a town layout. However, this has several extra rules in place for how to organize your city and gain points. Some of the rules for different pieces were a little hard to keep track of, but because of the variety of pieces it has nice replayability. 
+
+#### [![Family Business]({{ site.url }}/assets/boardgames-2023/familyBusiness.jpg){: style="clear:right;margin-left:20px;float:right;width:125px;"}](https://www.amazon.com/dp/B09QX371XX/)[Scythe](https://www.amazon.com/dp/B09QX371XX/)
+
+Fun little game where you control a mobster family, and you try to eliminate other families before your own. Not too complicated. It's a little frustrating if you get eliminated early and you have nothing to do though. Also, the edition we played did not have explanations on the cards so we had to consult the manual a lot. It looks like recent editions have corrected this.
+
+
 Control game. I forgot to review it last year.
+
 
 
