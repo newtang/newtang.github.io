@@ -23,3 +23,10 @@ I don't know what else I can write about Zelda that hasn't already been written.
 *PC*<br/>
 ![Baldur's Gate 3]({{ site.url }}/assets/video-games-2023/baldursGate.jpg)
 Me, my wife, and a couple friends have had a weekly cadence of playing Baldur's Gate together, and we've been steadily working our way through the story. The game is essentially a highly detailed campaign in the Dungeons & Dragons universe. It's not critical to know about D&D, but it's helpful to get acclimated. Anyways, we've had an absolute blast. The writing is really fun, turn-based combat is not overly stressful, and the world is beautiful. There's plenty to explore, and the game has a lot of fun surprises. Even though we're not close to finishing it, I'm actually looking forward to playing it again with another character, making different decisions. 
+
+
+<h4 style="margin:0;">NYT Games</h4>
+*iOS*<br/>
+![NYT Games]({{ site.url }}/assets/video-games-2023/nyt.jpg)
+I've gotten more into crosswords this year. I complete the Mini Crossword everyday (add me as a friend if you do the same!), and I usually do a few of the bigger ones per week. I'm still not very good at the more difficult crosswords later in the week, but I'm gradually getting better. Anyways, this has been a fun time waster for me. I also particularly enjoy Spelling Bee, and yes I still play Wordle. The annual games subscription has been worthwhile.
+
