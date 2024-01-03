@@ -5,7 +5,7 @@ date:   2024-01-02 19:00:00 -0800
 categories: videogames
 ---
 
-
+I didn't get to play too many different games this year. Part of the reason is because I was absorbed with work, tennis, and a never-ending kitchen renovation (which deserves its own post), and a variety of other projects. The other reason is because Zelda is so damn good that it absorbed what little game playing time I had. Anyways, enjoy! 
 
 <h4 style="margin:0;">Taiji</h4>
 *PC*<br/>
@@ -16,7 +16,7 @@ I don't actually remember how this game got on my radar, but I'm glad it did. Th
 <h4 style="margin:0;">The Legend of Zelda: Tears of the Kingdom</h4>
 *Switch*<br/>
 ![The Legend of Zelda: Tears of the Kingdom]({{ site.url }}/assets/video-games-2023/zelda.webp)
-I don't know what else can be written about Zelda that hasn't already been said. Incredible game, a worthwhile sequel to Breath of the Wild. This is a big reason my video games list is a little lacking this year, and likely a reason it'll be lacking next year. Big, beautiful world, with tons of quests, and the building mechanic is a lot of fun to play with. 
+I don't know what else I can write about Zelda that hasn't already been written. It's an incredible game, a worthy successor to [Breath of the Wild]({{site.url}}/posts/video-games-2017). This game is a big reason this post is a little lacking this year, and likely a reason it'll be lacking next year. Just like it's predecessor, it has a stunning, beautiful world, with tons of quests. And the new building mechanic is a lot of fun to play with. 
 
 
 <h4 style="margin:0;">Baldur's Gate 3</h4>
