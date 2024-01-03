@@ -27,6 +27,6 @@ Me, my wife, and a couple friends have had a weekly cadence of playing Baldur's 
 
 <h4 style="margin:0;">NYT Games</h4>
 *iOS*<br/>
-![NYT Games]({{ site.url }}/assets/video-games-2023/nyt.jpg)
+![NYT Games]({{ site.url }}/assets/video-games-2023/nyt.png)
 I've gotten more into crosswords this year. I complete the Mini Crossword everyday (add me as a friend if you do the same!), and I usually do a few of the bigger ones per week. I'm still not very good at the more difficult crosswords later in the week, but I'm gradually getting better. Anyways, this has been a fun time waster for me. I also particularly enjoy Spelling Bee, and yes I still play Wordle. The annual games subscription has been worthwhile.
 
