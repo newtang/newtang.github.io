@@ -36,11 +36,14 @@ This is a little like Kingdomino, where you have to construct a town layout. How
 
 Fun little game where you control a mobster family, and you try to eliminate other families before your own. Not too complicated. It's a little frustrating if you get eliminated early and you have nothing to do though. Also, the edition we played did not have explanations on the cards so we had to consult the manual a lot. It looks like recent editions have corrected this.
 
+#### [![Tokaido: Crossroads]({{ site.url }}/assets/boardgames-2023/tokaidoCrossroads.jpg){: style="clear:right;margin-left:20px;float:right;width:125px;"}](https://www.amazon.com/dp/B00H0DHBAW/)[Tokaido: Crossroads](https://www.amazon.com/dp/B09QX371XX/)
+
+It was quite difficult to get my hands on Tokaido Crossroads expansion last year, but now it appears to be easily available on Amazon. Anyways, this requires the base game, and Crossroads maintains the beautiful style of the original. This expansion is just ok. It gives more choices for the various landmarks, so there's more strategic options, but it slows the game down a bit. I'll probably give it another chance, but I'm not sure the expansion makes Tokaido more fun. 
+
 #### [![Qwixx]({{ site.url }}/assets/boardgames-2023/qwixx.jpg){: style="clear:right;margin-left:20px;float:right;width:125px;"}](https://www.amazon.com/dp/B00J57138C/)[Scythe](https://www.amazon.com/dp/B00J57138C/)
 
 This is a quick, strategic, casual dice game. It's kind of like a simplified, improved version of Yahtzee. 
 
-Control game. I forgot to review it last year.
 
 
 
