@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Kitchen renovation thoughts"
-date:   2024-05-03 20:30:00 -0800
+date:   2024-05-04 20:30:00 -0800
 categories: kitchen remodeling renovation
 ---
 
