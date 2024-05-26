@@ -20,7 +20,12 @@ This is a small, cooperative card game where each person has a set of tunnels, a
 An interesting, competitive card game. There's a thin story veneer where each player runs a rival circus, and tries to either put on the best act or scout another circus' performer. It's not really that important to how the game works. Each player has a hand of cards, and each card has different numbers at thet top and bottom, and the order of the hand cannot change except at the beginning of play. Players try to put down straights or matching combinations, while other attempt to beat it or take (scout) cards. It's a pretty fun mechanic! 
 
 
+#### [![Gelatinous]({{ site.url }}/assets/boardgames-2024/gelatinous.jpg){: style="clear:right;margin-left:20px;float:right;width:125px;"}](https://www.amazon.com/dp/B09M8ZPDZ9/)[Gelatinous](https://www.amazon.com/dp/B09M8ZPDZ9/)
+A quick, silly dice game where players try to roll 3s and be the first to build their "gelatinous cube" out of their green dice. It's not exactly a game that game night would revolve around, but it's a fun appetizer. 
 
 
+#### [![Beacon Patrol]({{ site.url }}/assets/boardgames-2024/beaconPatrol.jpg){: style="clear:right;margin-left:20px;float:right;width:125px;"}](https://www.amazon.com/dp/B0C6NPQ7B1/)[Beacon Patrol](https://www.amazon.com/dp/B0C6NPQ7B1/)
+
+Roughly speaking, this game looks is cooperative water-based Carcasonne. Players assemble waterways and coastline together. The goal is to max out the number of points by surrounding tiles on all sides, with bonuses given for tiles with lighthouses or buoys. Lighthearted and straightforward.
 
 
