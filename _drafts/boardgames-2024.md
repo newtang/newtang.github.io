@@ -29,3 +29,10 @@ A quick, silly dice game where players try to roll 3s and be the first to build 
 Roughly speaking, this game looks is cooperative water-based Carcasonne. Players assemble waterways and coastline together. The goal is to max out the number of points by surrounding tiles on all sides, with bonuses given for tiles with lighthouses or buoys. Lighthearted and straightforward.
 
 
+
+
+#### [![Exit the Game]({{ site.url }}/assets/boardgames-2024/exitTheGame.jpg){: style="clear:right;margin-left:20px;float:right;width:125px;"}](https://www.amazon.com/dp/B08TX1HTT5/)[Exit the Game](https://www.amazon.com/dp/B08TX1HTT5/)
+
+I played a couple Exit games this year with friends, [Kidnapped in Fortune City](https://www.amazon.com//dp/B08TX1HTT5) and [The Disappearance of Sherlock Holmes](https://www.amazon.com//dp/B0BSHJBWRJ). They're pretty fun, and take roughly 2 hour or so to complete. These games are non-reusable; players usually need to make cuts, folds, or marks on the materials, which means they're  one and done. Each game has different difficulty ratings, and the ones we played were 3 and 3.5 out 5 difficulty. The storyline is pretty fun, and our games had a mixed bag of puzzles; some are straightforward, some are quite clever, and occasionally there's one that's a bit cumbersome. But, I defintely felt like I got $15 worth of joy for an evening. 
+
+
