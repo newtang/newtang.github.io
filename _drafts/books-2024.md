@@ -21,3 +21,28 @@ I loved this deep future sci-fi. Chambers does a fantastic job imagining and doc
 
 ## Non-fiction
 
+#### [![Code: The Hidden Language of Computer Hardware and Software]({{ site.url }}/assets/books-2024/code.jpg){: style="clear:right;margin-left:20px;float:right;width:125px"}](https://www.amazon.com//dp/0137909101/)[Code: The Hidden Language of Computer Hardware and Software](https://www.amazon.com//dp/0137909101/) by Charles Petzold
+
+I don't remember how this book got on my radar, but I really enjoyed about the first third of this book. It covered the history of communication and how certain "codes" work like Braille, Morse Code, and even QR codes. Then it got into the meat of the content: logic gates, telegraphs, and basic circuitry, which was excellent. As the book progressed into more complex circuitry, I personally found it more difficult to follow as a casual reader.  
+
+
+#### [![Build, Baby, Build: The Science and Ethics of Housing Regulation]({{ site.url }}/assets/books-2024/build.jpg){: style="clear:right;margin-left:20px;float:right;width:125px"}](https://www.amazon.com//dp/1952223415/)[Build, Baby, Build: The Science and Ethics of Housing Regulation](https://www.amazon.com//dp/1952223415/) by Bryan Caplan 
+
+Economist Bryan Caplan teams up illustrator Ady Branzei in this graphic novel to make the case for more housing. 
+As someone who's been in the pro-housing movement for years, I didn't find anything too surprising in this book. But, it was still an enjoyable read, and I appreciated the effort to give perspectives from different political and philosophical view points. I think this is a great book for those how are curious about housing crisis, and interested in the pro-housing movement.  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
