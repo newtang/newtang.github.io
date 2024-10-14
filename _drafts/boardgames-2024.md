@@ -29,10 +29,17 @@ A quick, silly dice game where players try to roll 3s and be the first to build 
 Roughly speaking, this game looks is cooperative water-based Carcasonne. Players assemble waterways and coastline together. The goal is to max out the number of points by surrounding tiles on all sides, with bonuses given for tiles with lighthouses or buoys. Lighthearted and straightforward.
 
 
-
-
 #### [![Exit the Game]({{ site.url }}/assets/boardgames-2024/exitTheGame.jpg){: style="clear:right;margin-left:20px;float:right;width:125px;"}](https://www.amazon.com/dp/B08TX1HTT5/)[Exit the Game](https://www.amazon.com/dp/B08TX1HTT5/)
 
 I played a couple Exit games this year with friends, [Kidnapped in Fortune City](https://www.amazon.com//dp/B08TX1HTT5) and [The Disappearance of Sherlock Holmes](https://www.amazon.com//dp/B0BSHJBWRJ). They're pretty fun, and take roughly 2 hour or so to complete. These games are non-reusable; players usually need to make cuts, folds, or marks on the materials, which means they're  one and done. Each game has different difficulty ratings, and the ones we played were 3 and 3.5 out 5 difficulty. The storyline is pretty fun, and our games had a mixed bag of puzzles; some are straightforward, some are quite clever, and occasionally there's one that's a bit cumbersome. But, I defintely felt like I got $15 worth of joy for an evening. 
+
+#### [![Magic Puzzle]({{ site.url }}/assets/boardgames-2024/magicPuzzle.jpg){: style="clear:right;margin-left:20px;float:right;width:125px;"}](https://www.amazon.com/dp/B098YWXXV7/)[Magic Puzzle](https://www.amazon.com/dp/B098YWXXV7/)
+
+This isn't a board game, but I'm going to write about it anyways. The Magic Puzzle company churns out some amazing jigsaw puzzles. The artwork is brilliant and fun to explore. The quality of the pieces and the packaging is top notch. The puzzles (at least the ones I did), had a variety of fun, quirky piece shapes. It includes a game to find certain objects within the puzzle. And, there's also a secret to unveil at the conclusion of the puzzle! Probably the most fun I've had constructing a jigsaw puzzle.
+
+#### [![Courtisans]({{ site.url }}/assets/boardgames-2024/courtisans.webp){: style="clear:right;margin-left:20px;float:right;width:125px;"}](https://www.amazon.com/dp/B098YWXXV7/)[Magic Puzzle](https://www.amazon.com/dp/B098YWXXV7/)
+
+In this quick, 30 minute game, players draw 3 cards of different houses. With each card they must opt to put one card in positive/negative graces, hold one card, and give one card to another player. Players earn points at the end if they possess cards of houses in good standing. There are also some secretinve cards that are played face down, and other cards that facilitate eliminating other cards.  The game mechanic essentially allows for alliances, backstabbing, etc. It's pretty fun! Also the cards are beautiful. 
+
 
 
