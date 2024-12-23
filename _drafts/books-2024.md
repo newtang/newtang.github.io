@@ -17,6 +17,16 @@ Another fun Sanderson read. He's very adept at crafting magic systems and mixing
 I loved this deep future sci-fi. Chambers does a fantastic job imagining and documenting the different cultures of multiple intelligent species, and the awkward difficulties of intermingling. This adventure follows Rosemary as she joins the crew of the Wayfarer, an aging interplanetary ship that tunnels wormholes. Great characters and a compelling storyline. The first in a series.
 
 
+#### [![Shades of Grey and Red Side Story]({{ site.url }}/assets/books-2024/B002UXRF6M.jpg){: style="clear:right;margin-left:20px;float:right;width:125px"}](https://www.amazon.com/dp/B002UXRF6M/)[Shades of Grey and Red Side Story](https://www.amazon.com/dp/B002UXRF6M/) by Jasper Fforde
+
+I first read Shades of Grey around 10 years ago; well before I started writing these blog posts. I don't remember who recommended it to me (if you're reading this, remind me!), but it contained an incredible, imaginative dystopian world full of mysteries and unanswered questions. As the years went by, it felt destined to be yet another great sci-fi/fantasy series that would remain incomplete. Well, fast forward to 2024, and much to my surprise a sequel is released! Red Side Story picks up exactly where Shades of Grey leaves off.
+
+Anyways, great writing, and an imaginative world where residents live in a caste system based on their limited color perception. There's a few characters that fall flat for me, but there are several that are really interesting. 
+
+Apparently, [there is a 3rd book planned in a few years](https://x.com/jasperfforde/status/1762125845814989186).
+
+
+
 
 
 ## Non-fiction
@@ -34,13 +44,13 @@ As someone who's been in the pro-housing movement for years, I didn't find anyth
 
 #### [![A City on Mars: Can we settle space, should we settle space, and have we really thought this through?]({{ site.url }}/assets/books-2024/aCityOnMars.jpg){: style="clear:right;margin-left:20px;float:right;width:125px"}](https://www.amazon.com/dp/1984881728/)[A City on Mars](https://www.amazon.com/dp/1984881728/) by Kelly and Zach Weinersmith
 
-A really in depth look at the challenges that need to be tackled in order to build a sustainable city on Mars. The book covers everything from pregnancy to political challenges, mixed with trademark Weinersmith (author and cartoonist of Saturday Morning Breakfast Cereal) humor. Somewhat surprisingly, the book is actually pretty pessimistic, about settling Mars in the near term. But, it's clear from their exhaustive research, that that appears to be the only sensible conclusion. A fantastic education, and hilarious read!
+A really in depth look at the challenges that need to be tackled in order to build a sustainable city on Mars. The book covers everything from pregnancy to political challenges, mixed with trademark Weinersmith (author and cartoonist of [Saturday Morning Breakfast Cereal](https://www.smbc-comics.com/)) humor. Somewhat surprisingly, the book is actually pretty pessimistic, about settling Mars in the near term. But, it's clear from their exhaustive research, that that appears to be the only sensible conclusion. A fantastic education, and hilarious read!
 
 
+#### [![Going Infinite: The Rise and Fall of a New Tycoon]({{ site.url }}/assets/books-2024/code.jpg){: style="clear:right;margin-left:20px;float:right;width:125px"}](https://www.amazon.com/dp/1324074337/)[Going Infinite](https://www.amazon.com/dp/1324074337/) by Michael Lewis
 
-
-
-
+This book chronicles Sam Bankman-Fried's life, then the creation and fall of FTX, the cryptocurrency company he founded. Lewis is an outstanding writer; his work is typically so accessible and fun to read, and this is no exception. Going Infinite supplies a compelling glimpse into SBF's mind and thought process, and what ultimately went wrong at FTX. I think I prefered Lewis' other works like Moneyball or the Big Short, but this is still a great read. 
+	
 
 
 

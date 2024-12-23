@@ -37,9 +37,24 @@ I played a couple Exit games this year with friends, [Kidnapped in Fortune City]
 
 This isn't a board game, but I'm going to write about it anyways. The Magic Puzzle company churns out some amazing jigsaw puzzles. The artwork is brilliant and fun to explore. The quality of the pieces and the packaging is top notch. The puzzles (at least the ones I did), had a variety of fun, quirky piece shapes. It includes a game to find certain objects within the puzzle. And, there's also a secret to unveil at the conclusion of the puzzle! Probably the most fun I've had constructing a jigsaw puzzle.
 
-#### [![Courtisans]({{ site.url }}/assets/boardgames-2024/courtisans.webp){: style="clear:right;margin-left:20px;float:right;width:125px;"}](https://www.amazon.com/dp/B098YWXXV7/)[Magic Puzzle](https://www.amazon.com/dp/B098YWXXV7/)
+#### [![Courtisans]({{ site.url }}/assets/boardgames-2024/courtisans.webp){: style="clear:right;margin-left:20px;float:right;width:125px;"}](https://www.amazon.com/dp/B098YWXXV7/)[Courtisans](https://www.amazon.com/dp/B098YWXXV7/)
 
 In this quick, 30 minute game, players draw 3 cards of different houses. With each card they must opt to put one card in positive/negative graces, hold one card, and give one card to another player. Players earn points at the end if they possess cards of houses in good standing. There are also some secretinve cards that are played face down, and other cards that facilitate eliminating other cards.  The game mechanic essentially allows for alliances, backstabbing, etc. It's pretty fun! Also the cards are beautiful. 
 
+
+#### [![Smug Owls]({{ site.url }}/assets/boardgames-2024/smugOwls.webp){: style="clear:right;margin-left:20px;float:right;width:125px;"}](https://boardgamegeek.com/boardgame/393343/smug-owls)[Smug Owls](https://boardgamegeek.com/boardgame/393343/smug-owls)
+
+In this fun party game cards are drawn that form a riddle, and the players have to think of an appropriate answer. The last person is the judge and doles out points. I enjoyed this one a lot. There's some randomness, but the creativity really comes from the players as opposed to hoping you have a funny card in your hand like in Cards Against Humanity or Joking Hazard. The judge also has the flexibiltiy of giving out 3 points however they see fit, whether its all to one person, or split amongst others. Clever!
+
+
+#### [![Everyone Else Thinks Game is Awesome]({{ site.url }}/assets/boardgames-2024/everyoneElse.webp){: style="clear:right;margin-left:20px;float:right;width:125px;"}](https://boardgamegeek.com/image/6331414/everyone-else-thinks-this-game-is-awesome)[Everyone Else Thinks Game is Awesome](https://boardgamegeek.com/image/6331414/everyone-else-thinks-this-game-is-awesome)
+
+This is a trivia game, that's probably a little more fun than Trivial Pursuit, and has a theme of climbing the ladder in academia. All player get to answer all the questions, so you're not just waiting around for your turn. But, some of the token mechanics are a little slow and clumsy. A solid trivia game nonetheless!
+
+
+
+#### [![Don't Get Got]({{ site.url }}/assets/boardgames-2024/dontGetGot.jpg){: style="clear:right;margin-left:20px;float:right;width:125px;"}](https://www.amazon.com/dp/B093QH1TRH/)[Don't Get Got](https://www.amazon.com/dp/B093QH1TRH/)
+
+A fun party game where everyone gets random secret missions like "Get someone to say sugar" or "Hide this under food and get someone to reveal it." This is a fun bonus activity for a multiday excursion.
 
 
