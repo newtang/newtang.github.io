@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Books I read in 2024"
-date:   2024-01-10 20:30:00 -0800
+date:   2025-01-03 13:30:00 -0800
 categories: books
 ---
 
