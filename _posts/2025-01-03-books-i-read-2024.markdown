@@ -19,9 +19,9 @@ I loved this deep future sci-fi. Chambers does a fantastic job imagining and doc
 
 #### [![Shades of Grey and Red Side Story]({{ site.url }}/assets/books-2024/shadesOfGrey.jpg){: style="clear:right;margin-left:20px;float:right;width:125px"}](https://www.amazon.com/dp/B002UXRF6M/)[Shades of Grey and Red Side Story](https://www.amazon.com/dp/B002UXRF6M/) by Jasper Fforde
 
-I first read Shades of Grey around 10 years ago; well before I started writing these blog posts. I don't remember who recommended it to me (if you're reading this, remind me!), but it contained an incredible, imaginative dystopian world full of mysteries and unanswered questions. As the years went by, it felt destined to be yet another great sci-fi/fantasy series that would remain incomplete. Well, fast forward to 2024, and much to my surprise, a sequel is released! Red Side Story picks up from the moment where Shades of Grey leaves off.
+I first read Shades of Grey around 10 years ago; well before I started writing these blog posts. I don't remember who recommended it to me (if you're reading this, remind me!), but it contained a dystopian world full of mysteries and unanswered questions. As the years went by, it felt destined to be yet another great sci-fi/fantasy series that would remain incomplete. Well, fast forward to 2024, and much to my surprise, a sequel is released! Red Side Story picks up from the moment where Shades of Grey leaves off.
 
-Anyways, great writing, and an imaginative world where residents live in a caste system based on their limited color perception. There's a few characters that fall flat for me, but there are several that are really interesting. 
+Just like its predeccessor, Red Side Story has great writing and an imaginative world where residents live in a caste system based on their limited color perception. There's a few characters that fall flat for me, but there are several that are really interesting. 
 
 Apparently, [there is a 3rd book planned in a few years](https://x.com/jasperfforde/status/1762125845814989186).
 
@@ -30,7 +30,7 @@ Apparently, [there is a 3rd book planned in a few years](https://x.com/jasperffo
 
 #### [![Code: The Hidden Language of Computer Hardware and Software]({{ site.url }}/assets/books-2024/code.jpg){: style="clear:right;margin-left:20px;float:right;width:125px"}](https://www.amazon.com/dp/0137909101/)[Code: The Hidden Language of Computer Hardware and Software](https://www.amazon.com/dp/0137909101/) by Charles Petzold
 
-I don't remember how this book got on my radar, but I really enjoyed about the first third of this book. It covered the history of communication and how certain "codes" work like Braille, Morse Code, and even QR codes. Then it got into the meat of the content: logic gates, telegraphs, and basic circuitry, which was excellent. As the book progressed into more complex circuitry, I personally found it more difficult to follow as a casual reader.  
+I don't remember how this book got on my radar, but I really enjoyed about the first third of this book. It covered the history of communication and how certain "codes" work like Braille, Morse Code, and even QR codes. Then it got into the meat of the content: logic gates, telegraphs, and basic circuitry, which was excellent. As the book progressed into more complex circuitry, I personally found it more difficult to follow as a casual reader. 
 
 
 #### [![Build, Baby, Build: The Science and Ethics of Housing Regulation]({{ site.url }}/assets/books-2024/build.jpg){: style="clear:right;margin-left:20px;float:right;width:125px"}](https://www.amazon.com/dp/1952223415/)[Build, Baby, Build: The Science and Ethics of Housing Regulation](https://www.amazon.com/dp/1952223415/) by Bryan Caplan 
