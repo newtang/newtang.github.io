@@ -7,16 +7,24 @@ categories: books
 
 ## Fiction
 
-#### [![The Way of Kings]({{ site.url }}/assets/books-2025/wayOfKings.jpg){: style="clear:right;margin-left:20px;float:right;width:125px"}](https://www.amazon.com/dp/0765376679/)[The Way of Kings](https://www.amazon.com/dp/0765376679/) by Brandon Sanderson
+I didn't get through too many books this year, I'm afraid. Some combination of work, tennis, and too many video games ate into my reading time. I'll try again next year!
 
-This is the first book of the Stormlight Archive; I believe this is currently a five book series with more on the way. Anyways, I've heard others claim that this is Sanderson's best series, and I can see why. The book follows several characters, most notably Kaladin, in war with a world with a mysterious history, and several factions aiming to gain advantage. All in a setting containing advanced ancient weaponry, and a weakly understood magic system that a handful are able to wield. Terrific book. Hoping to read more this year!
+#### [![The Way of Kings and Words of Radiance]({{ site.url }}/assets/books-2025/wayOfKings.jpg){: style="clear:right;margin-left:20px;float:right;width:125px"}](https://www.amazon.com/dp/0765376679/)[The Way of Kings](https://www.amazon.com/dp/0765376679/) by Brandon Sanderson
+
+I read the first two books of the Stormlight Archive: The Way of Kings and Words of Radiance. I believe this is currently a five book series with more on the way. Anyways, I've heard others claim that this is Sanderson's best series, and I can see why. The book follows several characters, most notably Kaladin, in war with a world with a mysterious history, and several factions aiming to gain advantage. This takes place in a setting containing advanced ancient weaponry, and a weakly understood magic system that a handful are able to wield. Really fun, page-turning fiction. Hoping to read more this year!
 
 
 
 ## Non-fiction
 
+#### [![Revenge of the Tipping Point]({{ site.url }}/assets/books-2025/revengeOfTheTippingPoint.jpg){: style="clear:right;margin-left:20px;float:right;width:125px"}](https://www.amazon.com/dp/0316575801/)[Revenge of the Tipping Point](https://www.amazon.com/dp/0316575801/) by Malcolm Gladwell
 
-        - [ ] Revenge of the Tipping Point
+I enjoy these kind of pop-psych books that Gladwell writes. They're fun to read, and I don't always agree with the conclusions he draws, but there are always some interesting anecdotes and thought provoking stories.
+
+#### [![Order without Design: How Markets Shape Cities]({{ site.url }}/assets/books-2025/orderWithoutDesign.jpg){: style="clear:right;margin-left:20px;float:right;width:125px"}](https://www.amazon.com/dp/0262550970/)[Revenge of the Tipping Point](https://www.amazon.com/dp/0262550970/) by Alain Bertaud
+
+The author chatted at Stripe earlier this year and was pretty interesting, so I picked up his book. <em>Order without Design</em> explores the intersection of market economics and urban planning. It's a bit wonkish at times which made it difficult to read casually after a long work day. But, with some downtime around the holiday, I enjoyed spending several hours reading through it. The chapter on housing was particularly compelling.
+        
 
 
 

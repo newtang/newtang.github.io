@@ -10,9 +10,32 @@ I did not have a video games post in 2024! When I did game, it was mostly Tears 
 <h4 style="margin:0;">Chants of Senaar</h4>
 *Switch*<br/>
 ![Chants of Senaar]({{ site.url }}/assets/video-games-2025/chantsOfSenaar.jpg)
-Chants of Senaar is a single player game where the player has to solve puzzles and translate the  languages of the different groups living in the tower. There are clues scattered throughout. The bold, cell-shaded graphical style is really unique.
+Chants of Senaar is a clever, single player game where the player has to solve puzzles and translate the languages of the different groups living in the tower. There are clues scattered throughout. The bold, cell-shaded graphical style is really unique. 
 
 <h4 style="margin:0;">Inscryption</h4>
 *PC*<br/>
 ![Inscryption]({{ site.url }}/assets/video-games-2025/inscryption.jpg)
-Inscryption is a kind of a bizarre rogue-like card game, where the player is in captivity playing for their life. The room can be explored and can affect game play.
+Inscryption is a creepy, bizarre rogue-like card game, where the player is in captivity playing for their life. The room can be explored and can affect game play. At first glance it looks like there's not much more to the game than the card game (which is really good), but it goes much deeper and gets weird. It's fun!
+
+<h4 style="margin:0;">Super Mario Odyssey</h4>
+*Switch*<br/>
+![Super Mario Odyssey]({{ site.url }}/assets/video-games-2025/marioOdyssey.jpg)
+I didn't play Mario Odyssey when it first came out, but it is fantastic. The main premise is that you have a cap that lets you take over characters/enemies in the game to solve typical Mario-style puzzles. A really great game to chill out to. Super fun!
+
+<h4 style="margin:0;">Divinity: Original Sin 2</h4>
+*PC*<br/>
+![Divinity: Original Sin 2]({{ site.url }}/assets/video-games-2025/divinityOriginalSin2.jpg)
+Divinity is a 2017 title from Larian, the creators of Baldur's Gate 3. It's easy to see how this is sort of the precursor; there are fewer cinematics and detailed closeups of the characters. There are fewer actions. But, the dialog, combat, and plot are all great. I'm playing this multiplayer with friends and we're having a blast. It also runs well on my older PC. Be careful with some undermaintained mods; we added a mod that was supposed to give the entire team the bartering stats of the best barterer, but, it totally borked selling goods to the point where it was impossible to get a fair price. 
+
+
+<h4 style="margin:0;">The Case of the Golden Idol</h4>
+*Switch*<br/>
+![The Case of the Golden Idol]({{ site.url }}/assets/video-games-2025/goldenIdol.jpg)
+This is a lot like <em>Obra Dinn</em>. The player is presented with a scene involving various people and clues, and must deduce what happened (for example, a murder). You’re given a sentence with blanks that describes the scene, and you fill in the correct names and objects. It’s fun! It’s technically a single-player game, but Liz and I play it co-op style.
+
+<h4 style="margin:0;">Hades II</h4>
+*Switch*<br/>
+![Hades 2]({{ site.url }}/assets/video-games-2025/hadesII.jpg)
+If you enjoyed the first Hades, you'll love the second installment. This time, you play as Melinoë, Zagreus's sister trying to overthrow the rule of Chronos. There's a lot of the same characters from the original as well as lot of new ones. The combat and the storyline are both fantastic. Without getting into spoilers, the game universe feels much bigger than the first one.
+
+
