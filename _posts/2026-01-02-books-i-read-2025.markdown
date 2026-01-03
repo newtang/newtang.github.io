@@ -21,7 +21,7 @@ I read the first two books of the Stormlight Archive: <em>The Way of Kings</em> 
 
 I enjoy these kind of pop-psych books that Gladwell writes. They're fun to read, and I don't always agree with the conclusions he draws, but there are always some interesting anecdotes and thought provoking stories.
 
-#### [![Order without Design: How Markets Shape Cities]({{ site.url }}/assets/books-2025/orderWithoutDesign.jpg){: style="clear:right;margin-left:20px;float:right;width:125px"}](https://www.amazon.com/dp/0262550970/)[Revenge of the Tipping Point](https://www.amazon.com/dp/0262550970/) by Alain Bertaud
+#### [![Order without Design: How Markets Shape Cities]({{ site.url }}/assets/books-2025/orderWithoutDesign.jpg){: style="clear:right;margin-left:20px;float:right;width:125px"}](https://www.amazon.com/dp/0262550970/)[Order without Design: How Markets Shape Cities](https://www.amazon.com/dp/0262550970/) by Alain Bertaud
 
 The author chatted at Stripe earlier this year and was pretty interesting, so I picked up his book. <em>Order without Design</em> explores the intersection of market economics and urban planning. It's a bit wonkish at times which made it difficult to read casually after a long work day. But, with some downtime around the holiday, I enjoyed spending several hours reading through it. The chapter on housing was particularly compelling.
         
