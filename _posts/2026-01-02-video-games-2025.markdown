@@ -1,11 +1,11 @@
 ---
 layout: post
 title:  "Video games of 2025"
-date:   2024-01-02 19:00:00 -0800
+date:   2026-01-02 21:20:00 -0500
 categories: videogames
 ---
 
-I did not have a video games post in 2024! When I did game, it was mostly Tears of the Kingdom, Baldur's Gate, and NYT Games, all of which I wrote about in my 2023 post.
+I did not have a video games post in 2024! When I did game, it was mostly Tears of the Kingdom, Baldur's Gate, and NYT Games, all of which [I wrote about in my 2023 post]({{site.url}}/posts/video-games-2023).
 
 <h4 style="margin:0;">Chants of Senaar</h4>
 *Switch*<br/>
@@ -25,7 +25,7 @@ I didn't play Mario Odyssey when it first came out, but it is fantastic. The mai
 <h4 style="margin:0;">Divinity: Original Sin 2</h4>
 *PC*<br/>
 ![Divinity: Original Sin 2]({{ site.url }}/assets/video-games-2025/divinityOriginalSin2.jpg)
-Divinity is a 2017 title from Larian, the creators of Baldur's Gate 3. It's easy to see how this is sort of the precursor; there are fewer cinematics and detailed closeups of the characters. There are fewer actions. But, the dialog, combat, and plot are all great. I'm playing this multiplayer with friends and we're having a blast. It also runs well on my older PC. Be careful with some undermaintained mods; we added a mod that was supposed to give the entire team the bartering stats of the best barterer, but, it totally borked selling goods to the point where it was impossible to get a fair price. 
+Divinity is a 2017 title from Larian, the creators of Baldur's Gate 3. It's easy to see how this is sort of the precursor; there are fewer cinematics and detailed closeups of the characters. There are fewer actions. But, the dialog, combat, and plot are all great. I'm playing this multiplayer with friends and we're having a blast. It also runs well on my older PC. Be careful with some under-maintained mods; we added a mod that was supposed to give the entire team the bartering stats of the best barterer, but, it totally borked selling goods to the point where it was impossible to get a fair price. 
 
 
 <h4 style="margin:0;">The Case of the Golden Idol</h4>
