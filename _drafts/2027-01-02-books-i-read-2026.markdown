@@ -1,0 +1,41 @@
+---
+layout: post
+title:  "Books I read in 2026"
+date:   2027-01-02 21:00:00 -0500
+categories: books
+---
+
+## Fiction
+
+
+#### [![Oathbringer]({{ site.url }}/assets/books-2026/oathbringer.jpg){: style="clear:right;margin-left:20px;float:right;width:125px"}](https://www.amazon.com/dp/1250297141/)[Oathbringer](https://www.amazon.com/dp/1250297141/) by Brandon Sanderson
+
+This is the third book of the Stormlight Archive and it is looooong. It's also very heavy on lore, and I frequently had to look up who or what they're talking about. The last 15% or so is very compelling, but it really felt like a slog to get there. I'm probably going to take a break from Stormlight. 
+
+
+## Non-fiction
+
+    - [ ] Life After Cars
+
+Manager book
+
+Bill Cowher
+
+
+
+
+#### [![Life After Cars]({{ site.url }}/assets/books-2026/lifeAfterCars.jpg){: style="clear:right;margin-left:20px;float:right;width:125px"}](https://www.amazon.com/dp/0593850726/)[Life After Cars](https://www.amazon.com/dp/0593850726/) by Sarah Goodyear, Doug Gordon, Aaron Naparstek
+
+Add description
+
+#### [![The Making of a Manager]({{ site.url }}/assets/books-2026/makingOfAManager.jpg){: style="clear:right;margin-left:20px;float:right;width:125px"}](https://www.amazon.com/dp/0735219567/)[The Making of a Manager](https://www.amazon.com/dp/0735219567/) by Julie Zhuo
+
+Add description
+
+#### [![Heart and Steel]({{ site.url }}/assets/books-2026/heartAndSteel.jpg){: style="clear:right;margin-left:20px;float:right;width:125px"}](https://www.amazon.com/dp/1982175796/)[Heart and Steel](https://www.amazon.com/dp/1982175796/) by Bill Cowher
+
+I was pleasantly surprised by how much I enjoyed Bill Cowher's autobiography. As with most autobiographies, there's likely some light revisionist history, or some uncomfortable details left out. But, generally I found his perspective genuine, and it was fun to relive some Steelers memories from the 90s and early 2000s. I think I enjoyed his perspectives on leadership and management even more than the insights from Steeler seasons. A must read for a Steelers fan!
+
+
+
+
